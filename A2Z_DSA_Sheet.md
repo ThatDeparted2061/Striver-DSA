@@ -95,7 +95,7 @@
 
 ### 3. Solve Problems on Arrays [Easy → Medium → Hard]
 
-**Problems: 40**
+**Problems: 64**
 
 | # | Problem Name | Platform | Difficulty |Link| ⭐ Fav | Notes |
 |---|---|---|---|---|---|---|
@@ -139,6 +139,30 @@
 | 38 | 38. Rearrange Array Alternately | GFG | Medium || ☐ | |
 | 39 | 39. Largest Subarray with 0 Sum | GFG | Medium |[Solve](https://leetcode.com/problems/binary-subarrays-with-sum/)| ☐ | |
 | 40 | 40. Subarray with Given XOR | GFG | Hard || ☐ | |
+| 41 | 41. 01 Matrix | LeetCode | Medium |[Solve](https://leetcode.com/problems/01-matrix/)| ☐ | |
+| 42 | 42. Asteroid Collision | LeetCode | Medium |[Solve](https://leetcode.com/problems/asteroid-collision/)| ☐ | |
+| 43 | 43. Combination Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/combination-sum/)| ☐ | |
+| 44 | 44. Count And Say | LeetCode | Medium |[Solve](https://leetcode.com/problems/count-and-say/)| ☐ | |
+| 45 | 45. Count Good Numbers | LeetCode | Hard |[Solve](https://leetcode.com/problems/count-good-numbers/)| ☐ | |
+| 46 | 46. Count Primes | LeetCode | Medium |[Solve](https://leetcode.com/problems/count-primes/)| ☐ | |
+| 47 | 47. Find A Peak Element Ii | LeetCode | Medium |[Solve](https://leetcode.com/problems/find-a-peak-element-ii/)| ☐ | |
+| 48 | 48. Find Eventual Safe States | LeetCode | Medium |[Solve](https://leetcode.com/problems/find-eventual-safe-states/)| ☐ | |
+| 49 | 49. Frequency Of The Most Frequent Element | LeetCode | Medium |[Solve](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)| ☐ | |
+| 50 | 50. Longest Consecutive Sequence | LeetCode | Medium |[Solve](https://leetcode.com/problems/longest-consecutive-sequence/)| ☐ | |
+| 51 | 51. Longest Happy Prefix | LeetCode | Hard |[Solve](https://leetcode.com/problems/longest-happy-prefix/)| ☐ | |
+| 52 | 52. Most Stones Removed With Same Row Or Column | LeetCode | Medium |[Solve](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| ☐ | |
+| 53 | 53. Number Of Enclaves | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-enclaves/)| ☐ | |
+| 54 | 54. Number Of Ways To Arrive At Destination | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)| ☐ | |
+| 55 | 55. Parsing A Boolean Expression | LeetCode | Hard |[Solve](https://leetcode.com/problems/parsing-a-boolean-expression/)| ☐ | |
+| 56 | 56. Path With Minimum Effort | LeetCode | Medium |[Solve](https://leetcode.com/problems/path-with-minimum-effort/)| ☐ | |
+| 57 | 57. Powx N | LeetCode | Medium |[Solve](https://leetcode.com/problems/powx-n/)| ☐ | |
+| 58 | 58. Remove K Digits | LeetCode | Medium |[Solve](https://leetcode.com/problems/remove-k-digits/)| ☐ | |
+| 59 | 59. Roman To Integer | LeetCode | Easy |[Solve](https://leetcode.com/problems/roman-to-integer/)| ☐ | |
+| 60 | 60. Shortest Common Supersequence | LeetCode | Hard |[Solve](https://leetcode.com/problems/shortest-common-supersequence/)| ☐ | |
+| 61 | 61. Spiral Matrix | LeetCode | Medium |[Solve](https://leetcode.com/problems/spiral-matrix/)| ☐ | |
+| 62 | 62. Sum Of Beauty Of All Substrings | LeetCode | Medium |[Solve](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)| ☐ | |
+| 63 | 63. Triangle | LeetCode | Medium |[Solve](https://leetcode.com/problems/triangle/)| ☐ | |
+| 64 | 64. Word Search | LeetCode | Medium |[Solve](https://leetcode.com/problems/word-search/)| ☐ | |
 
 ### 4. Binary Search [1D, 2D Arrays, Search Space]
 
