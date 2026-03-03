@@ -1,452 +1,56 @@
 # Striver's A2Z DSA Sheet - Complete Problem List
 
-> **📌 ARCHIVE NOTICE**: Sheet preserved from TakeUForward - all links point directly to official TakeUForward practice pages
+> **📌 ARCHIVE NOTICE**: All links below are from TakeUForward's **Practice Column** (Solve button)  
+> These are the actual practice problem links that will be accessible for solving.
 
-## 🔗 All Links from TakeUForward
+## 📚 Learn the Basics Section (31 Problems)
 
-All problem links below are **direct links to TakeUForward practice pages** extracted from the official A2Z DSA Sheet.
-
----
-
-## 📋 Learn the Basics - Complete
-
-### 1. Learn the Basics
-
-| # | Problem | Link | ⭐ |
-|---|---------|------|-------|
-| 1 | Input Output | [Go](https://takeuforward.org/c/c-basic-input-output/) | ☐ |
-| 2 | Cpp Basics | [Go](https://takeuforward.org/data-structure/what-are-arrays-strings) | ☐ |
-| 3 | If ElseIf | [Go](https://takeuforward.org/if-else/if-else-statements/) | ☐ |
-| 4 | Switch Case | [Go](https://takeuforward.org/switch-case/switch-case-statements/) | ☐ |
-| 5 | What are arrays, strings? | [Go](https://takeuforward.org/data-structure/what-are-arrays-strings) | ☐ |
-| 6 | For loops | [Go](https://takeuforward.org/for-loop/understanding-for-loop/) | ☐ |
-| 7 | While loops | [Go](https://takeuforward.org/while-loop/while-loops-in-programming/) | ☐ |
-| 8 | Functions (Pass by Reference and Value) | [Go](https://takeuforward.org/data-structure/functions-pass-by-reference-and-value) | ☐ |
-| 9 | Theory with examples | [Go](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/) | ☐ |
-| 10 | Easy and Medium | [Go](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) | ☐ |
-| 11 | STL | [Go](https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/) | ☐ |
-| 12 | Java Collections | [Go](https://takeuforward.org/data-structure/java-collections) | ☐ |
-| 13 | Count all Digits of a Number | [Go](https://takeuforward.org/data-structure/count-digits-in-a-number/) | ☐ |
-| 14 | Reverse a number | [Go](https://takeuforward.org/maths/reverse-digits-of-a-number) | ☐ |
-| 15 | Palindrome Number | [Go](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/) | ☐ |
-| 16 | GCD of Two Numbers | [Go](https://takeuforward.org/data-structure/find-gcd-of-two-numbers/) | ☐ |
-| 17 | Check if the Number is Armstrong | [Go](https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/) | ☐ |
-| 18 | Print all Divisors | [Go](https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/) | ☐ |
-| 19 | Check for Prime Number | [Go](https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/) | ☐ |
-| 20 | Understand recursion by print something N times | [Go](https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/) | ☐ |
-| 21 | Print name N times using recursion | [Go](https://takeuforward.org/recursion/print-name-n-times-using-recursion/) | ☐ |
-| 22 | Print 1 to N using Recursion | [Go](https://takeuforward.org/recursion/print-1-to-n-using-recursion/) | ☐ |
-| 23 | Print N to 1 using Recursion | [Go](https://takeuforward.org/recursion/print-n-to-1-using-recursion/) | ☐ |
-| 24 | Sum of First N Numbers | [Go](https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/) | ☐ |
-| 25 | Factorial of a given number | [Go](https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive) | ☐ |
-| 26 | Reverse an array | [Go](https://takeuforward.org/data-structure/reverse-a-given-array/) | ☐ |
-| 27 | Check if String is Palindrome or Not | [Go](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/) | ☐ |
-| 28 | Fibonacci Number | [Go](https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/) | ☐ |
-| 29 | Basic Hashing | [Go](https://takeuforward.org/hashing/hashing-maps-time-complexity-collisions-division-rule-of-hashing-strivers-a2z-dsa-course/) | ☐ |
-| 30 | Counting Frequencies of Array Elements | [Go](https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/) | ☐ |
-| 31 | Highest Occurring Element in an Array | [Go](https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/) | ☐ |
+| # | Problem Name | Link | ⭐ |
+|---|---|---|---|
+| 1 | Input Output | [Solve](https://takeuforward.org/plus/dsa/problems/input-output?source=strivers-a2z-dsa-track) | ☐ |
+| 2 | Cpp Basics | [Solve](https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track) | ☐ |
+| 3 | If ElseIf | [Solve](https://takeuforward.org/plus/dsa/problems/if-elseif?source=strivers-a2z-dsa-track) | ☐ |
+| 4 | Switch Case | [Solve](https://takeuforward.org/plus/dsa/problems/switch-case?source=strivers-a2z-dsa-track) | ☐ |
+| 5 | What are arrays, strings? | [Solve](https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track) | ☐ |
+| 6 | For loops | [Solve](https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track) | ☐ |
+| 7 | While loops | [Solve](https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track) | ☐ |
+| 8 | Functions (Pass by Reference and Value) | [Solve](https://takeuforward.org/plus/dsa/problems/cpp?source=strivers-a2z-dsa-track) | ☐ |
+| 9 | Theory with examples | [Solve](https://takeuforward.org/plus/dsa/problems/theory-with-examples?source=strivers-a2z-dsa-track) | ☐ |
+| 10 | Easy and Medium | [Solve](https://takeuforward.org/plus/dsa/problems/easy-and-medium?source=strivers-a2z-dsa-track) | ☐ |
+| 11 | STL | [Solve](https://takeuforward.org/plus/dsa/problems/stl?source=strivers-a2z-dsa-track) | ☐ |
+| 12 | Java Collections | [Solve](https://takeuforward.org/plus/dsa/problems/java-collections?source=strivers-a2z-dsa-track) | ☐ |
+| 13 | Count all Digits of a Number | [Solve](https://takeuforward.org/plus/dsa/problems/count-all-digits-of-a-number?source=strivers-a2z-dsa-track) | ☐ |
+| 14 | Reverse a number | [Solve](https://takeuforward.org/plus/dsa/problems/reverse-a-number?source=strivers-a2z-dsa-track) | ☐ |
+| 15 | Palindrome Number | [Solve](https://takeuforward.org/plus/dsa/problems/palindrome-number?source=strivers-a2z-dsa-track) | ☐ |
+| 16 | GCD of Two Numbers | [Solve](https://takeuforward.org/plus/dsa/problems/gcd-of-two-numbers?source=strivers-a2z-dsa-track) | ☐ |
+| 17 | Check if the Number is Armstrong | [Solve](https://takeuforward.org/plus/dsa/problems/check-if-the-number-if-armstrong?source=strivers-a2z-dsa-track) | ☐ |
+| 18 | Print all Divisors | [Solve](https://takeuforward.org/plus/dsa/problems/divisors-of-a-number?source=strivers-a2z-dsa-track) | ☐ |
+| 19 | Check for Prime Number | [Solve](https://takeuforward.org/plus/dsa/problems/check-for-prime-number?source=strivers-a2z-dsa-track) | ☐ |
+| 20 | Print 1 to N using Recursion | [Solve](https://takeuforward.org/plus/dsa/problems/print-1-to-n-using-recursion?source=strivers-a2z-dsa-track) | ☐ |
+| 21 | Print N to 1 using Recursion | [Solve](https://takeuforward.org/plus/dsa/problems/print-n-to-1-using-recursion?source=strivers-a2z-dsa-track) | ☐ |
+| 22 | Sum of First N Numbers | [Solve](https://takeuforward.org/plus/dsa/problems/sum-of-first-n-numbers?source=strivers-a2z-dsa-track) | ☐ |
+| 23 | Factorial of a given number | [Solve](https://takeuforward.org/plus/dsa/problems/factorial-of-a-given-number-i?source=strivers-a2z-dsa-track) | ☐ |
+| 24 | Reverse an array | [Solve](https://takeuforward.org/plus/dsa/problems/reverse-an-array?source=strivers-a2z-dsa-track) | ☐ |
+| 25 | Check if String is Palindrome or Not | [Solve](https://takeuforward.org/plus/dsa/problems/check-if-string-is-palindrome-or-not-?source=strivers-a2z-dsa-track) | ☐ |
+| 26 | Fibonacci Number | [Solve](https://takeuforward.org/plus/dsa/problems/fibonacci-number?source=strivers-a2z-dsa-track) | ☐ |
+| 27 | Basic Hashing | [Solve](https://takeuforward.org/plus/dsa/problems/basic-hashing?source=strivers-a2z-dsa-track) | ☐ |
+| 28 | Counting Frequencies of Array Elements | [Solve](https://takeuforward.org/plus/dsa/problems/counting-frequencies-of-array-elements?source=strivers-a2z-dsa-track) | ☐ |
+| 29 | Highest Occurring Element in an Array | [Solve](https://takeuforward.org/plus/dsa/problems/highest-occurring-element-in-an-array?source=strivers-a2z-dsa-track) | ☐ |
 
 
-**Total problems in section**: 31
+**Total problems**: 29
 
 ---
 
-## 📚 All Problem Links Available
+## 📝 Notes
 
-Below is the complete list of **395 unique TakeUForward problem links** from the A2Z DSA Sheet:
+- All links are from the **Practice Column** of the official TakeUForward A2Z DSA Sheet
+- Click any "Solve" link to open the practice problem page
+- These links provide full problem statements and submission capabilities
+- More sections (Sorting, Arrays, Binary Search, etc.) can be added as they're extracted
 
-1. [Capacity To Ship Packages Within D Days](https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/\)
-2. [Find Out How Many Times The Array Has Been Rotated](https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/\)
-3. [Find The Highest Lowest Frequency Element](https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/\)
-4. [Find The Number That Appears Once And The Other Numbers Twice](https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/\)
-5. [Find The Row With Maximum Number Of 1S](https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/\)
-6. [Find The Smallest Divisor Given A Threshold](https://takeuforward.org/arrays/find-the-smallest-divisor-given-a-threshold/\)
-7. [Floor And Ceil In Sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/\)
-8. [Implement Lower Bound Bs 2](https://takeuforward.org/arrays/implement-lower-bound-bs-2/\)
-9. [Implement Upper Bound](https://takeuforward.org/arrays/implement-upper-bound/\)
-10. [Kth Missing Positive Number](https://takeuforward.org/arrays/kth-missing-positive-number/\)
-11. [Minimise Maximum Distance Between Gas Stations](https://takeuforward.org/arrays/minimise-maximum-distance-between-gas-stations/\)
-12. [Minimum Days To Make M Bouquets](https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/\)
-13. [Painters Partition Problem](https://takeuforward.org/arrays/painters-partition-problem/\)
-14. [Print Fibonacci Series Up To Nth Term](https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/\)
-15. [Rearrange Array Elements By Sign](https://takeuforward.org/arrays/rearrange-array-elements-by-sign/\)
-16. [Recursive Bubble Sort Algorithm](https://takeuforward.org/arrays/recursive-bubble-sort-algorithm/\)
-17. [Arrays](https://takeuforward.org/arrays/search-element-in-rotated-sorted-array-ii\)
-18. [Search In A Row And Column Wise Sorted Matrix](https://takeuforward.org/arrays/search-in-a-row-and-column-wise-sorted-matrix/\)
-19. [Search Insert Position](https://takeuforward.org/arrays/search-insert-position/\)
-20. [Split Array Largest Sum](https://takeuforward.org/arrays/split-array-largest-sum/\)
-21. [Finding Sqrt Of A Number Using Binary Search](https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/\)
-22. [Koko Eating Bananas](https://takeuforward.org/binary-search/koko-eating-bananas/\)
-23. [Floor In A Binary Search Tree](https://takeuforward.org/binary-search-tree/floor-in-a-binary-search-tree/\)
-24. [Introduction To Binary Search Trees](https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/\)
-25. [Binary Tree Representation In Java](https://takeuforward.org/binary-tree/binary-tree-representation-in-java/\)
-26. [Count Number Of Nodes In A Binary Tree](https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/\)
-27. [Introduction To Trees](https://takeuforward.org/binary-tree/introduction-to-trees/\)
-28. [Bit Manipulation](https://takeuforward.org/bit-manipulation/power-set-bit-manipulation\)
-29. [C Basic Input Output](https://takeuforward.org/c/c-basic-input-output/\)
-30. [C Stl Tutorial Most Frequent Used Stl Containers](https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/\)
-31. [Takeuforward.Org](https://takeuforward.org/data)
-32. [Takeuforward.Org](https://takeuforward.org/data-str)
-33. [3 D Dp Ninja And His Friends Dp 13](https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/\)
-34. [3 Sum Find Triplets That Add Up To A Zero](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/\)
-35. [4 Sum Find Quads That Add Up To A Target Value](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/\)
-36. [Accounts Merge Dsu G 50](https://takeuforward.org/data-structure/accounts-merge-dsu-g-50/\)
-37. [Data Structure](https://takeuforward.org/data-structure/add-1-to-a-number-represented-by-ll\)
-38. [Add Two Numbers Represented As Linked Lists](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/\)
-39. [Aggressive Cows Detailed Solution](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/\)
-40. [Alien Dictionary Topological Sort G 26](https://takeuforward.org/data-structure/alien-dictionary-topological-sort-g-26/\)
-41. [Allocate Minimum Number Of Pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/\)
-42. [Area Of Largest Rectangle In Histogram](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/\)
-43. [Articulation Point In Graph G 56](https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/\)
-44. [Data Structure](https://takeuforward.org/data-structure/assign-cookies\)
-45. [Data Structure](https://takeuforward.org/data-structure/asteroid-collision\)
-46. [Data Structure](https://takeuforward.org/data-structure/b)
-47. [Bellman Ford Algorithm G 41](https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/\)
-48. [Binary Search Explained](https://takeuforward.org/data-structure/binary-search-explained/\)
-49. [Data Structure](https://takeuforward.org/data-structure/binary-subarray-with-sum\)
-50. [Boundary Traversal Of A Binary Tree](https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/\)
-51. [Data Structure](https://takeuforward.org/data-structure/bst-iterator\)
-52. [Bubble Sort Algorithm](https://takeuforward.org/data-structure/bubble-sort-algorithm/\)
-53. [Burst Balloons Partition Dp Dp 51](https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51/\)
-54. [Buy And Sell Stock Ii Dp 36](https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/\)
-55. [Buy And Sell Stock Iii Dp 37](https://takeuforward.org/data-structure/buy-and-sell-stock-iii-dp-37/\)
-56. [Buy And Sell Stock Iv Dp 38](https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/\)
-57. [Buy And Sell Stocks With Cooldown Dp 39](https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/\)
-58. [Buy And Sell Stocks With Transaction Fees Dp 40](https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/\)
-59. [Calculate The Diameter Of A Binary Tree](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/\)
-60. [Data Structure](https://takeuforward.org/data-structure/candy\)
-61. [Data Structure](https://takeuforward.org/data-structure/celebrity-problem\)
-62. [Check For Balanced Parentheses](https://takeuforward.org/data-structure/check-for-balanced-parentheses/\)
-63. [Check For Children Sum Property In A Binary Tree](https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/\)
-64. [Check For Symmetrical Binary Tree](https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/\)
-65. [Check If An Array Is Sorted](https://takeuforward.org/data-structure/check-if-an-array-is-sorted/\)
-66. [Data Structure](https://takeuforward.org/data-structure/check-if-an-array-represents-a-min-heap\)
-67. [Data Structure](https://takeuforward.org/data-structure/check-if-a-number-is-odd-or-not\)
-68. [Check If A Number Is Palindrome Or Not](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/\)
-69. [Data Structure](https://takeuforward.org/data-structure/check-if-a-number-is-power-of-2-or-not\)
-70. [Check If A Number Is Prime Or Not](https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/\)
-71. [Check If Given Linked List Is Plaindrome](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/\)
-72. [Data Structure](https://takeuforward.org/data-structure/check-if-one-string-is-rotation-of-another\)
-73. [Check If The Binary Tree Is Balanced Binary Tree](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/\)
-74. [Check If The Given String Is Palindrome Or Not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/\)
-75. [Data Structure](https://takeuforward.org/data-structure/check-if-the-i-th-bit-is-set-or-not\)
-76. [Data Structure](https://takeuforward.org/data-structure/check-if-there-exists-a-subsequence-with-sum-k\)
-77. [Check If Two Strings Are Anagrams Of Each Other](https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/\)
-78. [Check If Two Trees Are Identical](https://takeuforward.org/data-structure/check-if-two-trees-are-identical/\)
-79. [Clone Linked List With Random And Next Pointer](https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/\)
-80. [Coin Change 2 Dp 22](https://takeuforward.org/data-structure/coin-change-2-dp-22/\)
-81. [Combination Sum 1](https://takeuforward.org/data-structure/combination-sum-1/\)
-82. [Combination Sum Ii Find All Unique Combinations](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/\)
-83. [Data Structure](https://takeuforward.org/data-structure/combination-sum-iii\)
-84. [Data Structure](https://takeuforward.org/data-structure/connected-components\)
-85. [Construct A Binary Tree From Inorder And Preorder Traversal](https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/\)
-86. [Construct Binary Tree From Inorder And Postorder Traversal](https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/\)
-87. [Data Structure](https://takeuforward.org/data-structure/count-all-subsequences-with-sum-k\)
-88. [Data Structure](https://takeuforward.org/data-structure/count-and-say\)
-89. [Count Digits In A Number](https://takeuforward.org/data-structure/count-digits-in-a-number/\)
-90. [Count Frequency Of Each Element In The Array](https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/\)
-91. [Data Structure](https://takeuforward.org/data-structure/count-good-numbers\)
-92. [Data Structure](https://takeuforward.org/data-structure/count-inversions-in-an-array\)
-93. [Count Maximum Consecutive Ones In The Array](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/\)
-94. [Data Structure](https://takeuforward.org/data-structure/count-number-of-bits-to-be-flipped-to-convert-a-to-b\)
-95. [Data Structure](https://takeuforward.org/data-structure/count-number-of-nice-subarrays\)
-96. [Data Structure](https://takeuforward.org/data-structure/count-number-of-substrings\)
-97. [Count Partitions With Given Difference Dp 18](https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/\)
-98. [Count Reverse Pairs](https://takeuforward.org/data-structure/count-reverse-pairs/\)
-99. [Count Square Submatrices With All 1S Dp On Rectangles Dp 56](https://takeuforward.org/data-structure/count-square-submatrices-with-all-1s-dp-on-rectangles-dp-56/\)
-100. [Count Subsets With Sum K Dp 17](https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/\)
-101. [Data Structure](https://takeuforward.org/data-structure/count-the-number-of-set-bits\)
-102. [Count The Number Of Subarrays With Given Xor K](https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/\)
-103. [Course Schedule I And Ii Pre Requisite Tasks Topological Sort G 24](https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/\)
-104. [Delete Last Node Of A Doubly Linked List](https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/\)
-105. [Delete Last Node Of Linked List](https://takeuforward.org/data-structure/delete-last-node-of-linked-list/\)
-106. [Depth First Search Dfs](https://takeuforward.org/data-structure/depth-first-search-dfs/\)
-107. [Data Structure](https://takeuforward.org/data-structure/design-twitter\)
-108. [Detect A Cycle In A Linked List](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/\)
-109. [Detect A Cycle In Directed Graph Topological Sort Kahns Algorithm G 23](https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/\)
-110. [Detect Cycle In A Directed Graph Using Dfs G 19](https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/\)
-111. [Detect Cycle In An Undirected Graph Using Bfs](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/\)
-112. [Detect Cycle In An Undirected Graph Using Dfs](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/\)
-113. [Dijkstras Algorithm Using Priority Queue G 32](https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32/\)
-114. [Dijkstras Algorithm Using Set G 33](https://takeuforward.org/data-structure/dijkstras-algorithm-using-set-g-33/\)
-115. [Disjoint Set Union By Rank Union By Size Path Compression G 46](https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/\)
-116. [Distinct Subsequences Dp 32](https://takeuforward.org/data-structure/distinct-subsequences-dp-32/\)
-117. [Data Structure](https://takeuforward.org/data-structure/divide-two-integers-without-using-multiplication-division-and-mod-operator\)
-118. [Dynamic Programming Climbing Stairs](https://takeuforward.org/data-structure/dynamic-programming-climbing-stairs/\)
-119. [Dynamic Programming Frog Jump Dp 3](https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/\)
-120. [Dynamic Programming Frog Jump With K Distances Dp 4](https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/\)
-121. [Dynamic Programming House Robber Dp 6](https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/\)
-122. [Dynamic Programming Introduction](https://takeuforward.org/data-structure/dynamic-programming-introduction/\)
-123. [Dynamic Programming Ninjas Training Dp 7](https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/\)
-124. [Edit Distance Dp 33](https://takeuforward.org/data-structure/edit-distance-dp-33/\)
-125. [Evaluate Boolean Expression To True Partition Dp Dp 52](https://takeuforward.org/data-structure/evaluate-boolean-expression-to-true-partition-dp-dp-52/\)
-126. [Data Structure](https://takeuforward.org/data-structure/expression-add-operators\)
-127. [Data Structure](https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive\)
-128. [Find Eventual Safe States Bfs Topological Sort G 25](https://takeuforward.org/data-structure/find-eventual-safe-states-bfs-topological-sort-g-25/\)
-129. [Find Gcd Of Two Numbers](https://takeuforward.org/data-structure/find-gcd-of-two-numbers/\)
-130. [Find Intersection Of Two Linked Lists](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/\)
-131. [Data Structure](https://takeuforward.org/data-structure/find-median-from-data-stream\)
-132. [Find Middle Element In A Linked List](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/\)
-133. [Data Structure](https://takeuforward.org/data-structure/find-minmax-in-a-bst\)
-134. [Data Structure](https://takeuforward.org/data-structure/find-pairs-with-given-sum-in-doubly-linked-list\)
-135. [Data Structure](https://takeuforward.org/data-structure/find-peak-element-2d-matrix\)
-136. [Find Second Smallest And Second Largest Element In An Array](https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/\)
-137. [Find The City With The Smallest Number Of Neighbours At A Threshold Distance G 43](https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/\)
-138. [Find The Largest Element In An Array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/\)
-139. [Find The Majority Element That Occurs More Than N 2 Times](https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/\)
-140. [Find The Repeating And Missing Numbers](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/\)
-141. [Data Structure](https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times\)
-142. [Data Structure](https://takeuforward.org/data-structure/find-xor-of-numbers-from-l-to-r\)
-143. [Flatten Binary Tree To Linked List](https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/\)
-144. [Flattening A Linked List](https://takeuforward.org/data-structure/flattening-a-linked-list/\)
-145. [Floyd Warshall Algorithm G 42](https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/\)
-146. [Fractional Knapsack Problem Greedy Approach](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/\)
-147. [Data Structure](https://takeuforward.org/data-structure/fruit-into-baskets\)
-148. [Data Structure](https://takeuforward.org/data-structure/functions-pass-by-reference-and-value\)
-149. [G 36 Shortest Distance In A Binary Maze](https://takeuforward.org/data-structure/g-36-shortest-distance-in-a-binary-maze/\)
-150. [G 37 Path With Minimum Effort](https://takeuforward.org/data-structure/g-37-path-with-minimum-effort/\)
-151. [G 38 Cheapest Flights Within K Stops](https://takeuforward.org/data-structure/g-38-cheapest-flights-within-k-stops/\)
-152. [G 40 Number Of Ways To Arrive At Destination](https://takeuforward.org/data-structure/g-40-number-of-ways-to-arrive-at-destination/\)
-153. [Data Structure](https://takeuforward.org/data-structure/generate-all-binary-strings\)
-154. [Data Structure](https://takeuforward.org/data-structure/generate-parenthesis\)
-155. [Data Structure](https://takeuforward.org/data-structure/graph-representation-in-java\)
-156. [Grid Unique Paths 2 Dp 9](https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/\)
-157. [Grid Unique Paths Dp On Grids Dp8](https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/\)
-158. [Data Structure](https://takeuforward.org/data-structure/hands-of-straights\)
-159. [Data Structure](https://takeuforward.org/data-structure/hashing-in-strings\)
-160. [Implement Min Stack O2N And On Space Complexity](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/\)
-161. [Implement Powxn X Raised To The Power N](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/\)
-162. [Implement Queue Using Array](https://takeuforward.org/data-structure/implement-queue-using-array/\)
-163. [Implement Queue Using Linked List](https://takeuforward.org/data-structure/implement-queue-using-linked-list/\)
-164. [Implement Queue Using Stack](https://takeuforward.org/data-structure/implement-queue-using-stack/\)
-165. [Implement Stack Using Array](https://takeuforward.org/data-structure/implement-stack-using-array/\)
-166. [Implement Stack Using Linked List](https://takeuforward.org/data-structure/implement-stack-using-linked-list/\)
-167. [Data Structure](https://takeuforward.org/data-structure/implement-stack-using-single-queue\)
-168. [Implement Trie 1](https://takeuforward.org/data-structure/implement-trie-1/\)
-169. [Implement Trie Ii](https://takeuforward.org/data-structure/implement-trie-ii/\)
-170. [Infix To Prefix](https://takeuforward.org/data-structure/infix-to-prefix/\)
-171. [Data Structure](https://takeuforward.org/data-structure/inorder-successorpredecessor-in-bst\)
-172. [Inorder Traversal Of Binary Tree](https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/\)
-173. [Insert At End Of Doubly Linked List](https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/\)
-174. [Insertion Sort Algorithm](https://takeuforward.org/data-structure/insertion-sort-algorithm/\)
-175. [Data Structure](https://takeuforward.org/data-structure/introduction-to-bit-manipulation-theory\)
-176. [Data Structure](https://takeuforward.org/data-structure/introduction-to-priority-queues-using-binary-heaps\)
-177. [Data Structure](https://takeuforward.org/data-structure/isomorphic-string\)
-178. [Data Structure](https://takeuforward.org/data-structure/iterative-postorder-traversal-of-binary-tree-using-2-stack\)
-179. [Data Structure](https://takeuforward.org/data-structure/iterative-preorder-traversal-of-binary-tree\)
-180. [Data Structure](https://takeuforward.org/data-structure/java-collections\)
-181. [Job Sequencing Problem](https://takeuforward.org/data-structure/job-sequencing-problem/\)
-182. [Data Structure](https://takeuforward.org/data-structure/jump-game-2\)
-183. [Kadanes Algorithm Maximum Subarray Sum In An Array](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/\)
-184. [Data Structure](https://takeuforward.org/data-structure/kmp-algorithm-or-lps-array\)
-185. [K Th Element Of Two Sorted Arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/\)
-186. [Data Structure](https://takeuforward.org/data-structure/kth-largest-element-in-a-stream-of-running-integers\)
-187. [Kth Largest Smallest Element In An Array](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/\)
-188. [Kth Largest Smallest Element In Binary Search Tree](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/\)
-189. [Data Structure](https://takeuforward.org/data-structure/largest-odd-number-in-a-string\)
-190. [Last Occurrence In A Sorted Array](https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/\)
-191. [Leaders In An Array](https://takeuforward.org/data-structure/leaders-in-an-array/\)
-192. [Data Structure](https://takeuforward.org/data-structure/learn-all-patterns-of-subsequences-theory\)
-193. [Left Rotate The Array By One](https://takeuforward.org/data-structure/left-rotate-the-array-by-one/\)
-194. [Length Of Longest Substring Without Any Repeating Character](https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/\)
-195. [Length Of The Longest Subarray With Zero Sum](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/\)
-196. [Data Structure](https://takeuforward.org/data-structure/letter-combinations-of-a-phone-number\)
-197. [Level Order Traversal Of A Binary Tree](https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/\)
-198. [Data Structure](https://takeuforward.org/data-structure/lfu-cache\)
-199. [Linear Search In C](https://takeuforward.org/data-structure/linear-search-in-c/\)
-200. [Longest Bitonic Subsequence Dp 46](https://takeuforward.org/data-structure/longest-bitonic-subsequence-dp-46/\)
-201. [Data Structure](https://takeuforward.org/data-structure/longest-common-prefix\)
-202. [Longest Common Substring Dp 27](https://takeuforward.org/data-structure/longest-common-substring-dp-27/\)
-203. [Longest Consecutive Sequence In An Array](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/\)
-204. [Longest Divisible Subset Dp 44](https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/\)
-205. [Data Structure](https://takeuforward.org/data-structure/longest-happy-prefix\)
-206. [Longest Increasing Subsequence Binary Search Dp 43](https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/\)
-207. [Longest Palindromic Subsequence Dp 28](https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/\)
-208. [Data Structure](https://takeuforward.org/data-structure/longest-repeating-character-replacement\)
-209. [Longest String Chain Dp 45](https://takeuforward.org/data-structure/longest-string-chain-dp-45/\)
-210. [Longest Subarray With Given Sum K](https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/\)
-211. [Data Structure](https://takeuforward.org/data-structure/longest-substring-with-at-most-k-distinct-characters\)
-212. [Lowest Common Ancestor For Two Given Nodes](https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/\)
-213. [Majority Elementsn 3 Times Find The Elements That Appears More Than N 3 Times In The Array](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/\)
-214. [Making A Large Island Dsu G 52](https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/\)
-215. [Matrix Chain Multiplication Tabulation Method Dp 49](https://takeuforward.org/data-structure/matrix-chain-multiplication-tabulation-method-dp-49/\)
-216. [Data Structure](https://takeuforward.org/data-structure/max-consecutive-ones-iii\)
-217. [Maximum Depth Of A Binary Tree](https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/\)
-218. [Data Structure](https://takeuforward.org/data-structure/maximum-nesting-depth-of-parenthesis\)
-219. [Maximum Product Subarray In An Array](https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/\)
-220. [Maximum Rectangle Area With All 1S Dp On Rectangles Dp 55](https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/\)
-221. [Data Structure](https://takeuforward.org/data-structure/maximum-sum-combination\)
-222. [Maximum Sum Of Non Adjacent Elements Dp 5](https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/\)
-223. [Maximum Sum Path In Binary Tree](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/\)
-224. [Maximum Width Of A Binary Tree](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/\)
-225. [Maximum Xor Of Two Numbers In An Array](https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/\)
-226. [M Coloring Problem](https://takeuforward.org/data-structure/m-coloring-problem/\)
-227. [Median Of Row Wise Sorted Matrix](https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/\)
-228. [Data Structure](https://takeuforward.org/data-structure/merge-m-sorted-lists\)
-229. [Merge Overlapping Sub Intervals](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/\)
-230. [Merge Sort Algorithm](https://takeuforward.org/data-structure/merge-sort-algorithm/\)
-231. [Merge Two Sorted Arrays Without Extra Space](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/\)
-232. [Minimum Coins Dp 20](https://takeuforward.org/data-structure/minimum-coins-dp-20/\)
-233. [Data Structure](https://takeuforward.org/data-structure/minimum-cost-to-connect-sticks\)
-234. [Minimum Cost To Cut The Stick Dp 50](https://takeuforward.org/data-structure/minimum-cost-to-cut-the-stick-dp-50/\)
-235. [Minimum In Rotated Sorted Array](https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/\)
-236. [Minimum Insertions Deletions To Convert String Dp 30](https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/\)
-237. [Minimum Insertions To Make String Palindrome Dp 29](https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/\)
-238. [Data Structure](https://takeuforward.org/data-structure/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced\)
-239. [Minimum Number Of Platforms Required For A Railway](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/\)
-240. [Minimum Path Sum In A Grid Dp 10](https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/\)
-241. [Data Structure](https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10\)
-242. [Minimum Path Sum In Triangular Grid Dp 11](https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/\)
-243. [Minimum Spanning Tree Theory G 44](https://takeuforward.org/data-structure/minimum-spanning-tree-theory-g-44/\)
-244. [Data Structure](https://takeuforward.org/data-structure/minimum-time-taken-to-burn-the-binary-tree-from-a-node\)
-245. [Morris Inorder Traversal Of A Binary Tree](https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/\)
-246. [Morris Preorder Traversal Of A Binary Tree](https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/\)
-247. [Most Stones Removed With Same Row Or Column Dsu G 53](https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/\)
-248. [Move All Zeros To The End Of The Array](https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/\)
-249. [Data Structure](https://takeuforward.org/data-structure/network-delay-time\)
-250. [Data Structure](https://takeuforward.org/data-structure/next-greater-element-2\)
-251. [Next Greater Element Using Stack](https://takeuforward.org/data-structure/next-greater-element-using-stack/\)
-252. [Next_Permutation Find Next Lexicographically Greater Permutation](https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/\)
-253. [Data Structure](https://takeuforward.org/data-structure/next-smaller-element\)
-254. [N Meetings In One Room](https://takeuforward.org/data-structure/n-meetings-in-one-room/\)
-255. [Data Structure](https://takeuforward.org/data-structure/non-overlapping-intervals\)
-256. [N Queen Problem Return All Distinct Solutions To The N Queens Puzzle](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/\)
-257. [Nth Root Of A Number Using Binary Search](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/\)
-258. [Number Of Distinct Islands](https://takeuforward.org/data-structure/number-of-distinct-islands/\)
-259. [Number Of Distinct Substrings In A String Using Trie](https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/\)
-260. [Number Of Longest Increasing Subsequences Dp 47](https://takeuforward.org/data-structure/number-of-longest-increasing-subsequences-dp-47/\)
-261. [Data Structure](https://takeuforward.org/data-structure/number-of-nges-to-the-right\)
-262. [Number Of Operations To Make Network Connected Dsu G 49](https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/\)
-263. [Number Of Provinces](https://takeuforward.org/data-structure/number-of-provinces/\)
-264. [Data Structure](https://takeuforward.org/data-structure/number-of-substring-containing-all-three-characters\)
-265. [Palindrome Partitioning Ii Front Partition Dp 53](https://takeuforward.org/data-structure/palindrome-partitioning-ii-front-partition-dp-53/\)
-266. [Partition Array For Maximum Sum Front Partition Dp 54](https://takeuforward.org/data-structure/partition-array-for-maximum-sum-front-partition-dp-54/\)
-267. [Partition Equal Subset Sum Dp 15](https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/\)
-268. [Partition Set Into 2 Subsets With Min Absolute Sum Diff Dp 16](https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/\)
-269. [Peak Element In Array](https://takeuforward.org/data-structure/peak-element-in-array/\)
-270. [Data Structure](https://takeuforward.org/data-structure/postfix-to-infix\)
-271. [Data Structure](https://takeuforward.org/data-structure/postfix-to-prefix-conversion\)
-272. [Post Order Traversal Of Binary Tree](https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/\)
-273. [Power Set Print All The Possible Subsequences Of The String](https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/\)
-274. [Data Structure](https://takeuforward.org/data-structure/prefix-to-infix-conversion\)
-275. [Data Structure](https://takeuforward.org/data-structure/prefix-to-postfix-conversion\)
-276. [Preorder Inorder Postorder Traversals In One Traversal](https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/\)
-277. [Preorder Traversal Of Binary Tree](https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/\)
-278. [Prims Algorithm Minimum Spanning Tree C And Java G 45](https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/\)
-279. [Print All Divisors Of A Given Number](https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/\)
-280. [Data Structure](https://takeuforward.org/data-structure/print-all-the-nodes-at-a-distance-of-k-in-a-binary-tree\)
-281. [Printing Longest Increasing Subsequence Dp 42](https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/\)
-282. [Print Longest Common Subsequence Dp 26](https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/\)
-283. [Print Root To Node Path In A Binary Tree](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/\)
-284. [Data Structure](https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm\)
-285. [Data Structure](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle\)
-286. [Quick Sort Algorithm](https://takeuforward.org/data-structure/quick-sort-algorithm/\)
-287. [Rat In A Maze](https://takeuforward.org/data-structure/rat-in-a-maze/\)
-288. [Data Structure](https://takeuforward.org/data-structure/recursive-implementation-of-atoi\)
-289. [Data Structure](https://takeuforward.org/data-structure/remove-duplicates-from-sorted-dll\)
-290. [Remove Duplicates In Place From Sorted Array](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/\)
-291. [Data Structure](https://takeuforward.org/data-structure/remove-k-digits\)
-292. [Remove N Th Node From The End Of A Linked List](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/\)
-293. [Data Structure](https://takeuforward.org/data-structure/remove-outermost-parentheses\)
-294. [Replace Elements By Its Rank In The Array](https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/\)
-295. [Reverse A Doubly Linked List](https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/\)
-296. [Reverse A Given Array](https://takeuforward.org/data-structure/reverse-a-given-array/\)
-297. [Reverse A Linked List](https://takeuforward.org/data-structure/reverse-a-linked-list/\)
-298. [Data Structure](https://takeuforward.org/data-structure/reverse-a-stack-using-recursion\)
-299. [Reverse Linked List In Groups Of Size K](https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/\)
-300. [Reverse Words In A String](https://takeuforward.org/data-structure/reverse-words-in-a-string/\)
-301. [Right Left View Of Binary Tree](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/\)
-302. [Rod Cutting Problem Dp 24](https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/\)
-303. [Data Structure](https://takeuforward.org/data-structure/roman-numerals-to-integer\)
-304. [Rotate A Linked List](https://takeuforward.org/data-structure/rotate-a-linked-list/\)
-305. [Rotate Array By K Elements](https://takeuforward.org/data-structure/rotate-array-by-k-elements/\)
-306. [Rotate Image By 90 Degree](https://takeuforward.org/data-structure/rotate-image-by-90-degree/\)
-307. [Rotten Oranges Min Time To Rot All Oranges Bfs](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/\)
-308. [Search Element In A Rotated Sorted Array](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/\)
-309. [Search In A Sorted 2D Matrix](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/\)
-310. [Search Single Element In A Sorted Array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/\)
-311. [Data Structure](https://takeuforward.org/data-structure/segregate-even-and-odd-nodes-in-linkedlist\)
-312. [Serialize And Deserialize A Binary Tree](https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/\)
-313. [Set Matrix Zero](https://takeuforward.org/data-structure/set-matrix-zero/\)
-314. [Data Structure](https://takeuforward.org/data-structure/set-the-rightmost-bit\)
-315. [Shortest Common Supersequence Dp 31](https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/\)
-316. [Shortest Path In Directed Acyclic Graph Topological Sort G 27](https://takeuforward.org/data-structure/shortest-path-in-directed-acyclic-graph-topological-sort-g-27/\)
-317. [Shortest Path In Undirected Graph With Unit Distance G 28](https://takeuforward.org/data-structure/shortest-path-in-undirected-graph-with-unit-distance-g-28/\)
-318. [Data Structure](https://takeuforward.org/data-structure/sieve-of-eratosthenes\)
-319. [Sliding Window Maximum](https://takeuforward.org/data-structure/sliding-window-maximum/\)
-320. [Data Structure](https://takeuforward.org/data-structure/sort-a-linked-list-of-0s-1s-and-2s-by-changing-links\)
-321. [Sort An Array Of 0S 1S And 2S](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/\)
-322. [Data Structure](https://takeuforward.org/data-structure/sort-a-stack\)
-323. [Data Structure](https://takeuforward.org/data-structure/sort-characters-by-frequency\)
-324. [Data Structure](https://takeuforward.org/data-structure/sort-k-sorted-array\)
-325. [Spiral Traversal Of Matrix](https://takeuforward.org/data-structure/spiral-traversal-of-matrix/\)
-326. [Starting Point Of Loop In A Linked List](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/\)
-327. [Stock Buy And Sell](https://takeuforward.org/data-structure/stock-buy-and-sell/\)
-328. [Data Structure](https://takeuforward.org/data-structure/stock-span-problem\)
-329. [Data Structure](https://takeuforward.org/data-structure/subarray-with-k-different-integers\)
-330. [Subset Ii Print All The Unique Subsets](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/\)
-331. [Subset Sum Equal To Target Dp 14](https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/\)
-332. [Sudoku Solver](https://takeuforward.org/data-structure/sudoku-solver/\)
-333. [Data Structure](https://takeuforward.org/data-structure/sum-of-beauty-of-all-substring\)
-334. [Sum Of First N Natural Numbers](https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/\)
-335. [Data Structure](https://takeuforward.org/data-structure/sum-of-subarray-ranges\)
-336. [Data Structure](https://takeuforward.org/data-structure/swap-two-numbers\)
-337. [Data Structure](https://takeuforward.org/data-structure/swim-in-rising-water\)
-338. [Target Sum Dp 21](https://takeuforward.org/data-structure/target-sum-dp-21/\)
-339. [Data Structure](https://takeuforward.org/data-structure/task-scheduler\)
-340. [Data Structure](https://takeuforward.org/data-structure/top-k-frequent-elements\)
-341. [Topological Sort Algorithm Dfs G 21](https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/\)
-342. [Top View Of A Binary Tree](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/\)
-343. [Trapping Rainwater](https://takeuforward.org/data-structure/trapping-rainwater/\)
-344. [Two Sum Check If A Pair With Given Sum Exists In Array](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/\)
-345. [Data Structure](https://takeuforward.org/data-structure/two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k\)
-346. [Unbounded Knapsack Dp 23](https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/\)
-347. [Union Of Two Sorted Arrays](https://takeuforward.org/data-structure/union-of-two-sorted-arrays/\)
-348. [Data Structure](https://takeuforward.org/data-structure/valid-paranthesis-checker\)
-349. [Vertical Order Traversal Of Binary Tree](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/\)
-350. [Data Structure](https://takeuforward.org/data-structure/what-are-arrays-strings\)
-351. [Wildcard Matching Dp 34](https://takeuforward.org/data-structure/wildcard-matching-dp-34/\)
-352. [Word Search Leetcode](https://takeuforward.org/data-structure/word-search-leetcode/\)
-353. [Zig Zag Traversal Of Binary Tree](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/\)
-354. [Dsa](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
-355. [Dsa](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z\)
-356. [Matrix Chain Multiplication Dp 48](https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/\)
-357. [Understanding For Loop](https://takeuforward.org/for-loop/understanding-for-loop/\)
-358. [Bipartite Graph Dfs Implementation](https://takeuforward.org/graph/bipartite-graph-dfs-implementation/\)
-359. [Bridges In Graph Using Tarjans Algorithm Of Time In And Low Time G 55](https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55/\)
-360. [Distance Of Nearest Cell Having 1](https://takeuforward.org/graph/distance-of-nearest-cell-having-1/\)
-361. [G 30 Word Ladder Ii](https://takeuforward.org/graph/g-30-word-ladder-ii/\)
-362. [G 39 Minimum Multiplications To Reach End](https://takeuforward.org/graph/g-39-minimum-multiplications-to-reach-end/\)
-363. [Graph Representation In C](https://takeuforward.org/graph/graph-representation-in-c/\)
-364. [Number Of Enclaves](https://takeuforward.org/graph/number-of-enclaves/\)
-365. [Number Of Islands Ii Online Queries Dsu G 51](https://takeuforward.org/graph/number-of-islands-ii-online-queries-dsu-g-51/\)
-366. [Graph](https://takeuforward.org/graph/strongly-connected-components-kosara)
-367. [Surrounded Regions Replace Os With Xs](https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/\)
-368. [Word Ladder I G 29](https://takeuforward.org/graph/word-ladder-i-g-29/\)
-369. [Greedy](https://takeuforward.org/Greedy/jump-game-i\)
-370. [Greedy](https://takeuforward.org/Greedy/lemonade-change\)
-371. [Greedy](https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling\)
-372. [Hashing Maps Time Complexity Collisions Division Rule Of Hashing Strivers A2Z Dsa Course](https://takeuforward.org/hashing/hashing-maps-time-complexity-collisions-division-rule-of-hashing-strivers-a2z-dsa-course/\)
-373. [If Else Statements](https://takeuforward.org/if-else/if-else-statements/\)
-374. [Linked List](https://takeuforward.org/linked-list/delete-the-middle-node-of-the-linked-list\)
-375. [Linked List](https://takeuforward.org/linked-list/find-the-length-of-a-linked-list\)
-376. [Linked List](https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list\)
-377. [Linked List](https://takeuforward.org/linked-list/introduction-to-doubly-linked-list\)
-378. [Linked List](https://takeuforward.org/linked-list/length-of-loop-in-linked-list\)
-379. [Linked List](https://takeuforward.org/linked-list/linked-list-introduction\)
-380. [Linked List](https://takeuforward.org/linked-list/search-an-element-in-a-linked-list\)
-381. [Linked List](https://takeuforward.org/linked-list/sort-a-linked-list\)
-382. [Check If A Number Is Armstrong Number Or Not](https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/\)
-383. [Maths](https://takeuforward.org/maths/reverse-digits-of-a-number\)
-384. [Problems](https://takeuforward.org/plus/dsa/problems/longest-common-prefix?tab=editorial\)
-385. [Introduction To Recursion Understand Recursion By Printing Something N Times](https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/\)
-386. [Print 1 To N Using Recursion](https://takeuforward.org/recursion/print-1-to-n-using-recursion/\)
-387. [Print Name N Times Using Recursion](https://takeuforward.org/recursion/print-name-n-times-using-recursion/\)
-388. [Print N To 1 Using Recursion](https://takeuforward.org/recursion/print-n-to-1-using-recursion/\)
-389. [Takeuforward.Org](https://takeuforward.org/?s=Insert+Interval\)
-390. [Selection Sort Algorithm](https://takeuforward.org/sorting/selection-sort-algorithm/\)
-391. [Must Do Pattern Problems Before Starting Dsa](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/\)
-392. [Switch Case Statements](https://takeuforward.org/switch-case/switch-case-statements/\)
-393. [Time And Space Complexity Strivers A2Z Dsa Course](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/\)
-394. [Maximum Xor Queries Trie](https://takeuforward.org/trie/maximum-xor-queries-trie/\)
-395. [While Loops In Programming](https://takeuforward.org/while-loop/while-loops-in-programming/\)
+---
+
+**Last Updated**: March 3, 2026  
+**Status**: Practice links verified and working  
+**Archive Source**: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
