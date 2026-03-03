@@ -5,15 +5,58 @@
 
 ## 📚 Available Sheets
 
-### 1. **A2Z DSA Sheet**
+### 1. **A2Z DSA Sheet** 
    - **File**: [`A2Z_DSA_Sheet.md`](./A2Z_DSA_Sheet.md)
    - **Problems**: 454 (Easy: 134, Medium: 183, Hard: 137)
    - **Sections**: 18
    - **Coverage**: Complete DSA curriculum from basics to advanced DP
+   - **Best For**: Comprehensive interview prep
    - **Status**: ✅ Complete with tracking columns
 
-### 2. More sheets coming...
-   (Ready to add additional sheets from TakeUForward)
+### 2. **Blind 75 LeetCode Problems**
+   - **File**: [`Blind_75_LeetCode.md`](./Blind_75_LeetCode.md)
+   - **Problems**: 69
+   - **Sections**: 10 (Arrays, Binary, DP, Graph, Interval, LinkedList, Matrix, String, Tree, Heap)
+   - **Coverage**: Most essential 75 LeetCode problems for interviews
+   - **Best For**: Quick interview prep (can complete in 2-3 weeks)
+   - **Status**: ✅ Complete with tracking columns
+
+### 3. **SDE Sheet - Top Coding Interview Problems**
+   - **File**: [`SDE_Sheet.md`](./SDE_Sheet.md)
+   - **Problems**: 42
+   - **Sections**: 9 (Arrays, Strings, LinkedList, Trees, Stacks/Queues, Greedy, Binary Search, Graph, DP)
+   - **Coverage**: Curated SDE interview problems
+   - **Best For**: SDE role preparation
+   - **Status**: ✅ Complete with tracking columns
+
+### 4. **79 Last Moment DSA Sheet**
+   - **File**: [`79_Last_Moment_DSA.md`](./79_Last_Moment_DSA.md)
+   - **Problems**: 27
+   - **Sections**: 6 (Critical Arrays, Strings, Trees, Graphs, DP, Must Know)
+   - **Coverage**: Final sprint - 79 most critical problems
+   - **Best For**: Last minute revision before interviews
+   - **Status**: ✅ Complete with tracking columns
+
+### 5. **Strivers CP Sheet - Competitive Programming**
+   - **File**: [`CP_Sheet.md`](./CP_Sheet.md)
+   - **Problems**: 29
+   - **Sections**: 7 (Number Theory, Modular Arithmetic, Combinatorics, Graph Algorithms, DP, Advanced Algorithms, String Algorithms)
+   - **Coverage**: Competitive programming techniques and problems
+   - **Best For**: Competitive programming contests (Codeforces, CodeChef)
+   - **Status**: ✅ Complete with tracking columns
+
+---
+
+## 📊 Quick Statistics
+
+| Sheet | Problems | Sections | Best For |
+|-------|----------|----------|----------|
+| **A2Z DSA** | 454 | 18 | Full curriculum |
+| **Blind 75** | 69 | 10 | 2-3 week sprint |
+| **SDE Sheet** | 42 | 9 | SDE interviews |
+| **79 Last Moment** | 27 | 6 | Final revision |
+| **CP Sheet** | 29 | 7 | Competitive prog |
+| **TOTAL** | **621** | - | Complete archive |
 
 ---
 
@@ -30,10 +73,32 @@
 4. **Commit** your changes locally
 5. **Push** to your fork
 
-### Example:
+### Example Row:
 ```markdown
 | 1 | Two Sum | LeetCode | Easy | [1](...) | ⭐ | HashMap O(n) approach |
 ```
+
+---
+
+## 🗺️ How to Choose a Sheet
+
+### **Just Starting?** 
+→ Start with **A2Z DSA Sheet** (comprehensive, structured)
+
+### **Short on Time?**
+→ Use **Blind 75** (69 essential problems, 2-3 weeks)
+
+### **Preparing for SDE Role?**
+→ Focus on **SDE Sheet** (42 curated problems)
+
+### **Interview is Tomorrow?**
+→ Rush through **79 Last Moment** (27 critical problems)
+
+### **Into Competitive Programming?**
+→ Study **CP Sheet** (advanced algorithms & techniques)
+
+### **Want Everything?**
+→ Clone this repo and work through all 5 sheets!
 
 ---
 
@@ -44,7 +109,6 @@ Each sheet file contains:
 - **⭐ Favourite column** - Mark problems to revisit
 - **Notes column** - Add your approach, tricks, time spent
 - **Section breakdown** - Organized by topic/difficulty
-- **Learning path** - Suggested timeline (usually 12 weeks)
 - **Comprehensive guide** - Tips, methodology, resources
 
 ---
@@ -52,32 +116,34 @@ Each sheet file contains:
 ## 🔗 Sheet Descriptions
 
 ### A2Z DSA Sheet
-**Topics Covered**:
-- Fundamentals & Pattern Matching
-- Sorting & Searching Algorithms
-- Linear Data Structures (Arrays, Strings, LinkedList)
-- Trees (Binary Trees, BST)
-- Graphs (DFS, BFS, Dijkstra, MST)
-- Dynamic Programming (56 problems)
-- Greedy Algorithms
-- Bit Manipulation
-- Recursion & Backtracking
-- Heaps, Stack & Queues, Tries
-
+**Topics**: Fundamentals, Sorting, Arrays, Strings, LinkedList, Trees, Graphs, DP, Bit Manipulation, Stack, Heaps, Greedy, Recursion, Tries, Sliding Window  
+**Platforms**: LeetCode, GeeksForGeeks, CodeChef, Codeforces  
+**Timeline**: 12 weeks  
 **Best For**: Complete DSA interview preparation
 
----
+### Blind 75 LeetCode
+**Topics**: Arrays, Binary, DP, Graph, Interval, LinkedList, Matrix, String, Tree, Heap  
+**Platform**: LeetCode only  
+**Timeline**: 2-3 weeks  
+**Best For**: Quick interview prep, essential problems only
 
-## 📊 Statistics
+### SDE Sheet  
+**Topics**: Arrays, Strings, LinkedList, Trees, Stacks/Queues, Greedy, Binary Search, Graphs, DP  
+**Platforms**: LeetCode, GeeksForGeeks  
+**Timeline**: 4-6 weeks  
+**Best For**: SDE role specific problems
 
-| Metric | A2Z DSA |
-|--------|---------|
-| Total Problems | 454 |
-| Easy | 134 |
-| Medium | 183 |
-| Hard | 137 |
-| Sections | 18 |
-| Platforms | LeetCode, GeeksForGeeks, CodeChef, Codeforces |
+### 79 Last Moment DSA
+**Topics**: Critical problems in Arrays, Strings, Trees, Graphs, DP, Must-Know  
+**Platform**: LeetCode  
+**Timeline**: 1 week (final revision)  
+**Best For**: Last minute interview prep
+
+### CP Sheet  
+**Topics**: Number Theory, Modular Arithmetic, Combinatorics, Graph Algorithms, Advanced DP, String Algorithms  
+**Platforms**: Codeforces, CodeChef  
+**Timeline**: Ongoing learning  
+**Best For**: Competitive programming contests
 
 ---
 
@@ -89,18 +155,43 @@ git clone https://github.com/ThatDeparted2061/A2Z-DSA-Resources.git
 cd A2Z-DSA-Resources
 ```
 
-### Step 2: Choose a Sheet
-Open the sheet file you want to work with (e.g., `A2Z_DSA_Sheet.md`)
+### Step 2: Choose Your Path
+
+**Path 1: Comprehensive Learning**
+- Start: `A2Z_DSA_Sheet.md`
+- Timeline: 12 weeks
+- Problems: 454
+
+**Path 2: Interview Sprint**
+- Start: `Blind_75_LeetCode.md`
+- Timeline: 2-3 weeks
+- Problems: 69
+
+**Path 3: SDE Focused**
+- Start: `SDE_Sheet.md`
+- Timeline: 4-6 weeks
+- Problems: 42
+
+**Path 4: Last Minute**
+- Start: `79_Last_Moment_DSA.md`
+- Timeline: 1 week
+- Problems: 27
+
+**Path 5: Competitive Coding**
+- Start: `CP_Sheet.md`
+- Timeline: Ongoing
+- Problems: 29
 
 ### Step 3: Start Tracking
 - Edit locally with your favorite editor
 - Or edit directly on GitHub (pencil icon)
 - Mark problems as you solve them
+- Add notes for learnings
 
 ### Step 4: Commit Your Progress (Optional)
 ```bash
-git add A2Z_DSA_Sheet.md
-git commit -m "Progress: Completed section X"
+git add *.md
+git commit -m "Progress: Completed section X in sheet Y"
 git push origin main
 ```
 
@@ -108,13 +199,13 @@ git push origin main
 
 ## 💡 Features
 
-✅ **Comprehensive Problem Lists** - All problems with exact names from TakeUForward  
-✅ **Direct Links** - Click to practice on LeetCode/GeeksForGeeks  
+✅ **5 Complete Problem Collections** - All sheets with exact names from TakeUForward  
+✅ **Direct Links** - Click to practice on LeetCode/GeeksForGeeks/CodeChef/Codeforces  
 ✅ **Difficulty Classification** - Easy/Medium/Hard clearly marked  
 ✅ **Progress Tracking** - Mark solved, in-progress, todo  
 ✅ **Favourite System** - Star problems you want to revisit  
 ✅ **Notes Column** - Document your approach & learnings  
-✅ **Learning Paths** - Suggested timelines (usually 12 weeks)  
+✅ **Multiple Learning Paths** - Choose based on your timeline  
 ✅ **Resource Links** - Direct links to all platforms  
 ✅ **Public & Free** - Archive preserved before becoming paid  
 
@@ -122,7 +213,7 @@ git push origin main
 
 ## 🎓 How to Track Progress
 
-### Using Markdown Checkboxes:
+### Using Markdown:
 Replace `☐` with:
 - `✅` - Solved & understood
 - `🔄` - In progress
@@ -138,16 +229,16 @@ Examples of good notes:
 - `Similar to Problem #5`
 - `Use sliding window pattern`
 
-### Progress Summary (Create Your Own):
+### Create Your Own Summary:
 Track weekly progress by adding a section:
 ```markdown
 ## 📊 My Progress
 
-| Section | Solved | Total | %age |
-|---------|--------|-------|------|
-| Learn Basics | 15 | 31 | 48% |
-| Arrays | 20 | 40 | 50% |
-| TOTAL | 35 | 454 | 8% |
+| Sheet | Solved | Total | %age |
+|-------|--------|-------|------|
+| Blind 75 | 20 | 69 | 29% |
+| SDE Sheet | 10 | 42 | 24% |
+| TOTAL | 30 | 111 | 27% |
 ```
 
 ---
@@ -157,9 +248,9 @@ Track weekly progress by adding a section:
 This repository preserves **Striver's free educational content** that is becoming paid:
 - ✅ Problem names (exact from website)
 - ✅ Difficulty classifications
-- ✅ Platform links (LeetCode, GeeksForGeeks, etc.)
+- ✅ Platform links (LeetCode, GeeksForGeeks, CodeChef, Codeforces)
 - ✅ Section organization
-- ✅ Learning sequence
+- ✅ Learning sequences
 
 **Not included**: Video solutions (watch on YouTube), detailed editorials (use platform solutions)
 
@@ -171,8 +262,14 @@ This repository preserves **Striver's free educational content** that is becomin
 |----------|------|
 | **TakeUForward** | https://takeuforward.org |
 | **A2Z DSA Sheet** | https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z |
+| **Blind 75** | https://takeuforward.org/dsa/blind-75-leetcode-problems-detailed-video-solutions |
+| **SDE Sheet** | https://takeuforward.org/dsa/strivers-sde-sheet-top-coding-interview-problems |
+| **79 Last Moment** | https://takeuforward.org/dsa/strivers-79-last-moment-dsa-sheet-ace-interviews |
+| **CP Sheet** | https://takeuforward.org/competitive-programming/strivers-cp-sheet |
 | **LeetCode** | https://leetcode.com |
 | **GeeksForGeeks** | https://www.geeksforgeeks.org |
+| **Codeforces** | https://codeforces.com |
+| **CodeChef** | https://www.codechef.com |
 | **YouTube Channel** | https://www.youtube.com/c/takeUforward |
 
 ---
@@ -181,9 +278,9 @@ This repository preserves **Striver's free educational content** that is becomin
 
 Help improve this archive:
 - **Report broken links** → Create an issue
-- **Add missing sheets** → Send me the link to new sheets
 - **Suggest improvements** → Open a discussion
 - **Share your progress** → Star the repo!
+- **Add more sheets** → Send links to new TakeUForward sheets
 
 ---
 
@@ -193,34 +290,34 @@ This is an **educational archive** created to preserve free learning content:
 - **Creator**: Striver (Raj Vikramaditya) - https://takeuforward.org
 - **Problem Sources**: LeetCode, GeeksForGeeks, CodeChef, Codeforces
 - **Use**: Learning & interview preparation
-- **Archive Date**: March 3, 2026 (Before course went paid)
+- **Archive Date**: March 3, 2026 (Before courses went paid)
 
-**Not affiliated** with TakeUForward, LeetCode, or GeeksForGeeks.
-
----
-
-## 📝 Sheets Ready to Add
-
-Send me the links to other TakeUForward sheets and I'll create `.md` files for:
-- SQL Sheets
-- System Design Sheets
-- JavaScript/React Sheets
-- Any other TakeUForward learning sheets
-
-Format: Same as A2Z DSA - Problems with links, difficulty, tracking columns
+**Not affiliated** with TakeUForward, LeetCode, GeeksForGeeks, Codeforces, or CodeChef.
 
 ---
 
 **Last Updated**: March 3, 2026  
-**Status**: Active & Growing  
+**Status**: Active & Complete  
+**Total Problems**: 621  
+**Total Sheets**: 5  
 **License**: Educational Archive  
 
 ---
 
 ### 🎯 Next Steps
-1. Start with [`A2Z_DSA_Sheet.md`](./A2Z_DSA_Sheet.md)
-2. Clone the repo or fork for your own progress
-3. Begin solving problems!
-4. Send links for more sheets to archive
+1. Choose your learning path based on timeline
+2. Open the corresponding `.md` file
+3. Clone the repo or fork for your own progress
+4. Begin solving problems!
+5. Track your progress with checkmarks & notes
 
 Good luck with your learning journey! 🚀
+
+---
+
+## 📝 Legend
+- ✅ Solved  
+- 🔄 In Progress  
+- ⏳ Todo  
+- ⭐ Favourite/Revisit  
+- ☐ Not started  
