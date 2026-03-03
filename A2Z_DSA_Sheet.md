@@ -88,6 +88,10 @@
 | 5 | 5. Quick Sort | GFG | Medium || ☐ | |
 | 6 | 6. Counting Sort | GFG | Medium || ☐ | |
 | 7 | 7. Radix Sort | GFG | Hard || ☐ | |
+| 8 | 8. Non Overlapping Intervals | LeetCode | Medium |[Solve](https://leetcode.com/problems/non-overlapping-intervals/)| ☐ | |
+| 9 | 9. Sort Colors | LeetCode | Medium |[Solve](https://leetcode.com/problems/sort-colors/)| ☐ | |
+| 10 | 10. Non Overlapping Intervals | LeetCode | Medium |[Solve](https://leetcode.com/problems/non-overlapping-intervals/)| ☐ | |
+| 11 | 11. Sort Colors | LeetCode | Medium |[Solve](https://leetcode.com/problems/sort-colors/)| ☐ | |
 
 ### 3. Solve Problems on Arrays [Easy → Medium → Hard]
 
@@ -196,6 +200,18 @@
 | 13 | 13. Minimum Characters to Make Strings Equal | GFG | Hard || ☐ | |
 | 14 | 14. Anagram Strings | LeetCode | Easy || ☐ | |
 | 15 | 15. Count Occurrences of Anagrams | GFG | Medium || ☐ | |
+| 16 | 16. Maximum Nesting Depth Of The Parentheses | LeetCode | Easy |[Solve](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| ☐ | |
+| 17 | 17. Minimum Add To Make Parentheses Valid | LeetCode | Medium |[Solve](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| ☐ | |
+| 18 | 18. Minimum Insertion Steps To Make A String Palindrome | LeetCode | Hard |[Solve](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)| ☐ | |
+| 19 | 19. Palindrome Number | LeetCode | Easy |[Solve](https://leetcode.com/problems/palindrome-number/)| ☐ | |
+| 20 | 20. Valid Anagram | LeetCode | Easy |[Solve](https://leetcode.com/problems/valid-anagram/)| ☐ | |
+| 21 | 21. Valid Parenthesis String | LeetCode | Medium |[Solve](https://leetcode.com/problems/valid-parenthesis-string/)| ☐ | |
+| 22 | 22. Maximum Nesting Depth Of The Parentheses | LeetCode | Easy |[Solve](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| ☐ | |
+| 23 | 23. Minimum Add To Make Parentheses Valid | LeetCode | Medium |[Solve](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| ☐ | |
+| 24 | 24. Minimum Insertion Steps To Make A String Palindrome | LeetCode | Hard |[Solve](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/)| ☐ | |
+| 25 | 25. Palindrome Number | LeetCode | Easy |[Solve](https://leetcode.com/problems/palindrome-number/)| ☐ | |
+| 26 | 26. Valid Anagram | LeetCode | Easy |[Solve](https://leetcode.com/problems/valid-anagram/)| ☐ | |
+| 27 | 27. Valid Parenthesis String | LeetCode | Medium |[Solve](https://leetcode.com/problems/valid-parenthesis-string/)| ☐ | |
 
 ### 6. Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
 
@@ -234,6 +250,14 @@
 | 29 | 29. Add Two Numbers | LeetCode | Medium |[Solve](https://leetcode.com/problems/add-two-numbers/)| ☐ | |
 | 30 | 30. Add Two Numbers II | LeetCode | Medium |[Solve](https://leetcode.com/problems/add-two-numbers/)| ☐ | |
 | 31 | 31. Design Doubly Linked List | LeetCode | Medium || ☐ | |
+| 32 | 32. Copy List With Random Pointer | LeetCode | Medium |[Solve](https://leetcode.com/problems/copy-list-with-random-pointer/)| ☐ | |
+| 33 | 33. Linked List Cycle | LeetCode | Easy |[Solve](https://leetcode.com/problems/linked-list-cycle/)| ☐ | |
+| 34 | 34. Linked List Cycle Ii | LeetCode | Medium |[Solve](https://leetcode.com/problems/linked-list-cycle-ii/)| ☐ | |
+| 35 | 35. Odd Even Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/odd-even-linked-list/)| ☐ | |
+| 36 | 36. Copy List With Random Pointer | LeetCode | Medium |[Solve](https://leetcode.com/problems/copy-list-with-random-pointer/)| ☐ | |
+| 37 | 37. Linked List Cycle | LeetCode | Easy |[Solve](https://leetcode.com/problems/linked-list-cycle/)| ☐ | |
+| 38 | 38. Linked List Cycle Ii | LeetCode | Medium |[Solve](https://leetcode.com/problems/linked-list-cycle-ii/)| ☐ | |
+| 39 | 39. Odd Even Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/odd-even-linked-list/)| ☐ | |
 
 ### 7. Recursion [PatternWise]
 
@@ -291,6 +315,12 @@
 | 16 | 16. Power of Two | LeetCode | Easy |[Solve](https://leetcode.com/problems/power-of-two/)| ☐ | |
 | 17 | 17. Gray Code | LeetCode | Medium || ☐ | |
 | 18 | 18. Single Number III | LeetCode | Medium |[Solve](https://leetcode.com/problems/single-number/)| ☐ | |
+| 19 | 19. Maximum Xor Of Two Numbers In An Array | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| ☐ | |
+| 20 | 20. Maximum Xor With An Element From Array | LeetCode | Hard |[Solve](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)| ☐ | |
+| 21 | 21. Minimum Bit Flips To Convert Number | LeetCode | Easy |[Solve](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| ☐ | |
+| 22 | 22. Maximum Xor Of Two Numbers In An Array | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| ☐ | |
+| 23 | 23. Maximum Xor With An Element From Array | LeetCode | Hard |[Solve](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/)| ☐ | |
+| 24 | 24. Minimum Bit Flips To Convert Number | LeetCode | Easy |[Solve](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/)| ☐ | |
 
 ### 9. Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
 
@@ -328,6 +358,8 @@
 | 28 | 28. Design Hit Counter | LeetCode | Medium |[Solve](https://leetcode.com/problems/design-twitter/)| ☐ | |
 | 29 | 29. Queues using Simple Operations | GFG | Easy || ☐ | |
 | 30 | 30. Stack using Two Queues | LeetCode | Medium |[Solve](https://leetcode.com/problems/implement-stack-using-queues/)| ☐ | |
+| 31 | 31. Online Stock Span | LeetCode | Medium |[Solve](https://leetcode.com/problems/online-stock-span/)| ☐ | |
+| 32 | 32. Online Stock Span | LeetCode | Medium |[Solve](https://leetcode.com/problems/online-stock-span/)| ☐ | |
 
 ### 10. Sliding Window & Two Pointer Combined Problems
 
@@ -347,6 +379,20 @@
 | 10 | 10. Counting Windows that Match | LeetCode | Hard || ☐ | |
 | 11 | 11. Max Consecutive Ones III | LeetCode | Medium |[Solve](https://leetcode.com/problems/max-consecutive-ones-iii/)| ☐ | |
 | 12 | 12. Subarrays with K Different Integers | LeetCode | Hard |[Solve](https://leetcode.com/problems/subarrays-with-k-different-integers/)| ☐ | |
+| 13 | 13. 3Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/3sum/)| ☐ | |
+| 14 | 14. 4Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/4sum/)| ☐ | |
+| 15 | 15. Count Number Of Nice Subarrays | LeetCode | Medium |[Solve](https://leetcode.com/problems/count-number-of-nice-subarrays/)| ☐ | |
+| 16 | 16. Minimum Window Subsequence | LeetCode | Hard |[Solve](https://leetcode.com/problems/minimum-window-subsequence/)| ☐ | |
+| 17 | 17. Subarray Sum Equals K | LeetCode | Medium |[Solve](https://leetcode.com/problems/subarray-sum-equals-k/)| ☐ | |
+| 18 | 18. Sum Of Subarray Minimums | LeetCode | Medium |[Solve](https://leetcode.com/problems/sum-of-subarray-minimums/)| ☐ | |
+| 19 | 19. Sum Of Subarray Ranges | LeetCode | Hard |[Solve](https://leetcode.com/problems/sum-of-subarray-ranges/)| ☐ | |
+| 20 | 20. 3Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/3sum/)| ☐ | |
+| 21 | 21. 4Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/4sum/)| ☐ | |
+| 22 | 22. Count Number Of Nice Subarrays | LeetCode | Medium |[Solve](https://leetcode.com/problems/count-number-of-nice-subarrays/)| ☐ | |
+| 23 | 23. Minimum Window Subsequence | LeetCode | Hard |[Solve](https://leetcode.com/problems/minimum-window-subsequence/)| ☐ | |
+| 24 | 24. Subarray Sum Equals K | LeetCode | Medium |[Solve](https://leetcode.com/problems/subarray-sum-equals-k/)| ☐ | |
+| 25 | 25. Sum Of Subarray Minimums | LeetCode | Medium |[Solve](https://leetcode.com/problems/sum-of-subarray-minimums/)| ☐ | |
+| 26 | 26. Sum Of Subarray Ranges | LeetCode | Hard |[Solve](https://leetcode.com/problems/sum-of-subarray-ranges/)| ☐ | |
 
 ### 11. Heaps [Learning, Medium, Hard Problems]
 
@@ -371,6 +417,8 @@
 | 15 | 15. Last Stone Weight | LeetCode | Easy || ☐ | |
 | 16 | 16. Last Stone Weight II | LeetCode | Hard || ☐ | |
 | 17 | 17. Connect Ropes | GFG | Medium || ☐ | |
+| 18 | 18. Kth Missing Positive Number | LeetCode | Hard |[Solve](https://leetcode.com/problems/kth-missing-positive-number/)| ☐ | |
+| 19 | 19. Kth Missing Positive Number | LeetCode | Hard |[Solve](https://leetcode.com/problems/kth-missing-positive-number/)| ☐ | |
 
 ### 12. Greedy Algorithms [Easy, Medium/Hard]
 
@@ -394,6 +442,10 @@
 | 14 | 14. Minimum Number of Arrows | LeetCode | Medium || ☐ | |
 | 15 | 15. Interval Scheduling | GFG | Medium || ☐ | |
 | 16 | 16. Largest Number | LeetCode | Medium |[Solve](https://leetcode.com/problems/armstrong-number/)| ☐ | |
+| 17 | 17. Candy | LeetCode | Hard |[Solve](https://leetcode.com/problems/candy/)| ☐ | |
+| 18 | 18. Hand Of Straights | LeetCode | Medium |[Solve](https://leetcode.com/problems/hand-of-straights/)| ☐ | |
+| 19 | 19. Candy | LeetCode | Hard |[Solve](https://leetcode.com/problems/candy/)| ☐ | |
+| 20 | 20. Hand Of Straights | LeetCode | Medium |[Solve](https://leetcode.com/problems/hand-of-straights/)| ☐ | |
 
 ### 13. Binary Trees [Traversals, Medium and Hard Problems]
 
@@ -440,6 +492,34 @@
 | 37 | 37. All Nodes Distance K in Binary Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)| ☐ | |
 | 38 | 38. Subtree of Another Tree | LeetCode | Easy || ☐ | |
 | 39 | 39. Print Nodes in Top to Bottom Level | GFG | Medium || ☐ | |
+| 40 | 40. Binary Tree Inorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-inorder-traversal/)| ☐ | |
+| 41 | 41. Binary Tree Postorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-postorder-traversal/)| ☐ | |
+| 42 | 42. Binary Tree Preorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-preorder-traversal/)| ☐ | |
+| 43 | 43. Binary Tree Right Side View | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-right-side-view/)| ☐ | |
+| 44 | 44. Construct Binary Tree From Preorder And Inorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| ☐ | |
+| 45 | 45. Count Complete Tree Nodes | LeetCode | Easy |[Solve](https://leetcode.com/problems/count-complete-tree-nodes/)| ☐ | |
+| 46 | 46. Delete The Middle Node Of A Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| ☐ | |
+| 47 | 47. Flatten Binary Tree To Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| ☐ | |
+| 48 | 48. Maximum Depth Of Binary Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| ☐ | |
+| 49 | 49. Maximum Width Of Binary Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-width-of-binary-tree/)| ☐ | |
+| 50 | 50. Reverse Nodes In K Group | LeetCode | Hard |[Solve](https://leetcode.com/problems/reverse-nodes-in-k-group/)| ☐ | |
+| 51 | 51. Same Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/same-tree/)| ☐ | |
+| 52 | 52. Shortest Path In Binary Matrix | LeetCode | Medium |[Solve](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| ☐ | |
+| 53 | 53. Symmetric Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/symmetric-tree/)| ☐ | |
+| 54 | 54. Binary Tree Inorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-inorder-traversal/)| ☐ | |
+| 55 | 55. Binary Tree Postorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-postorder-traversal/)| ☐ | |
+| 56 | 56. Binary Tree Preorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-preorder-traversal/)| ☐ | |
+| 57 | 57. Binary Tree Right Side View | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-tree-right-side-view/)| ☐ | |
+| 58 | 58. Construct Binary Tree From Preorder And Inorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| ☐ | |
+| 59 | 59. Count Complete Tree Nodes | LeetCode | Easy |[Solve](https://leetcode.com/problems/count-complete-tree-nodes/)| ☐ | |
+| 60 | 60. Delete The Middle Node Of A Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| ☐ | |
+| 61 | 61. Flatten Binary Tree To Linked List | LeetCode | Medium |[Solve](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| ☐ | |
+| 62 | 62. Maximum Depth Of Binary Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| ☐ | |
+| 63 | 63. Maximum Width Of Binary Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-width-of-binary-tree/)| ☐ | |
+| 64 | 64. Reverse Nodes In K Group | LeetCode | Hard |[Solve](https://leetcode.com/problems/reverse-nodes-in-k-group/)| ☐ | |
+| 65 | 65. Same Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/same-tree/)| ☐ | |
+| 66 | 66. Shortest Path In Binary Matrix | LeetCode | Medium |[Solve](https://leetcode.com/problems/shortest-path-in-binary-matrix/)| ☐ | |
+| 67 | 67. Symmetric Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/symmetric-tree/)| ☐ | |
 
 ### 14. Binary Search Trees [Concept and Problems]
 
@@ -463,6 +543,28 @@
 | 14 | 14. Closest Leaf BST | GFG | Medium || ☐ | |
 | 15 | 15. Range Sum of BST | LeetCode | Easy || ☐ | |
 | 16 | 16. Trim Binary Search Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/recover-binary-search-tree/)| ☐ | |
+| 17 | 17. Binary Search Tree Iterator | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-search-tree-iterator/)| ☐ | |
+| 18 | 18. Construct Binary Search Tree From Preorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| ☐ | |
+| 19 | 19. Insert Into A Binary Search Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| ☐ | |
+| 20 | 20. Longest Substring With At Most K Distinct Characters | LeetCode | Hard |[Solve](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| ☐ | |
+| 21 | 21. Lowest Common Ancestor Of A Binary Search Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| ☐ | |
+| 22 | 22. Maximum Number Of Non Overlapping Substrings | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)| ☐ | |
+| 23 | 23. Maximum Sum Bst In Binary Tree | LeetCode | Hard |[Solve](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| ☐ | |
+| 24 | 24. Number Of Substrings Containing All Three Characters | LeetCode | Easy |[Solve](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)| ☐ | |
+| 25 | 25. Search In A Binary Search Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/search-in-a-binary-search-tree/)| ☐ | |
+| 26 | 26. Sum Of Beauty Of All Substrings | LeetCode | Medium |[Solve](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)| ☐ | |
+| 27 | 27. Two Sum Iv Input Is A Bst | LeetCode | Easy |[Solve](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| ☐ | |
+| 28 | 28. Binary Search Tree Iterator | LeetCode | Medium |[Solve](https://leetcode.com/problems/binary-search-tree-iterator/)| ☐ | |
+| 29 | 29. Construct Binary Search Tree From Preorder Traversal | LeetCode | Medium |[Solve](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| ☐ | |
+| 30 | 30. Insert Into A Binary Search Tree | LeetCode | Medium |[Solve](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| ☐ | |
+| 31 | 31. Longest Substring With At Most K Distinct Characters | LeetCode | Hard |[Solve](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)| ☐ | |
+| 32 | 32. Lowest Common Ancestor Of A Binary Search Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| ☐ | |
+| 33 | 33. Maximum Number Of Non Overlapping Substrings | LeetCode | Medium |[Solve](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/)| ☐ | |
+| 34 | 34. Maximum Sum Bst In Binary Tree | LeetCode | Hard |[Solve](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/)| ☐ | |
+| 35 | 35. Number Of Substrings Containing All Three Characters | LeetCode | Easy |[Solve](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/)| ☐ | |
+| 36 | 36. Search In A Binary Search Tree | LeetCode | Easy |[Solve](https://leetcode.com/problems/search-in-a-binary-search-tree/)| ☐ | |
+| 37 | 37. Sum Of Beauty Of All Substrings | LeetCode | Medium |[Solve](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/)| ☐ | |
+| 38 | 38. Two Sum Iv Input Is A Bst | LeetCode | Easy |[Solve](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| ☐ | |
 
 ### 15. Graphs [Concepts & Problems]
 
@@ -523,6 +625,24 @@
 | 51 | 51. Minimum Weighted Subgraph With Required Paths | LeetCode | Hard || ☐ | |
 | 52 | 52. Check if an Original String Exists Given Two Encoded Strings | LeetCode | Hard || ☐ | |
 | 53 | 53. Greatest Common Divisor Traversal | LeetCode | Hard || ☐ | |
+| 54 | 54. Accounts Merge | LeetCode | Medium |[Solve](https://leetcode.com/problems/accounts-merge/)| ☐ | |
+| 55 | 55. Critical Connections In A Network | LeetCode | Hard |[Solve](https://leetcode.com/problems/critical-connections-in-a-network/)| ☐ | |
+| 56 | 56. Flood Fill | LeetCode | Medium |[Solve](https://leetcode.com/problems/flood-fill/)| ☐ | |
+| 57 | 57. Is Graph Bipartite | LeetCode | Medium |[Solve](https://leetcode.com/problems/is-graph-bipartite/)| ☐ | |
+| 58 | 58. Making A Large Island | LeetCode | Hard |[Solve](https://leetcode.com/problems/making-a-large-island/)| ☐ | |
+| 59 | 59. Merge Intervals | LeetCode | Medium |[Solve](https://leetcode.com/problems/merge-intervals/)| ☐ | |
+| 60 | 60. Number Of Islands Ii | LeetCode | Hard |[Solve](https://leetcode.com/problems/number-of-islands-ii/)| ☐ | |
+| 61 | 61. Number Of Operations To Make Network Connected | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| ☐ | |
+| 62 | 62. Number Of Provinces | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-provinces/)| ☐ | |
+| 63 | 63. Accounts Merge | LeetCode | Medium |[Solve](https://leetcode.com/problems/accounts-merge/)| ☐ | |
+| 64 | 64. Critical Connections In A Network | LeetCode | Hard |[Solve](https://leetcode.com/problems/critical-connections-in-a-network/)| ☐ | |
+| 65 | 65. Flood Fill | LeetCode | Medium |[Solve](https://leetcode.com/problems/flood-fill/)| ☐ | |
+| 66 | 66. Is Graph Bipartite | LeetCode | Medium |[Solve](https://leetcode.com/problems/is-graph-bipartite/)| ☐ | |
+| 67 | 67. Making A Large Island | LeetCode | Hard |[Solve](https://leetcode.com/problems/making-a-large-island/)| ☐ | |
+| 68 | 68. Merge Intervals | LeetCode | Medium |[Solve](https://leetcode.com/problems/merge-intervals/)| ☐ | |
+| 69 | 69. Number Of Islands Ii | LeetCode | Hard |[Solve](https://leetcode.com/problems/number-of-islands-ii/)| ☐ | |
+| 70 | 70. Number Of Operations To Make Network Connected | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)| ☐ | |
+| 71 | 71. Number Of Provinces | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-provinces/)| ☐ | |
 
 ### 16. Dynamic Programming [Patterns and Problems]
 
@@ -586,6 +706,10 @@
 | 54 | 54. Minimum Cost for Tickets | LeetCode | Medium |[Solve](https://leetcode.com/problems/minimum-cost-to-cut-a-stick/)| ☐ | |
 | 55 | 55. House Robber III | LeetCode | Medium |[Solve](https://leetcode.com/problems/house-robber-ii/)| ☐ | |
 | 56 | 56. Number of Longest Increasing Subsequence | LeetCode | Medium |[Solve](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)| ☐ | |
+| 57 | 57. Partition Array For Maximum Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/partition-array-for-maximum-sum/)| ☐ | |
+| 58 | 58. Partition Array Into Two Arrays To Minimize Sum Difference | LeetCode | Hard |[Solve](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| ☐ | |
+| 59 | 59. Partition Array For Maximum Sum | LeetCode | Medium |[Solve](https://leetcode.com/problems/partition-array-for-maximum-sum/)| ☐ | |
+| 60 | 60. Partition Array Into Two Arrays To Minimize Sum Difference | LeetCode | Hard |[Solve](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/)| ☐ | |
 
 ### 17. Tries
 
