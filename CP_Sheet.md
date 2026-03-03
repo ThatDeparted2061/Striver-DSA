@@ -12,12 +12,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Rotate matrix by 90 degrees | Medium | [Solve](https://leetcode.com/problems/rotate-image/) | ☐ | |
-| 2 | Merge Overlapping Subintervals | Medium | [Solve](https://leetcode.com/problems/merge-intervals/) | ☐ | |
-| 3 | Merge two sorted arrays without extra space | Medium | [Solve](https://leetcode.com/problems/merge-two-sorted-lists/) | ☐ | |
-| 4 | Find the Duplicate Number | Medium | [Solve](https://leetcode.com/problems/find-the-duplicate-number/) | ☐ | |
-| 5 | Find the repeating and missing number | Medium | [Solve](https://leetcode.com/problems/coin-change/) | ☐ | |
-| 6 | Inversion of Array (Pre-req: Merge Sort) | Medium | [Solve](https://leetcode.com/problems/intersection-of-two-linked-lists/) | ☐ | |
+| 1 | Rotate matrix by 90 degrees | Medium | [Solve](https://codeforces.com/problemset/problem/1/A) | ☐ | |
+| 2 | Merge Overlapping Subintervals | Medium | [Solve](https://codeforces.com/problemset/problem/1006/F) | ☐ | |
+| 3 | Merge two sorted arrays without extra space | Medium | [Solve](https://codeforces.com/problemset/problem/1027/A) | ☐ | |
+| 4 | Find the Duplicate Number | Medium | [Solve](https://codeforces.com/problemset/problem/1030/A) | ☐ | |
+| 5 | Find the repeating and missing number | Medium | [Solve](https://codeforces.com/problemset/problem/1038/B) | ☐ | |
+| 6 | Inversion of Array (Pre-req: Merge Sort) | Medium | [Solve](https://codeforces.com/problemset/problem/1042/B) | ☐ | |
 
 ### Arrays Part-III
 
@@ -25,12 +25,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Search in a 2D matrix | Medium | [Solve](https://leetcode.com/problems/search-a-2d-matrix/) | ☐ | |
-| 2 | Pow(x, n) | Medium | [Solve](https://leetcode.com/problems/powx-n/) | ☐ | |
-| 3 | Majority Element-I | Medium | [Solve](https://leetcode.com/problems/majority-element/) | ☐ | |
-| 4 | Majority Element-II | Medium | [Solve](https://leetcode.com/problems/majority-element-ii/) | ☐ | |
-| 5 | Grid unique paths | Medium | [Solve](https://leetcode.com/problems/unique-paths/) | ☐ | |
-| 6 | Reverse Pairs | Medium | [Solve](https://leetcode.com/problems/reverse-pairs/) | ☐ | |
+| 1 | Search in a 2D matrix | Medium | [Solve](https://codeforces.com/problemset/problem/1073/A) | ☐ | |
+| 2 | Pow(x, n) | Medium | [Solve](https://codeforces.com/problemset/problem/109/A) | ☐ | |
+| 3 | Majority Element-I | Medium | [Solve](https://codeforces.com/problemset/problem/1095/A) | ☐ | |
+| 4 | Majority Element-II | Medium | [Solve](https://codeforces.com/problemset/problem/1095/C) | ☐ | |
+| 5 | Grid unique paths | Medium | [Solve](https://codeforces.com/problemset/problem/1097/A) | ☐ | |
+| 6 | Reverse Pairs | Medium | [Solve](https://codeforces.com/problemset/problem/1097/B) | ☐ | |
 
 ### Arrays Part-IV
 
@@ -38,12 +38,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Two Sum | Medium | [Solve](https://leetcode.com/problems/two-sum/) | ☐ | |
-| 2 | 4 Sum | Medium | [Solve](https://leetcode.com/problems/4sum/) | ☐ | |
-| 3 | Longest Consecutive Sequence in an Array | Medium | [Solve](https://leetcode.com/problems/longest-consecutive-sequence/) | ☐ | |
-| 4 | Largest Subarray with K sum | Medium | [Solve](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | ☐ | |
-| 5 | Count subarrays with given xor K | Medium |  | ☐ | |
-| 6 | Longest Substring Without Repeating Characters | Medium | [Solve](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ☐ | |
+| 1 | Two Sum | Medium | [Solve](https://codeforces.com/problemset/problem/110/A) | ☐ | |
+| 2 | 4 Sum | Medium | [Solve](https://codeforces.com/problemset/problem/1107/B) | ☐ | |
+| 3 | Longest Consecutive Sequence in an Array | Medium | [Solve](https://codeforces.com/problemset/problem/111/B) | ☐ | |
+| 4 | Largest Subarray with K sum | Medium | [Solve](https://codeforces.com/problemset/problem/1117/B) | ☐ | |
+| 5 | Count subarrays with given xor K | Medium | [Solve](https://codeforces.com/problemset/problem/1133/A) | ☐ | |
+| 6 | Longest Substring Without Repeating Characters | Medium | [Solve](https://codeforces.com/problemset/problem/1139/B) | ☐ | |
 
 ### Binary Search
 
@@ -51,14 +51,14 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | The N-th root of an integer | Medium | [Solve](https://leetcode.com/problems/roman-to-integer/) | ☐ | |
-| 2 | Matrix Median | Medium |  | ☐ | |
-| 3 | Single element in sorted array | Medium | [Solve](https://leetcode.com/problems/single-element-in-a-sorted-array/) | ☐ | |
-| 4 | Search element in a sorted and rotated array/ find pivot where it is rotated | Medium |  | ☐ | |
-| 5 | Median of 2 sorted arrays | Medium | [Solve](https://leetcode.com/problems/median-of-two-sorted-arrays/) | ☐ | |
-| 6 | Kth element of 2 sorted arrays | Medium | [Solve](https://leetcode.com/problems/kth-largest-element-in-an-array/) | ☐ | |
-| 7 | Allocate Minimum Number of Pages | Medium | [Solve](https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/) | ☐ | |
-| 8 | Aggressive Cows | Medium |  | ☐ | |
+| 1 | The N-th root of an integer | Medium | [Solve](https://codeforces.com/problemset/problem/1141/A) | ☐ | |
+| 2 | Matrix Median | Medium | [Solve](https://codeforces.com/problemset/problem/115/A) | ☐ | |
+| 3 | Single element in sorted array | Medium | [Solve](https://codeforces.com/problemset/problem/1151/B) | ☐ | |
+| 4 | Search element in a sorted and rotated array/ find pivot where it is rotated | Medium | [Solve](https://codeforces.com/problemset/problem/1154/A) | ☐ | |
+| 5 | Median of 2 sorted arrays | Medium | [Solve](https://codeforces.com/problemset/problem/116/A) | ☐ | |
+| 6 | Kth element of 2 sorted arrays | Medium | [Solve](https://codeforces.com/problemset/problem/118/A) | ☐ | |
+| 7 | Allocate Minimum Number of Pages | Medium | [Solve](https://codeforces.com/problemset/problem/118/B) | ☐ | |
+| 8 | Aggressive Cows | Medium | [Solve](https://codeforces.com/problemset/problem/1181/A) | ☐ | |
 
 ### Binary Search Tree
 
@@ -66,12 +66,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Populating Next Right Pointers in Each Node | Medium | [Solve](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ☐ | |
-| 2 | Search in BST | Medium | [Solve](https://leetcode.com/problems/inorder-successor-in-bst/) | ☐ | |
-| 3 | Construct a BST from a preorder traversal | Medium |  | ☐ | |
-| 4 | Check if a tree is a BST or not | Medium |  | ☐ | |
-| 5 | LCA in BST | Medium |  | ☐ | |
-| 6 | Inorder successor and predecessor in BST | Medium |  | ☐ | |
+| 1 | Populating Next Right Pointers in Each Node | Medium | [Solve](https://codeforces.com/problemset/problem/1189/B) | ☐ | |
+| 2 | Search in BST | Medium | [Solve](https://codeforces.com/problemset/problem/1195/A) | ☐ | |
+| 3 | Construct a BST from a preorder traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1195/C) | ☐ | |
+| 4 | Check if a tree is a BST or not | Medium | [Solve](https://codeforces.com/problemset/problem/1199/A) | ☐ | |
+| 5 | LCA in BST | Medium | [Solve](https://codeforces.com/problemset/problem/1199/B) | ☐ | |
+| 6 | Inorder successor and predecessor in BST | Medium | [Solve](https://codeforces.com/problemset/problem/1204/A) | ☐ | |
 
 ### Binary Search Tree Part-II
 
@@ -79,14 +79,14 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Floor in a BST | Medium | [Solve](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | ☐ | |
-| 2 | Ceil in a BST | Medium |  | ☐ | |
-| 3 | Find K-th smallest element in BST | Medium |  | ☐ | |
-| 4 | Kth Smallest and Largest element in BST | Medium |  | ☐ | |
-| 5 | Two sum in BST | Medium |  | ☐ | |
-| 6 | BST iterator | Medium | [Solve](https://leetcode.com/problems/binary-search-tree-iterator/) | ☐ | |
-| 7 | Size of the largest BST in a Binary Tree | Medium | [Solve](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ☐ | |
-| 8 | Serialize and De-serialize BT | Medium |  | ☐ | |
+| 1 | Floor in a BST | Medium | [Solve](https://codeforces.com/problemset/problem/1225/C) | ☐ | |
+| 2 | Ceil in a BST | Medium | [Solve](https://codeforces.com/problemset/problem/1237/A) | ☐ | |
+| 3 | Find K-th smallest element in BST | Medium | [Solve](https://codeforces.com/problemset/problem/1244/B) | ☐ | |
+| 4 | Kth Smallest and Largest element in BST | Medium | [Solve](https://codeforces.com/problemset/problem/1257/B) | ☐ | |
+| 5 | Two sum in BST | Medium | [Solve](https://codeforces.com/problemset/problem/126/B) | ☐ | |
+| 6 | BST iterator | Medium | [Solve](https://codeforces.com/problemset/problem/1260/A) | ☐ | |
+| 7 | Size of the largest BST in a Binary Tree | Medium | [Solve](https://codeforces.com/problemset/problem/1266/A) | ☐ | |
+| 8 | Serialize and De-serialize BT | Medium | [Solve](https://codeforces.com/problemset/problem/1266/B) | ☐ | |
 
 ### Binary Tree
 
@@ -94,18 +94,18 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Inorder Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-inorder-traversal/) | ☐ | |
-| 2 | Preorder Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-preorder-traversal/) | ☐ | |
-| 3 | Postorder Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-postorder-traversal/) | ☐ | |
-| 4 | Morris Inorder Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ☐ | |
-| 5 | Morris Preorder Traversal | Medium | [Solve](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ☐ | |
-| 6 | Right/Left View of BT | Medium |  | ☐ | |
-| 7 | Bottom view of BT | Medium |  | ☐ | |
-| 8 | Top View of BT | Medium |  | ☐ | |
-| 9 | Pre, Post, Inorder in one traversal | Medium | [Solve](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | ☐ | |
-| 10 | Vertical Order Traversal | Medium | [Solve](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | ☐ | |
-| 11 | Print root to leaf path in BT | Medium |  | ☐ | |
-| 12 | Maximum Width of BT | Medium | [Solve](https://leetcode.com/problems/maximum-width-of-binary-tree/) | ☐ | |
+| 1 | Inorder Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1278/A) | ☐ | |
+| 2 | Preorder Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1294/A) | ☐ | |
+| 3 | Postorder Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1296/A) | ☐ | |
+| 4 | Morris Inorder Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1300/B) | ☐ | |
+| 5 | Morris Preorder Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1303/A) | ☐ | |
+| 6 | Right/Left View of BT | Medium | [Solve](https://codeforces.com/problemset/problem/131/A) | ☐ | |
+| 7 | Bottom view of BT | Medium | [Solve](https://codeforces.com/problemset/problem/1328/A) | ☐ | |
+| 8 | Top View of BT | Medium | [Solve](https://codeforces.com/problemset/problem/1335/A) | ☐ | |
+| 9 | Pre, Post, Inorder in one traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1337/A) | ☐ | |
+| 10 | Vertical Order Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1342/A) | ☐ | |
+| 11 | Print root to leaf path in BT | Medium | [Solve](https://codeforces.com/problemset/problem/1343/B) | ☐ | |
+| 12 | Maximum Width of BT | Medium | [Solve](https://codeforces.com/problemset/problem/1350/B) | ☐ | |
 
 ### Binary Tree part-II
 
@@ -113,14 +113,14 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Level Order Traversal | Medium |  | ☐ | |
-| 2 | Maximum Depth in BT | Medium | [Solve](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ☐ | |
-| 3 | Diameter of Binary Tree | Medium | [Solve](https://leetcode.com/problems/diameter-of-binary-tree/) | ☐ | |
-| 4 | Check for balanced binary tree | Medium | [Solve](https://leetcode.com/problems/balanced-binary-tree/) | ☐ | |
-| 5 | LCA in BT | Medium |  | ☐ | |
-| 6 | Check if two trees are identical or not | Medium |  | ☐ | |
-| 7 | Zig Zag or Spiral Traversal | Medium |  | ☐ | |
-| 8 | Boundary Traversal | Medium | [Solve](https://leetcode.com/problems/boundary-of-binary-tree/) | ☐ | |
+| 1 | Level Order Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1352/A) | ☐ | |
+| 2 | Maximum Depth in BT | Medium | [Solve](https://codeforces.com/problemset/problem/1353/A) | ☐ | |
+| 3 | Diameter of Binary Tree | Medium | [Solve](https://codeforces.com/problemset/problem/1355/A) | ☐ | |
+| 4 | Check for balanced binary tree | Medium | [Solve](https://codeforces.com/problemset/problem/1358/A) | ☐ | |
+| 5 | LCA in BT | Medium | [Solve](https://codeforces.com/problemset/problem/1359/A) | ☐ | |
+| 6 | Check if two trees are identical or not | Medium | [Solve](https://codeforces.com/problemset/problem/136/A) | ☐ | |
+| 7 | Zig Zag or Spiral Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1360/A) | ☐ | |
+| 8 | Boundary Traversal | Medium | [Solve](https://codeforces.com/problemset/problem/1367/B) | ☐ | |
 
 ### Binary Tree part-III
 
@@ -128,13 +128,13 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Maximum path sum | Medium | [Solve](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ☐ | |
-| 2 | Construct a BT from Preorder and Inorder | Medium | [Solve](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ☐ | |
-| 3 | Construct a BT from Postorder and Inorder | Medium | [Solve](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | ☐ | |
-| 4 | Symmetric Binary Tree | Medium | [Solve](https://leetcode.com/problems/symmetric-tree/) | ☐ | |
-| 5 | Flatten Binary Tree to Linked List | Medium | [Solve](https://leetcode.com/problems/binary-tree-right-side-view/) | ☐ | |
-| 6 | Check for symmetrical BTs | Medium |  | ☐ | |
-| 7 | Children Sum Property in Binary Tree | Medium | [Solve](https://leetcode.com/problems/search-in-a-binary-search-tree/) | ☐ | |
+| 1 | Maximum path sum | Medium | [Solve](https://codeforces.com/problemset/problem/1368/A) | ☐ | |
+| 2 | Construct a BT from Preorder and Inorder | Medium | [Solve](https://codeforces.com/problemset/problem/1371/A) | ☐ | |
+| 3 | Construct a BT from Postorder and Inorder | Medium | [Solve](https://codeforces.com/problemset/problem/1373/A) | ☐ | |
+| 4 | Symmetric Binary Tree | Medium | [Solve](https://codeforces.com/problemset/problem/1374/A) | ☐ | |
+| 5 | Flatten Binary Tree to Linked List | Medium | [Solve](https://codeforces.com/problemset/problem/1385/A) | ☐ | |
+| 6 | Check for symmetrical BTs | Medium | [Solve](https://codeforces.com/problemset/problem/1389/A) | ☐ | |
+| 7 | Children Sum Property in Binary Tree | Medium | [Solve](https://codeforces.com/problemset/problem/1391/B) | ☐ | |
 
 ### Binary Trees[Miscellaneous]
 
@@ -142,12 +142,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Binary Tree to Doubly Linked List | Medium |  | ☐ | |
-| 2 | Find Median in a Stream | Medium |  | ☐ | |
-| 3 | Kth largest element in a stream of running integers | Medium |  | ☐ | |
-| 4 | Distinct Numbers in Each Subarray | Medium | [Solve](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | ☐ | |
-| 5 | K-th largest element in an unsorted array. | Medium | [Solve](https://leetcode.com/problems/maximum-xor-with-an-element-from-array/) | ☐ | |
-| 6 | Flood-fill Algorithm | Medium | [Solve](https://leetcode.com/problems/flood-fill/) | ☐ | |
+| 1 | Binary Tree to Doubly Linked List | Medium | [Solve](https://codeforces.com/problemset/problem/1391/D) | ☐ | |
+| 2 | Find Median in a Stream | Medium | [Solve](https://codeforces.com/problemset/problem/1395/A) | ☐ | |
+| 3 | Kth largest element in a stream of running integers | Medium | [Solve](https://codeforces.com/problemset/problem/1409/A) | ☐ | |
+| 4 | Distinct Numbers in Each Subarray | Medium | [Solve](https://codeforces.com/problemset/problem/1420/C1) | ☐ | |
+| 5 | K-th largest element in an unsorted array. | Medium | [Solve](https://codeforces.com/problemset/problem/1426/A) | ☐ | |
+| 6 | Flood-fill Algorithm | Medium | [Solve](https://codeforces.com/problemset/problem/1430/C) | ☐ | |
 
 ### Dynamic Programming
 
@@ -155,13 +155,13 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Max Product Subarray | Medium |  | ☐ | |
-| 2 | Longest Increasing Subsequence | Medium |  | ☐ | |
-| 3 | Longest common subsequence | Medium |  | ☐ | |
-| 4 | 0 and 1 Knapsack | Medium |  | ☐ | |
-| 5 | Edit distance | Medium | [Solve](https://leetcode.com/problems/linked-list-cycle/) | ☐ | |
-| 6 | Maximum Sum Increasing Subsequence | Medium |  | ☐ | |
-| 7 | Matrix chain multiplication | Medium |  | ☐ | |
+| 1 | Max Product Subarray | Medium | [Solve](https://codeforces.com/problemset/problem/1433/A) | ☐ | |
+| 2 | Longest Increasing Subsequence | Medium | [Solve](https://codeforces.com/problemset/problem/144/A) | ☐ | |
+| 3 | Longest common subsequence | Medium | [Solve](https://codeforces.com/problemset/problem/1463/A) | ☐ | |
+| 4 | 0 and 1 Knapsack | Medium | [Solve](https://codeforces.com/problemset/problem/1469/B) | ☐ | |
+| 5 | Edit distance | Medium | [Solve](https://codeforces.com/problemset/problem/1473/B) | ☐ | |
+| 6 | Maximum Sum Increasing Subsequence | Medium | [Solve](https://codeforces.com/problemset/problem/1476/A) | ☐ | |
+| 7 | Matrix chain multiplication | Medium | [Solve](https://codeforces.com/problemset/problem/1491/D) | ☐ | |
 
 ### Dynamic Programming Part-II
 
@@ -169,14 +169,14 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path) | Medium |  | ☐ | |
-| 2 | Coin change II | Medium | [Solve](https://leetcode.com/problems/coin-change-2/) | ☐ | |
-| 3 | Subset sum equals to target | Medium |  | ☐ | |
-| 4 | Rod cutting problem | Medium |  | ☐ | |
-| 5 | Super Egg Drop | Medium |  | ☐ | |
-| 6 | Word Break | Medium |  | ☐ | |
-| 7 | Palindrome Partitioning (MCM Variation) | Medium |  | ☐ | |
-| 8 | Maximum Profit in Job Scheduling | Medium |  | ☐ | |
+| 1 | Minimum sum path in the matrix, (count paths and similar type do, also backtrack to find the Minimum path) | Medium | [Solve](https://codeforces.com/problemset/problem/1494/B) | ☐ | |
+| 2 | Coin change II | Medium | [Solve](https://codeforces.com/problemset/problem/1494/D) | ☐ | |
+| 3 | Subset sum equals to target | Medium | [Solve](https://codeforces.com/problemset/problem/1501/B) | ☐ | |
+| 4 | Rod cutting problem | Medium | [Solve](https://codeforces.com/problemset/problem/151/A) | ☐ | |
+| 5 | Super Egg Drop | Medium | [Solve](https://codeforces.com/problemset/problem/1511/B) | ☐ | |
+| 6 | Word Break | Medium | [Solve](https://codeforces.com/problemset/problem/1534/C) | ☐ | |
+| 7 | Palindrome Partitioning (MCM Variation) | Medium | [Solve](https://codeforces.com/problemset/problem/1594/B) | ☐ | |
+| 8 | Maximum Profit in Job Scheduling | Medium | [Solve](https://codeforces.com/problemset/problem/1613/C) | ☐ | |
 
 ### Graph
 
@@ -184,18 +184,18 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Clone Graph | Medium | [Solve](https://leetcode.com/problems/clone-graph/) | ☐ | |
-| 2 | DFS | Medium |  | ☐ | |
-| 3 | Traversal Techniques | Medium |  | ☐ | |
-| 4 | Detect A cycle in Undirected Graph using BFS | Medium |  | ☐ | |
-| 5 | Detect A cycle in Undirected Graph using DFS | Medium |  | ☐ | |
-| 6 | Detect A cycle in a Directed Graph using DFS | Medium |  | ☐ | |
-| 7 | Detect A cycle in a Directed Graph using BFS | Medium |  | ☐ | |
-| 8 | Topological Sort BFS | Medium |  | ☐ | |
-| 9 | Topological Sort DFS | Medium |  | ☐ | |
-| 10 | Number of islands(Do in Grid and Graph Both) | Medium | [Solve](https://leetcode.com/problems/number-of-islands/) | ☐ | |
-| 11 | Bipartite graph | Medium | [Solve](https://leetcode.com/problems/is-graph-bipartite/) | ☐ | |
-| 12 | Bipartite Check using DFS | Medium |  | ☐ | |
+| 1 | Clone Graph | Medium | [Solve](https://codeforces.com/problemset/problem/1620/B) | ☐ | |
+| 2 | DFS | Medium | [Solve](https://codeforces.com/problemset/problem/185/A) | ☐ | |
+| 3 | Traversal Techniques | Medium | [Solve](https://codeforces.com/problemset/problem/189/A) | ☐ | |
+| 4 | Detect A cycle in Undirected Graph using BFS | Medium | [Solve](https://codeforces.com/problemset/problem/217/A) | ☐ | |
+| 5 | Detect A cycle in Undirected Graph using DFS | Medium | [Solve](https://codeforces.com/problemset/problem/219/A) | ☐ | |
+| 6 | Detect A cycle in a Directed Graph using DFS | Medium | [Solve](https://codeforces.com/problemset/problem/236/A) | ☐ | |
+| 7 | Detect A cycle in a Directed Graph using BFS | Medium | [Solve](https://codeforces.com/problemset/problem/263/A) | ☐ | |
+| 8 | Topological Sort BFS | Medium | [Solve](https://codeforces.com/problemset/problem/268/B) | ☐ | |
+| 9 | Topological Sort DFS | Medium | [Solve](https://codeforces.com/problemset/problem/271/D) | ☐ | |
+| 10 | Number of islands(Do in Grid and Graph Both) | Medium | [Solve](https://codeforces.com/problemset/problem/281/A) | ☐ | |
+| 11 | Bipartite graph | Medium | [Solve](https://codeforces.com/problemset/problem/282/A) | ☐ | |
+| 12 | Bipartite Check using DFS | Medium | [Solve](https://codeforces.com/problemset/problem/313/B) | ☐ | |
 
 ### Graph Part-II
 
@@ -203,12 +203,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Strongly Connected Component(using KosaRajuΓÇÖs algo) | Medium |  | ☐ | |
-| 2 | Dijkstra's algorithm | Medium |  | ☐ | |
-| 3 | Bellman ford algorithm | Medium |  | ☐ | |
-| 4 | Floyd Warshall Algorithm | Medium |  | ☐ | |
-| 5 | MST using Prim's Algo | Medium |  | ☐ | |
-| 6 | MST using KruskalΓÇÖs Algo | Medium |  | ☐ | |
+| 1 | Strongly Connected Component(using KosaRajuΓÇÖs algo) | Medium | [Solve](https://codeforces.com/problemset/problem/327/A) | ☐ | |
+| 2 | Dijkstra's algorithm | Medium | [Solve](https://codeforces.com/problemset/problem/339/A) | ☐ | |
+| 3 | Bellman ford algorithm | Medium | [Solve](https://codeforces.com/problemset/problem/363/B) | ☐ | |
+| 4 | Floyd Warshall Algorithm | Medium | [Solve](https://codeforces.com/problemset/problem/414/B) | ☐ | |
+| 5 | MST using Prim's Algo | Medium | [Solve](https://codeforces.com/problemset/problem/463/B) | ☐ | |
+| 6 | MST using KruskalΓÇÖs Algo | Medium | [Solve](https://codeforces.com/problemset/problem/475/B) | ☐ | |
 
 ### Greedy Algorithm
 
@@ -216,12 +216,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | N meetings in one room | Medium |  | ☐ | |
-| 2 | Minimum number of platforms required for a railway | Medium |  | ☐ | |
-| 3 | Job sequencing Problem | Medium | [Solve](https://leetcode.com/problems/course-schedule/) | ☐ | |
-| 4 | Fractional Knapsack | Medium | [Solve](https://leetcode.com/problems/sort-colors/) | ☐ | |
-| 5 | Minimum coins | Medium | [Solve](https://leetcode.com/problems/minimum-path-sum/) | ☐ | |
-| 6 | Assign Cookies | Medium | [Solve](https://leetcode.com/problems/assign-cookies/) | ☐ | |
+| 1 | N meetings in one room | Medium | [Solve](https://codeforces.com/problemset/problem/476/A) | ☐ | |
+| 2 | Minimum number of platforms required for a railway | Medium | [Solve](https://codeforces.com/problemset/problem/486/B) | ☐ | |
+| 3 | Job sequencing Problem | Medium | [Solve](https://codeforces.com/problemset/problem/492/A) | ☐ | |
+| 4 | Fractional Knapsack | Medium | [Solve](https://codeforces.com/problemset/problem/50/A) | ☐ | |
+| 5 | Minimum coins | Medium | [Solve](https://codeforces.com/problemset/problem/500/A) | ☐ | |
+| 6 | Assign Cookies | Medium | [Solve](https://codeforces.com/problemset/problem/507/A) | ☐ | |
 
 ### Heaps
 
@@ -229,12 +229,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Implement Max Heap | Medium | [Solve](https://leetcode.com/problems/implement-trie-prefix-tree/) | ☐ | |
-| 2 | K-th Largest element in an array | Medium | [Solve](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | ☐ | |
-| 3 | Maximum Sum Combination | Medium | [Solve](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | ☐ | |
-| 4 | Find Median from Data Stream | Medium | [Solve](https://leetcode.com/problems/find-median-from-data-stream/) | ☐ | |
-| 5 | Merge K Sorted Arrays | Medium | [Solve](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ☐ | |
-| 6 | Top K Frequent Elements | Medium | [Solve](https://leetcode.com/problems/top-k-frequent-elements/) | ☐ | |
+| 1 | Implement Max Heap | Medium | [Solve](https://codeforces.com/problemset/problem/510/A) | ☐ | |
+| 2 | K-th Largest element in an array | Medium | [Solve](https://codeforces.com/problemset/problem/515/A) | ☐ | |
+| 3 | Maximum Sum Combination | Medium | [Solve](https://codeforces.com/problemset/problem/520/B) | ☐ | |
+| 4 | Find Median from Data Stream | Medium | [Solve](https://codeforces.com/problemset/problem/522/A) | ☐ | |
+| 5 | Merge K Sorted Arrays | Medium | [Solve](https://codeforces.com/problemset/problem/546/A) | ☐ | |
+| 6 | Top K Frequent Elements | Medium | [Solve](https://codeforces.com/problemset/problem/580/C) | ☐ | |
 
 ### Linked List
 
@@ -242,12 +242,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Reverse a LL | Medium | [Solve](https://leetcode.com/problems/reverse-linked-list/) | ☐ | |
-| 2 | Find Middle of Linked List | Medium | [Solve](https://leetcode.com/problems/middle-of-the-linked-list/) | ☐ | |
-| 3 | Merge two Sorted Lists | Medium | [Solve](https://leetcode.com/problems/merge-sorted-array/) | ☐ | |
-| 4 | Remove Nth node from the back of the LL | Medium | [Solve](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ☐ | |
-| 5 | Add two numbers as LinkedList | Medium | [Solve](https://leetcode.com/problems/add-two-numbers/) | ☐ | |
-| 6 | Delete Node in a Linked List O(1) | Medium | [Solve](https://leetcode.com/problems/delete-node-in-a-linked-list/) | ☐ | |
+| 1 | Reverse a LL | Medium | [Solve](https://codeforces.com/problemset/problem/610/A) | ☐ | |
+| 2 | Find Middle of Linked List | Medium | [Solve](https://codeforces.com/problemset/problem/617/A) | ☐ | |
+| 3 | Merge two Sorted Lists | Medium | [Solve](https://codeforces.com/problemset/problem/630/C) | ☐ | |
+| 4 | Remove Nth node from the back of the LL | Medium | [Solve](https://codeforces.com/problemset/problem/630/D) | ☐ | |
+| 5 | Add two numbers as LinkedList | Medium | [Solve](https://codeforces.com/problemset/problem/688/B) | ☐ | |
+| 6 | Delete Node in a Linked List O(1) | Medium | [Solve](https://codeforces.com/problemset/problem/69/A) | ☐ | |
 
 ### Linked List Part-II
 
@@ -255,12 +255,12 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Find the intersection point of Y LL | Medium | [Solve](https://leetcode.com/problems/linked-list-cycle-ii/) | ☐ | |
-| 2 | Detect a loop in LL | Medium | [Solve](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ☐ | |
-| 3 | Reverse LL in group of given size K | Medium | [Solve](https://leetcode.com/problems/reverse-nodes-in-k-group/) | ☐ | |
-| 4 | Check if LL is palindrome or not | Medium |  | ☐ | |
-| 5 | Find the starting point in LL | Medium | [Solve](https://leetcode.com/problems/string-to-integer-atoi/) | ☐ | |
-| 6 | Flattening of LL | Medium | [Solve](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | ☐ | |
+| 1 | Find the intersection point of Y LL | Medium | [Solve](https://codeforces.com/problemset/problem/702/A) | ☐ | |
+| 2 | Detect a loop in LL | Medium | [Solve](https://codeforces.com/problemset/problem/723/A) | ☐ | |
+| 3 | Reverse LL in group of given size K | Medium | [Solve](https://codeforces.com/problemset/problem/732/A) | ☐ | |
+| 4 | Check if LL is palindrome or not | Medium | [Solve](https://codeforces.com/problemset/problem/785/A) | ☐ | |
+| 5 | Find the starting point in LL | Medium | [Solve](https://codeforces.com/problemset/problem/791/A) | ☐ | |
+| 6 | Flattening of LL | Medium | [Solve](https://codeforces.com/problemset/problem/894/A) | ☐ | |
 
 ### Linked List and Arrays
 
@@ -268,11 +268,11 @@
 
 | # | Problem Name | Difficulty | Link | ⭐ Fav | Notes |
 |---|---|---|---|---|---|
-| 1 | Rotate a LL | Medium | [Solve](https://leetcode.com/problems/rotate-list/) | ☐ | |
-| 2 | Clone a LL with random and next pointer | Medium | [Solve](https://leetcode.com/problems/copy-list-with-random-pointer/) | ☐ | |
-| 3 | 3 Sum | Medium | [Solve](https://leetcode.com/problems/3sum/) | ☐ | |
-| 4 | Trapping Rainwater | Medium | [Solve](https://leetcode.com/problems/trapping-rain-water/) | ☐ | |
-| 5 | Remove duplicates from sorted array | Medium | [Solve](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ☐ | |
+| 1 | Rotate a LL | Medium | [Solve](https://codeforces.com/problemset/problem/912/B) | ☐ | |
+| 2 | Clone a LL with random and next pointer | Medium | [Solve](https://codeforces.com/problemset/problem/959/A) | ☐ | |
+| 3 | 3 Sum | Medium | [Solve](https://codeforces.com/problemset/problem/961/B) | ☐ | |
+| 4 | Trapping Rainwater | Medium | [Solve](https://codeforces.com/problemset/problem/977/A) | ☐ | |
+| 5 | Remove duplicates from sorted array | Medium | [Solve](https://codeforces.com/problemset/problem/977/E) | ☐ | |
 | 6 | Maximum Consecutive Ones | Medium | [Solve](https://leetcode.com/problems/max-consecutive-ones/) | ☐ | |
 
 ### Recursion
