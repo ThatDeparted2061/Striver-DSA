@@ -1,927 +1,452 @@
-# Striver's A2Z DSA Sheet - Complete Problem Archival
+# Striver's A2Z DSA Sheet - Complete Problem List
 
-> **📌 ARCHIVE NOTICE**: This repository preserves Striver's complete free A2Z DSA course before it became paid (from March 4, 2026).  
-> All 454 problems with difficulty levels, practice links, and tracking columns are documented below.
+> **📌 ARCHIVE NOTICE**: Sheet preserved from TakeUForward - all links point directly to official TakeUForward practice pages
 
-## 📊 Statistics
+## 🔗 All Links from TakeUForward
 
-| Metric | Count |
-|--------|-------|
-| **Total Problems** | 454 |
-| **Total Sections** | 18 |
-| **Easy** | 134 |
-| **Medium** | 183 |
-| **Hard** | 137 |
+All problem links below are **direct links to TakeUForward practice pages** extracted from the official A2Z DSA Sheet.
 
 ---
 
-## 🎯 How to Track Progress
+## 📋 Learn the Basics - Complete
 
-### Columns Explained:
-- **#**: Problem number in section
-- **Problem Name**: Full problem title
-- **Platform**: Where to solve (LeetCode/GFG)
-- **Difficulty**: Easy/Medium/Hard
-- **Link**: Direct link to problem
-- **⭐ Fav**: Check this box for problems to revisit
-- **Notes**: Add your approach, tricks, or time spent
+### 1. Learn the Basics
 
-### How to Use:
-1. **Clone/Fork** this repository
-2. **Edit the README** locally (or use GitHub web editor)
-3. **Mark with ✅** when solved
-4. **Mark with ⭐** for your favourite problems
-5. **Add notes** for key learnings
+| # | Problem | Link | ⭐ |
+|---|---------|------|-------|
+| 1 | Input Output | [Go](https://takeuforward.org/c/c-basic-input-output/) | ☐ |
+| 2 | Cpp Basics | [Go](https://takeuforward.org/data-structure/what-are-arrays-strings) | ☐ |
+| 3 | If ElseIf | [Go](https://takeuforward.org/if-else/if-else-statements/) | ☐ |
+| 4 | Switch Case | [Go](https://takeuforward.org/switch-case/switch-case-statements/) | ☐ |
+| 5 | What are arrays, strings? | [Go](https://takeuforward.org/data-structure/what-are-arrays-strings) | ☐ |
+| 6 | For loops | [Go](https://takeuforward.org/for-loop/understanding-for-loop/) | ☐ |
+| 7 | While loops | [Go](https://takeuforward.org/while-loop/while-loops-in-programming/) | ☐ |
+| 8 | Functions (Pass by Reference and Value) | [Go](https://takeuforward.org/data-structure/functions-pass-by-reference-and-value) | ☐ |
+| 9 | Theory with examples | [Go](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/) | ☐ |
+| 10 | Easy and Medium | [Go](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/) | ☐ |
+| 11 | STL | [Go](https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/) | ☐ |
+| 12 | Java Collections | [Go](https://takeuforward.org/data-structure/java-collections) | ☐ |
+| 13 | Count all Digits of a Number | [Go](https://takeuforward.org/data-structure/count-digits-in-a-number/) | ☐ |
+| 14 | Reverse a number | [Go](https://takeuforward.org/maths/reverse-digits-of-a-number) | ☐ |
+| 15 | Palindrome Number | [Go](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/) | ☐ |
+| 16 | GCD of Two Numbers | [Go](https://takeuforward.org/data-structure/find-gcd-of-two-numbers/) | ☐ |
+| 17 | Check if the Number is Armstrong | [Go](https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/) | ☐ |
+| 18 | Print all Divisors | [Go](https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/) | ☐ |
+| 19 | Check for Prime Number | [Go](https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/) | ☐ |
+| 20 | Understand recursion by print something N times | [Go](https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/) | ☐ |
+| 21 | Print name N times using recursion | [Go](https://takeuforward.org/recursion/print-name-n-times-using-recursion/) | ☐ |
+| 22 | Print 1 to N using Recursion | [Go](https://takeuforward.org/recursion/print-1-to-n-using-recursion/) | ☐ |
+| 23 | Print N to 1 using Recursion | [Go](https://takeuforward.org/recursion/print-n-to-1-using-recursion/) | ☐ |
+| 24 | Sum of First N Numbers | [Go](https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/) | ☐ |
+| 25 | Factorial of a given number | [Go](https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive) | ☐ |
+| 26 | Reverse an array | [Go](https://takeuforward.org/data-structure/reverse-a-given-array/) | ☐ |
+| 27 | Check if String is Palindrome or Not | [Go](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/) | ☐ |
+| 28 | Fibonacci Number | [Go](https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/) | ☐ |
+| 29 | Basic Hashing | [Go](https://takeuforward.org/hashing/hashing-maps-time-complexity-collisions-division-rule-of-hashing-strivers-a2z-dsa-course/) | ☐ |
+| 30 | Counting Frequencies of Array Elements | [Go](https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/) | ☐ |
+| 31 | Highest Occurring Element in an Array | [Go](https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/) | ☐ |
 
----
 
-## 📚 Complete Problem List
-
-### 1. Learn the basics
-
-**Problems: 31**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Know the Basics of Programming Language | Learn | Easy | ~ | ☐ | |
-| 2 | 2. Number System and Conversion | Learn | Easy | ~ | ☐ | |
-| 3 | 3. Conditional Statements | Learn | Easy | ~ | ☐ | |
-| 4 | 4. Loops and Iteration | Learn | Easy | ~ | ☐ | |
-| 5 | 5. Arrays and Strings | Learn | Easy | ~ | ☐ | |
-| 6 | 6. Pass by Value and Pass by Reference | Learn | Easy | ~ | ☐ | |
-| 7 | 7. Pattern 1 (N=5) - Right Triangle | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 8 | 8. Pattern 2 (N=4) - Right Triangle | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 9 | 9. Pattern 3 - Right Triangle | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 10 | 10. Pattern 4 - Reverse Right Triangle | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 11 | 11. Pattern 5 - Diamond | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 12 | 12. Pattern 6 - Diamond with Stars | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 13 | 13. Pattern 7 - Rhombus | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 14 | 14. Pattern 8 - Hourglass | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 15 | 15. Pattern 9 - Hollow Square | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 16 | 16. Pattern 10 - Pyramid | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 17 | 17. Pattern 11 - Pascal's Triangle | LeetCode | Medium | [118](https://leetcode.com/problems/118/) | ☐ | |
-| 18 | 18. Pattern 12 - Number Pyramid | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 19 | 19. Pattern 13 - Alpha Triangle | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 20 | 20. Pattern 14 - Alpha Ramp | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 21 | 21. Pattern 15 - Alpha Hill | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 22 | 22. Pattern 16 - Alpha Diamond | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 23 | 23. Pattern 17 - Star Diamond | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 24 | 24. Pattern 18 - Number Diamond | LeetCode | Easy | [LeetCode](https://leetcode.com) | ☐ | |
-| 25 | 25. Pattern 19 - Zigzag Pattern | LeetCode | Medium | [LeetCode](https://leetcode.com) | ☐ | |
-| 26 | 26. Pattern 20 - Plus Pattern | LeetCode | Medium | [LeetCode](https://leetcode.com) | ☐ | |
-| 27 | 27. Pattern 21 - Plus with X | LeetCode | Medium | [LeetCode](https://leetcode.com) | ☐ | |
-| 28 | 28. GCD/HCF | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers/) | ☐ | |
-| 29 | 29. Count Digits | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/count-digits/) | ☐ | |
-| 30 | 30. Reverse a Number | LeetCode | Easy | [7](https://leetcode.com/problems/7/) | ☐ | |
-| 31 | 31. Check Palindrome | LeetCode | Easy | [9](https://leetcode.com/problems/9/) | ☐ | |
-
-### 2. Learn Important Sorting Techniques
-
-**Problems: 7**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Bubble Sort | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bubble-sort/) | ☐ | |
-| 2 | 2. Selection Sort | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/selection-sort/) | ☐ | |
-| 3 | 3. Insertion Sort | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/insertion-sort/) | ☐ | |
-| 4 | 4. Merge Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/merge-sort/) | ☐ | |
-| 5 | 5. Quick Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/quick-sort/) | ☐ | |
-| 6 | 6. Counting Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/counting-sort/) | ☐ | |
-| 7 | 7. Radix Sort | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/radix-sort/) | ☐ | |
-
-### 3. Solve Problems on Arrays [Easy → Medium → Hard]
-
-**Problems: 40**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Largest Element in Array | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/largest-element-array/) | ⭐ | |
-| 2 | 2. Second Largest Element | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/second-largest-element/) | ☐ | |
-| 3 | 3. Check if Array is Sorted | LeetCode | Easy | [1752](https://leetcode.com/problems/1752/) | ☐ | |
-| 4 | 4. Remove Duplicates from Sorted Array | LeetCode | Easy | [26](https://leetcode.com/problems/26/) | ⭐ | |
-| 5 | 5. Left Rotate Array by One | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/left-rotate-array-by-one/) | ☐ | |
-| 6 | 6. Left Rotate Array by D | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/left-rotate-array-by-d/) | ⭐ | |
-| 7 | 7. Move Zeros to End | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/move-all-zeros-to-end/) | ☐ | |
-| 8 | 8. Linear Search | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/linear-search/) | ☐ | |
-| 9 | 9. Find Union of Two Arrays | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-union-two-arrays/) | ⭐ | |
-| 10 | 10. Find Intersection of Two Arrays | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/find-intersection-two-arrays/) | ☐ | |
-| 11 | 11. Missing Number in Array | LeetCode | Easy | [268](https://leetcode.com/problems/268/) | ☐ | |
-| 12 | 12. Max Consecutive Ones | LeetCode | Easy | [485](https://leetcode.com/problems/485/) | ☐ | |
-| 13 | 13. Find Single Number | LeetCode | Easy | [136](https://leetcode.com/problems/136/) | ☐ | |
-| 14 | 14. Longest Subarray with Sum K (Positive & Negative) | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/longest-subarray-sum-k/) | ⭐ | |
-| 15 | 15. Longest Subarray with Sum K (Positives) | LeetCode | Easy | [209](https://leetcode.com/problems/209/) | ☐ | |
-| 16 | 16. Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ☐ | |
-| 17 | 17. Sort Array of 0s 1s 2s | LeetCode | Medium | [75](https://leetcode.com/problems/75/) | ⭐ | |
-| 18 | 18. Majority Element | LeetCode | Medium | [169](https://leetcode.com/problems/169/) | ☐ | |
-| 19 | 19. Majority Element II | LeetCode | Medium | [229](https://leetcode.com/problems/229/) | ☐ | |
-| 20 | 20. Beautiful Array | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/beautiful-array/) | ☐ | |
-| 21 | 21. Next Permutation | LeetCode | Medium | [31](https://leetcode.com/problems/31/) | ☐ | |
-| 22 | 22. Permutation Sequence | LeetCode | Hard | [60](https://leetcode.com/problems/60/) | ☐ | |
-| 23 | 23. Invert the Array | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/invert-array/) | ☐ | |
-| 24 | 24. Rotate Image | LeetCode | Medium | [48](https://leetcode.com/problems/48/) | ☐ | |
-| 25 | 25. Print Matrix in Spiral Order | LeetCode | Medium | [54](https://leetcode.com/problems/54/) | ☐ | |
-| 26 | 26. Print Matrix in Zigzag | LeetCode | Hard | [498](https://leetcode.com/problems/498/) | ☐ | |
-| 27 | 27. Set Matrix Zeros | LeetCode | Medium | [73](https://leetcode.com/problems/73/) | ⭐ | |
-| 28 | 28. Pascal's Triangle | LeetCode | Easy | [118](https://leetcode.com/problems/118/) | ☐ | |
-| 29 | 29. Pascal's Triangle II | LeetCode | Easy | [119](https://leetcode.com/problems/119/) | ☐ | |
-| 30 | 30. Stars (Matrix Pattern) | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/star-pattern/) | ☐ | |
-| 31 | 31. Stock Buy Sell I | LeetCode | Easy | [121](https://leetcode.com/problems/121/) | ☐ | |
-| 32 | 32. Stock Buy Sell II | LeetCode | Medium | [122](https://leetcode.com/problems/122/) | ☐ | |
-| 33 | 33. Stock Buy Sell III | LeetCode | Hard | [123](https://leetcode.com/problems/123/) | ☐ | |
-| 34 | 34. Stock Buy Sell IV | LeetCode | Hard | [188](https://leetcode.com/problems/188/) | ☐ | |
-| 35 | 35. Stock Buy Sell with Cooldown | LeetCode | Medium | [309](https://leetcode.com/problems/309/) | ☐ | |
-| 36 | 36. Best Time to Buy Sell with Transaction Fee | LeetCode | Medium | [714](https://leetcode.com/problems/714/) | ☐ | |
-| 37 | 37. Rearrange Array Elements by Sign | LeetCode | Medium | [2149](https://leetcode.com/problems/2149/) | ☐ | |
-| 38 | 38. Rearrange Array Alternately | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/rearrange-array-alternately/) | ☐ | |
-| 39 | 39. Largest Subarray with 0 Sum | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/largest-subarray-zero-sum/) | ☐ | |
-| 40 | 40. Subarray with Given XOR | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/subarray-with-given-xor/) | ☐ | |
-
-### 4. Binary Search [1D, 2D Arrays, Search Space]
-
-**Problems: 32**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Binary Search | LeetCode | Easy | [704](https://leetcode.com/problems/704/) | ⭐ | |
-| 2 | 2. Lower Bound | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/lower-bound/) | ☐ | |
-| 3 | 3. Upper Bound | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/upper-bound/) | ☐ | |
-| 4 | 4. Search Insert Position | LeetCode | Easy | [35](https://leetcode.com/problems/35/) | ⭐ | |
-| 5 | 5. First and Last Position of Element in Sorted Array | LeetCode | Medium | [34](https://leetcode.com/problems/34/) | ☐ | |
-| 6 | 6. Find Peak Element | LeetCode | Medium | [162](https://leetcode.com/problems/162/) | ⭐ | |
-| 7 | 7. Search in Rotated Sorted Array | LeetCode | Medium | [33](https://leetcode.com/problems/33/) | ☐ | |
-| 8 | 8. Search in Rotated Sorted Array II | LeetCode | Hard | [81](https://leetcode.com/problems/81/) | ☐ | |
-| 9 | 9. Find K-th Element of Two Sorted Arrays | LeetCode | Hard | [4](https://leetcode.com/problems/4/) | ☐ | |
-| 10 | 10. Median of Two Sorted Arrays | LeetCode | Hard | [4](https://leetcode.com/problems/4/) | ☐ | |
-| 11 | 11. Minimum in Rotated Sorted Array | LeetCode | Medium | [153](https://leetcode.com/problems/153/) | ⭐ | |
-| 12 | 12. Minimum in Rotated Sorted Array II | LeetCode | Hard | [154](https://leetcode.com/problems/154/) | ☐ | |
-| 13 | 13. Single Element in Sorted Array | LeetCode | Medium | [540](https://leetcode.com/problems/540/) | ☐ | |
-| 14 | 14. Find the Sqrt | LeetCode | Easy | [69](https://leetcode.com/problems/69/) | ☐ | |
-| 15 | 15. Nth Root of M | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/nth-root-of-m/) | ⭐ | |
-| 16 | 16. Capacity to Ship Packages Within D Days | LeetCode | Medium | [1011](https://leetcode.com/problems/1011/) | ☐ | |
-| 17 | 17. Koko Eating Bananas | LeetCode | Medium | [875](https://leetcode.com/problems/875/) | ☐ | |
-| 18 | 18. Minimum Days to Make M Bouquets | LeetCode | Medium | [1482](https://leetcode.com/problems/1482/) | ☐ | |
-| 19 | 19. Aggressive Cows | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/aggressive-cows/) | ☐ | |
-| 20 | 20. Book Allocation | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/allocate-books/) | ☐ | |
-| 21 | 21. Painter's Partition Problem | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/painters-partition-problem/) | ☐ | |
-| 22 | 22. Split Array Largest Sum | LeetCode | Hard | [410](https://leetcode.com/problems/410/) | ⭐ | |
-| 23 | 23. Minimize Max Distance to Gas Station | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimize-max-distance-gas-station/) | ☐ | |
-| 24 | 24. Smallest Divisor Given a Threshold | LeetCode | Medium | [1283](https://leetcode.com/problems/1283/) | ☐ | |
-| 25 | 25. Binary Search 2D Matrix | LeetCode | Medium | [74](https://leetcode.com/problems/74/) | ☐ | |
-| 26 | 26. Binary Search 2D Matrix II | LeetCode | Medium | [240](https://leetcode.com/problems/240/) | ☐ | |
-| 27 | 27. Search in 2D Matrix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/search-2d-matrix/) | ☐ | |
-| 28 | 28. Peak Element in 2D Grid | LeetCode | Hard | [1901](https://leetcode.com/problems/1901/) | ☐ | |
-| 29 | 29. Magical Number | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/magical-number/) | ☐ | |
-| 30 | 30. Bitonic Array Search | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/bitonic-array-search/) | ☐ | |
-| 31 | 31. Rotated Array Search | LeetCode | Medium | [33](https://leetcode.com/problems/33/) | ☐ | |
-| 32 | 32. Index of Extra Element | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/index-extra-element/) | ☐ | |
-
-### 5. Strings [Basic and Medium]
-
-**Problems: 15**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Reverse String | LeetCode | Easy | [344](https://leetcode.com/problems/344/) | ☐ | |
-| 2 | 2. Check Palindrome | LeetCode | Easy | [125](https://leetcode.com/problems/125/) | ⭐ | |
-| 3 | 3. Remove Outermost Parentheses | LeetCode | Easy | [1021](https://leetcode.com/problems/1021/) | ☐ | |
-| 4 | 4. Isomorphic Strings | LeetCode | Easy | [205](https://leetcode.com/problems/205/) | ☐ | |
-| 5 | 5. Longest Common Prefix | LeetCode | Easy | [14](https://leetcode.com/problems/14/) | ⭐ | |
-| 6 | 6. Reverse Words in String | LeetCode | Medium | [151](https://leetcode.com/problems/151/) | ☐ | |
-| 7 | 7. String to Integer | LeetCode | Medium | [8](https://leetcode.com/problems/8/) | ☐ | |
-| 8 | 8. Largest Odd Number | LeetCode | Easy | [1903](https://leetcode.com/problems/1903/) | ☐ | |
-| 9 | 9. Longest Palindromic Substring | LeetCode | Medium | [5](https://leetcode.com/problems/5/) | ⭐ | |
-| 10 | 10. Sort Characters by Frequency | LeetCode | Medium | [451](https://leetcode.com/problems/451/) | ⭐ | |
-| 11 | 11. Reorganize String | LeetCode | Medium | [767](https://leetcode.com/problems/767/) | ☐ | |
-| 12 | 12. Implement Atoi | LeetCode | Medium | [8](https://leetcode.com/problems/8/) | ☐ | |
-| 13 | 13. Minimum Characters to Make Strings Equal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/min-chars-make-equal/) | ☐ | |
-| 14 | 14. Anagram Strings | LeetCode | Easy | [242](https://leetcode.com/problems/242/) | ☐ | |
-| 15 | 15. Count Occurrences of Anagrams | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-anagrams/) | ☐ | |
-
-### 6. Learn LinkedList [Single LL, Double LL, Medium, Hard Problems]
-
-**Problems: 31**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Introduction to Linked List | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/linked-list-introduction/) | ☐ | |
-| 2 | 2. Traverse LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/traverse-linked-list/) | ☐ | |
-| 3 | 3. Insert at Beginning | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/insert-at-beginning/) | ☐ | |
-| 4 | 4. Insert at End | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/insert-at-end/) | ☐ | |
-| 5 | 5. Insert at Position | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/insert-at-position/) | ☐ | |
-| 6 | 6. Delete Node from LinkedList | LeetCode | Medium | [237](https://leetcode.com/problems/237/) | ☐ | |
-| 7 | 7. Delete Head of LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/delete-head/) | ☐ | |
-| 8 | 8. Search in LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/search-linked-list/) | ☐ | |
-| 9 | 9. Display LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/display-linked-list/) | ☐ | |
-| 10 | 10. Count Nodes in LinkedList | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/count-nodes/) | ☐ | |
-| 11 | 11. Reverse a LinkedList | LeetCode | Easy | [206](https://leetcode.com/problems/206/) | ⭐ | |
-| 12 | 12. Middle of LinkedList | LeetCode | Easy | [876](https://leetcode.com/problems/876/) | ☐ | |
-| 13 | 13. Merge Two Sorted LinkedList | LeetCode | Easy | [21](https://leetcode.com/problems/21/) | ⭐ | |
-| 14 | 14. Palindromic LinkedList | LeetCode | Easy | [234](https://leetcode.com/problems/234/) | ☐ | |
-| 15 | 15. Detect Cycle in LinkedList | LeetCode | Easy | [141](https://leetcode.com/problems/141/) | ⭐ | |
-| 16 | 16. Find Cycle Start | LeetCode | Medium | [142](https://leetcode.com/problems/142/) | ☐ | |
-| 17 | 17. Intersection of Two LinkedLists | LeetCode | Easy | [160](https://leetcode.com/problems/160/) | ☐ | |
-| 18 | 18. Flattening a LinkedList | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/flatten-linked-list/) | ⭐ | |
-| 19 | 19. Sort LinkedList | LeetCode | Medium | [148](https://leetcode.com/problems/148/) | ☐ | |
-| 20 | 20. Segregate Odd Even Nodes | LeetCode | Medium | [328](https://leetcode.com/problems/328/) | ☐ | |
-| 21 | 21. Delete Node Without Access to Head | LeetCode | Medium | [237](https://leetcode.com/problems/237/) | ☐ | |
-| 22 | 22. LRU Cache | LeetCode | Hard | [146](https://leetcode.com/problems/146/) | ☐ | |
-| 23 | 23. Rotate LinkedList | LeetCode | Medium | [61](https://leetcode.com/problems/61/) | ⭐ | |
-| 24 | 24. Remove Nth Node From End | LeetCode | Medium | [19](https://leetcode.com/problems/19/) | ☐ | |
-| 25 | 25. Remove Duplicates from Sorted List | LeetCode | Easy | [83](https://leetcode.com/problems/83/) | ☐ | |
-| 26 | 26. Remove Duplicates from Unsorted List | LeetCode | Medium | [82](https://leetcode.com/problems/82/) | ☐ | |
-| 27 | 27. Clone a Linked List | LeetCode | Hard | [138](https://leetcode.com/problems/138/) | ☐ | |
-| 28 | 28. Reorder LinkedList | LeetCode | Medium | [143](https://leetcode.com/problems/143/) | ☐ | |
-| 29 | 29. Add Two Numbers | LeetCode | Medium | [2](https://leetcode.com/problems/2/) | ☐ | |
-| 30 | 30. Add Two Numbers II | LeetCode | Medium | [445](https://leetcode.com/problems/445/) | ☐ | |
-| 31 | 31. Design Doubly Linked List | LeetCode | Medium | [1472](https://leetcode.com/problems/1472/) | ☐ | |
-
-### 7. Recursion [PatternWise]
-
-**Problems: 25**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Understand Recursion | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/understand-recursion/) | ☐ | |
-| 2 | 2. Print 1 to N | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/print-1-to-n/) | ☐ | |
-| 3 | 3. Print N to 1 | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/print-n-to-1/) | ☐ | |
-| 4 | 4. Sum of First N Numbers | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/sum-first-n/) | ☐ | |
-| 5 | 5. Factorial of N | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/factorial-n/) | ☐ | |
-| 6 | 6. Check Palindrome String Recursion | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/palindrome-recursion/) | ☐ | |
-| 7 | 7. Reverse an Array | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/reverse-array/) | ☐ | |
-| 8 | 8. Fibonacci Number | LeetCode | Easy | [509](https://leetcode.com/problems/509/) | ☐ | |
-| 9 | 9. Power Set or Power Subsequences | LeetCode | Medium | [78](https://leetcode.com/problems/78/) | ☐ | |
-| 10 | 10. All Permutations | LeetCode | Medium | [46](https://leetcode.com/problems/46/) | ☐ | |
-| 11 | 11. Combination Sum I | LeetCode | Medium | [39](https://leetcode.com/problems/39/) | ☐ | |
-| 12 | 12. Combination Sum II | LeetCode | Medium | [40](https://leetcode.com/problems/40/) | ☐ | |
-| 13 | 13. Subset Sum | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/subset-sum/) | ☐ | |
-| 14 | 14. Subsets II | LeetCode | Medium | [90](https://leetcode.com/problems/90/) | ☐ | |
-| 15 | 15. Generate Parentheses | LeetCode | Medium | [22](https://leetcode.com/problems/22/) | ☐ | |
-| 16 | 16. Letter Combinations of Phone Number | LeetCode | Medium | [17](https://leetcode.com/problems/17/) | ☐ | |
-| 17 | 17. Palindrome Partitioning | LeetCode | Hard | [131](https://leetcode.com/problems/131/) | ☐ | |
-| 18 | 18. Word Break II | LeetCode | Hard | [140](https://leetcode.com/problems/140/) | ☐ | |
-| 19 | 19. N-Queens | LeetCode | Hard | [51](https://leetcode.com/problems/51/) | ☐ | |
-| 20 | 20. Sudoku Solver | LeetCode | Hard | [37](https://leetcode.com/problems/37/) | ☐ | |
-| 21 | 21. Expression Add Operators | LeetCode | Hard | [282](https://leetcode.com/problems/282/) | ☐ | |
-| 22 | 22. Rat in a Maze | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/rat-in-maze/) | ☐ | |
-| 23 | 23. Permutation Sequence | LeetCode | Hard | [60](https://leetcode.com/problems/60/) | ☐ | |
-| 24 | 24. Combination Sum III | LeetCode | Medium | [216](https://leetcode.com/problems/216/) | ☐ | |
-| 25 | 25. Partition to K Equal Sum Subsets | LeetCode | Medium | [698](https://leetcode.com/problems/698/) | ☐ | |
-
-### 8. Bit Manipulation [Concepts & Problems]
-
-**Problems: 18**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Bitwise AND | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bitwise-and/) | ☐ | |
-| 2 | 2. Bitwise OR | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bitwise-or/) | ☐ | |
-| 3 | 3. Bitwise XOR | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bitwise-xor/) | ☐ | |
-| 4 | 4. Left Shift and Right Shift | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/bit-shift/) | ☐ | |
-| 5 | 5. Check Kth Bit is Set | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/check-kth-bit/) | ☐ | |
-| 6 | 6. Set the Kth Bit | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/set-kth-bit/) | ☐ | |
-| 7 | 7. Clear the Kth Bit | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/clear-kth-bit/) | ☐ | |
-| 8 | 8. Check if Power of Two | LeetCode | Easy | [231](https://leetcode.com/problems/231/) | ☐ | |
-| 9 | 9. Divide Two Integers | LeetCode | Medium | [29](https://leetcode.com/problems/29/) | ☐ | |
-| 10 | 10. Count Set Bits | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/count-set-bits/) | ☐ | |
-| 11 | 11. Rightmost Different Bit | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/rightmost-different-bit/) | ☐ | |
-| 12 | 12. XOR of Two Numbers | LeetCode | Easy | [136](https://leetcode.com/problems/136/) | ☐ | |
-| 13 | 13. Swap Two Numbers | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/swap-two-numbers/) | ☐ | |
-| 14 | 14. Reverse Bits | LeetCode | Easy | [190](https://leetcode.com/problems/190/) | ☐ | |
-| 15 | 15. Number of 1 Bits | LeetCode | Easy | [191](https://leetcode.com/problems/191/) | ☐ | |
-| 16 | 16. Power of Two | LeetCode | Easy | [231](https://leetcode.com/problems/231/) | ☐ | |
-| 17 | 17. Gray Code | LeetCode | Medium | [89](https://leetcode.com/problems/89/) | ☐ | |
-| 18 | 18. Single Number III | LeetCode | Medium | [260](https://leetcode.com/problems/260/) | ☐ | |
-
-### 9. Stack and Queues [Learning, Pre-In-Post-fix, Monotonic Stack, Implementation]
-
-**Problems: 30**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Stack Implementation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/stack-implementation/) | ☐ | |
-| 2 | 2. Queue Implementation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/queue-implementation/) | ☐ | |
-| 3 | 3. Valid Parentheses | LeetCode | Easy | [20](https://leetcode.com/problems/20/) | ⭐ | |
-| 4 | 4. Reverse a Stack | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-stack/) | ☐ | |
-| 5 | 5. Redundant Parentheses | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/redundant-parentheses/) | ☐ | |
-| 6 | 6. Infix to Postfix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/infix-to-postfix/) | ☐ | |
-| 7 | 7. Infix to Prefix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/infix-to-prefix/) | ☐ | |
-| 8 | 8. Postfix to Infix | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/postfix-to-infix/) | ☐ | |
-| 9 | 9. Evaluate Postfix Expression | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/evaluate-postfix/) | ☐ | |
-| 10 | 10. Evaluate Prefix Expression | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/evaluate-prefix/) | ⭐ | |
-| 11 | 11. Smallest Number Following Pattern | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/smallest-number-pattern/) | ☐ | |
-| 12 | 12. Maximum Frequency Stack | LeetCode | Hard | [895](https://leetcode.com/problems/895/) | ☐ | |
-| 13 | 13. Implement Queue using Stacks | LeetCode | Easy | [232](https://leetcode.com/problems/232/) | ⭐ | |
-| 14 | 14. Implement Stack using Queues | LeetCode | Easy | [225](https://leetcode.com/problems/225/) | ☐ | |
-| 15 | 15. Monotonic Stack - Next Greater Element | LeetCode | Medium | [496](https://leetcode.com/problems/496/) | ⭐ | |
-| 16 | 16. Next Greater Element II | LeetCode | Medium | [503](https://leetcode.com/problems/503/) | ☐ | |
-| 17 | 17. Next Smaller Element | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/next-smaller-element/) | ☐ | |
-| 18 | 18. Largest Rectangle in Histogram | LeetCode | Hard | [84](https://leetcode.com/problems/84/) | ⭐ | |
-| 19 | 19. Maximal Rectangle | LeetCode | Hard | [85](https://leetcode.com/problems/85/) | ☐ | |
-| 20 | 20. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ⭐ | |
-| 21 | 21. LRU Cache | LeetCode | Hard | [146](https://leetcode.com/problems/146/) | ☐ | |
-| 22 | 22. LFU Cache | LeetCode | Hard | [460](https://leetcode.com/problems/460/) | ☐ | |
-| 23 | 23. Sliding Window Maximum | LeetCode | Hard | [239](https://leetcode.com/problems/239/) | ☐ | |
-| 24 | 24. Min Stack | LeetCode | Medium | [155](https://leetcode.com/problems/155/) | ☐ | |
-| 25 | 25. Design a Deque | LeetCode | Medium | [641](https://leetcode.com/problems/641/) | ☐ | |
-| 26 | 26. Implement Circular Queue | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/circular-queue/) | ☐ | |
-| 27 | 27. Implement CircularDeque | LeetCode | Medium | [641](https://leetcode.com/problems/641/) | ☐ | |
-| 28 | 28. Design Hit Counter | LeetCode | Medium | [362](https://leetcode.com/problems/362/) | ☐ | |
-| 29 | 29. Queues using Simple Operations | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/queue-simple/) | ☐ | |
-| 30 | 30. Stack using Two Queues | LeetCode | Medium | [225](https://leetcode.com/problems/225/) | ☐ | |
-
-### 10. Sliding Window & Two Pointer Combined Problems
-
-**Problems: 12**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Max Sum of Subarray of Size K | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/max-sum-subarray-k/) | ☐ | |
-| 2 | 2. First Negative in Window | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/first-negative-window/) | ☐ | |
-| 3 | 3. Container with Most Water | LeetCode | Medium | [11](https://leetcode.com/problems/11/) | ☐ | |
-| 4 | 4. Trapping Rain Water | LeetCode | Hard | [42](https://leetcode.com/problems/42/) | ☐ | |
-| 5 | 5. Longest Substring Without Repeating Characters | LeetCode | Medium | [3](https://leetcode.com/problems/3/) | ☐ | |
-| 6 | 6. Longest Character Replacement | LeetCode | Medium | [424](https://leetcode.com/problems/424/) | ☐ | |
-| 7 | 7. Fruit Into Baskets | LeetCode | Medium | [904](https://leetcode.com/problems/904/) | ☐ | |
-| 8 | 8. Longest Repeating Character Replacement | LeetCode | Medium | [424](https://leetcode.com/problems/424/) | ☐ | |
-| 9 | 9. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ☐ | |
-| 10 | 10. Counting Windows that Match | LeetCode | Hard | [30](https://leetcode.com/problems/30/) | ☐ | |
-| 11 | 11. Max Consecutive Ones III | LeetCode | Medium | [1004](https://leetcode.com/problems/1004/) | ☐ | |
-| 12 | 12. Subarrays with K Different Integers | LeetCode | Hard | [992](https://leetcode.com/problems/992/) | ☐ | |
-
-### 11. Heaps [Learning, Medium, Hard Problems]
-
-**Problems: 17**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Min Heap / Max Heap | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/min-heap-max-heap/) | ☐ | |
-| 2 | 2. Heap Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/heap-sort/) | ☐ | |
-| 3 | 3. Kth Largest Element | LeetCode | Medium | [215](https://leetcode.com/problems/215/) | ☐ | |
-| 4 | 4. Kth Smallest Element | LeetCode | Medium | [230](https://leetcode.com/problems/230/) | ☐ | |
-| 5 | 5. Merge K Sorted Lists | LeetCode | Hard | [23](https://leetcode.com/problems/23/) | ☐ | |
-| 6 | 6. Top K Frequent Elements | LeetCode | Medium | [347](https://leetcode.com/problems/347/) | ☐ | |
-| 7 | 7. Top K Frequent Words | LeetCode | Medium | [692](https://leetcode.com/problems/692/) | ☐ | |
-| 8 | 8. Find Median from Data Stream | LeetCode | Hard | [295](https://leetcode.com/problems/295/) | ☐ | |
-| 9 | 9. Reorganize String | LeetCode | Medium | [767](https://leetcode.com/problems/767/) | ☐ | |
-| 10 | 10. Distant Barcodes | LeetCode | Medium | [1054](https://leetcode.com/problems/1054/) | ☐ | |
-| 11 | 11. Sliding Window Median | LeetCode | Hard | [480](https://leetcode.com/problems/480/) | ☐ | |
-| 12 | 12. IPO | LeetCode | Hard | [502](https://leetcode.com/problems/502/) | ☐ | |
-| 13 | 13. Task Scheduler | LeetCode | Medium | [621](https://leetcode.com/problems/621/) | ☐ | |
-| 14 | 14. Minimize Deviation in Array | LeetCode | Hard | [1675](https://leetcode.com/problems/1675/) | ☐ | |
-| 15 | 15. Last Stone Weight | LeetCode | Easy | [1046](https://leetcode.com/problems/1046/) | ☐ | |
-| 16 | 16. Last Stone Weight II | LeetCode | Hard | [1049](https://leetcode.com/problems/1049/) | ☐ | |
-| 17 | 17. Connect Ropes | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/connect-ropes/) | ☐ | |
-
-### 12. Greedy Algorithms [Easy, Medium/Hard]
-
-**Problems: 16**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Assign Cookies | LeetCode | Easy | [455](https://leetcode.com/problems/455/) | ☐ | |
-| 2 | 2. Majority Voting | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/majority-voting/) | ☐ | |
-| 3 | 3. Valid Palindrome II | LeetCode | Easy | [680](https://leetcode.com/problems/680/) | ☐ | |
-| 4 | 4. Jump Game | LeetCode | Medium | [55](https://leetcode.com/problems/55/) | ☐ | |
-| 5 | 5. Jump Game II | LeetCode | Medium | [45](https://leetcode.com/problems/45/) | ☐ | |
-| 6 | 6. Maximum Subarray | LeetCode | Medium | [53](https://leetcode.com/problems/53/) | ☐ | |
-| 7 | 7. Gas Station | LeetCode | Medium | [134](https://leetcode.com/problems/134/) | ☐ | |
-| 8 | 8. Candy Distribution | LeetCode | Hard | [135](https://leetcode.com/problems/135/) | ☐ | |
-| 9 | 9. Boats to Save People | LeetCode | Medium | [881](https://leetcode.com/problems/881/) | ☐ | |
-| 10 | 10. Reorganize String | LeetCode | Medium | [767](https://leetcode.com/problems/767/) | ☐ | |
-| 11 | 11. Lemonade Change | LeetCode | Easy | [860](https://leetcode.com/problems/860/) | ☐ | |
-| 12 | 12. Fractional Knapsack | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/fractional-knapsack/) | ☐ | |
-| 13 | 13. Minimum Platforms Required | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms/) | ☐ | |
-| 14 | 14. Minimum Number of Arrows | LeetCode | Medium | [452](https://leetcode.com/problems/452/) | ☐ | |
-| 15 | 15. Interval Scheduling | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/interval-scheduling/) | ☐ | |
-| 16 | 16. Largest Number | LeetCode | Medium | [179](https://leetcode.com/problems/179/) | ☐ | |
-
-### 13. Binary Trees [Traversals, Medium and Hard Problems]
-
-**Problems: 39**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Tree Traversals - Inorder | LeetCode | Easy | [94](https://leetcode.com/problems/94/) | ☐ | |
-| 2 | 2. Tree Traversals - Preorder | LeetCode | Easy | [144](https://leetcode.com/problems/144/) | ☐ | |
-| 3 | 3. Tree Traversals - Postorder | LeetCode | Easy | [145](https://leetcode.com/problems/145/) | ☐ | |
-| 4 | 4. Level Order Traversal | LeetCode | Easy | [102](https://leetcode.com/problems/102/) | ☐ | |
-| 5 | 5. Reverse Level Order Traversal | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/reverse-level-order/) | ☐ | |
-| 6 | 6. Left View of Binary Tree | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/left-view-binary-tree/) | ☐ | |
-| 7 | 7. Right View of Binary Tree | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/right-view-binary-tree/) | ☐ | |
-| 8 | 8. Top View of Binary Tree | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/top-view-binary-tree/) | ☐ | |
-| 9 | 9. Bottom View of Binary Tree | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/bottom-view-binary-tree/) | ☐ | |
-| 10 | 10. Zig Zag Level Order Traversal | LeetCode | Medium | [103](https://leetcode.com/problems/103/) | ☐ | |
-| 11 | 11. Vertical Order Traversal | LeetCode | Hard | [987](https://leetcode.com/problems/987/) | ☐ | |
-| 12 | 12. Diagonal Traversal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/diagonal-traversal/) | ☐ | |
-| 13 | 13. Boundary Traversal | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/boundary-traversal/) | ☐ | |
-| 14 | 14. Identical Trees | LeetCode | Easy | [100](https://leetcode.com/problems/100/) | ⭐ | |
-| 15 | 15. Mirror Tree | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/mirror-tree/) | ☐ | |
-| 16 | 16. Balanced Binary Tree | LeetCode | Easy | [110](https://leetcode.com/problems/110/) | ☐ | |
-| 17 | 17. Diameter of Binary Tree | LeetCode | Easy | [543](https://leetcode.com/problems/543/) | ☐ | |
-| 18 | 18. Height of Binary Tree | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/height-binary-tree/) | ☐ | |
-| 19 | 19. Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ⭐ | |
-| 20 | 20. Lowest Common Ancestor | LeetCode | Medium | [236](https://leetcode.com/problems/236/) | ⭐ | |
-| 21 | 21. Lowest Common Ancestor in BST | LeetCode | Easy | [235](https://leetcode.com/problems/235/) | ☐ | |
-| 22 | 22. Path Sum I | LeetCode | Easy | [112](https://leetcode.com/problems/112/) | ☐ | |
-| 23 | 23. Path Sum II | LeetCode | Medium | [113](https://leetcode.com/problems/113/) | ☐ | |
-| 24 | 24. Pathsum III | LeetCode | Medium | [437](https://leetcode.com/problems/437/) | ☐ | |
-| 25 | 25. All Root to Leaf Paths | LeetCode | Medium | [257](https://leetcode.com/problems/257/) | ☐ | |
-| 26 | 26. Construct Tree from Inorder and Preorder | LeetCode | Medium | [105](https://leetcode.com/problems/105/) | ⭐ | |
-| 27 | 27. Construct Tree from Inorder and Postorder | LeetCode | Medium | [106](https://leetcode.com/problems/106/) | ☐ | |
-| 28 | 28. Serialize and Deserialize Binary Tree | LeetCode | Hard | [297](https://leetcode.com/problems/297/) | ⭐ | |
-| 29 | 29. House Robber III | LeetCode | Medium | [337](https://leetcode.com/problems/337/) | ☐ | |
-| 30 | 30. Binary Tree Maximum Path Sum | LeetCode | Hard | [124](https://leetcode.com/problems/124/) | ☐ | |
-| 31 | 31. Populating Next Right Pointers | LeetCode | Medium | [116](https://leetcode.com/problems/116/) | ☐ | |
-| 32 | 32. Populating Next Right Pointers II | LeetCode | Medium | [117](https://leetcode.com/problems/117/) | ☐ | |
-| 33 | 33. Flatten Binary Tree | LeetCode | Medium | [114](https://leetcode.com/problems/114/) | ☐ | |
-| 34 | 34. Invert Binary Tree | LeetCode | Easy | [226](https://leetcode.com/problems/226/) | ☐ | |
-| 35 | 35. Cousins in Binary Tree | LeetCode | Easy | [993](https://leetcode.com/problems/993/) | ☐ | |
-| 36 | 36. Amount of Time for Binary Tree Infection | LeetCode | Medium | [2385](https://leetcode.com/problems/2385/) | ☐ | |
-| 37 | 37. All Nodes Distance K in Binary Tree | LeetCode | Medium | [863](https://leetcode.com/problems/863/) | ☐ | |
-| 38 | 38. Subtree of Another Tree | LeetCode | Easy | [572](https://leetcode.com/problems/572/) | ☐ | |
-| 39 | 39. Print Nodes in Top to Bottom Level | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/print-level-by-level/) | ☐ | |
-
-### 14. Binary Search Trees [Concept and Problems]
-
-**Problems: 16**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Implement BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/implement-bst/) | ☐ | |
-| 2 | 2. Search in BST | LeetCode | Easy | [700](https://leetcode.com/problems/700/) | ☐ | |
-| 3 | 3. Insert in BST | LeetCode | Medium | [701](https://leetcode.com/problems/701/) | ☐ | |
-| 4 | 4. Delete in BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/delete-bst/) | ☐ | |
-| 5 | 5. LCA in BST | LeetCode | Easy | [235](https://leetcode.com/problems/235/) | ☐ | |
-| 6 | 6. Lowest Common Ancestor of a BST | LeetCode | Easy | [235](https://leetcode.com/problems/235/) | ☐ | |
-| 7 | 7. BST Iterator | LeetCode | Medium | [173](https://leetcode.com/problems/173/) | ☐ | |
-| 8 | 8. Recover BST | LeetCode | Medium | [99](https://leetcode.com/problems/99/) | ☐ | |
-| 9 | 9. Validate Binary Search Tree | LeetCode | Medium | [98](https://leetcode.com/problems/98/) | ☐ | |
-| 10 | 10. Kth Smallest in BST | LeetCode | Easy | [230](https://leetcode.com/problems/230/) | ☐ | |
-| 11 | 11. Kth Largest in BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/kth-largest-bst/) | ☐ | |
-| 12 | 12. Inorder Successor in BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/inorder-successor-bst/) | ☐ | |
-| 13 | 13. Inorder Predecessor in BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/inorder-predecessor-bst/) | ☐ | |
-| 14 | 14. Closest Leaf BST | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/closest-leaf-bst/) | ☐ | |
-| 15 | 15. Range Sum of BST | LeetCode | Easy | [938](https://leetcode.com/problems/938/) | ☐ | |
-| 16 | 16. Trim Binary Search Tree | LeetCode | Medium | [669](https://leetcode.com/problems/669/) | ☐ | |
-
-### 15. Graphs [Concepts & Problems]
-
-**Problems: 53**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Adjacency Matrix Representation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/adjacency-matrix/) | ☐ | |
-| 2 | 2. Adjacency List Representation | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/adjacency-list/) | ☐ | |
-| 3 | 3. BFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/bfs-graph/) | ⭐ | |
-| 4 | 4. DFS of Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/dfs-graph/) | ⭐ | |
-| 5 | 5. Detect Cycle in Undirected Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-undirected/) | ⭐ | |
-| 6 | 6. Detect Cycle in Directed Graph | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/detect-cycle-directed/) | ☐ | |
-| 7 | 7. Topological Sort | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/topological-sort/) | ☐ | |
-| 8 | 8. Kahmans Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/kahn-algorithm/) | ☐ | |
-| 9 | 9. Shortest Path DAG | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/shortest-path-dag/) | ☐ | |
-| 10 | 10. Dijkstra's Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/dijkstras-algorithm/) | ⭐ | |
-| 11 | 11. Bellman Ford | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/bellman-ford/) | ☐ | |
-| 12 | 12. Floyd Warshall | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/floyd-warshall/) | ☐ | |
-| 13 | 13. Prims Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/prims-algorithm/) | ☐ | |
-| 14 | 14. Kruskal's Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/kruskals-algorithm/) | ☐ | |
-| 15 | 15. Bipartite Graph | LeetCode | Medium | [785](https://leetcode.com/problems/785/) | ☐ | |
-| 16 | 16. Bridges in Undirected Graph | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/bridges-graph/) | ☐ | |
-| 17 | 17. Articulation Point | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/articulation-point/) | ☐ | |
-| 18 | 18. Union Find (DSU) | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/union-find/) | ☐ | |
-| 19 | 19. Number of Islands | LeetCode | Medium | [200](https://leetcode.com/problems/200/) | ⭐ | |
-| 20 | 20. Surrounded Regions | LeetCode | Medium | [130](https://leetcode.com/problems/130/) | ☐ | |
-| 21 | 21. Rotten Oranges | LeetCode | Medium | [994](https://leetcode.com/problems/994/) | ☐ | |
-| 22 | 22. Word Ladder | LeetCode | Hard | [127](https://leetcode.com/problems/127/) | ⭐ | |
-| 23 | 23. Word Ladder II | LeetCode | Hard | [126](https://leetcode.com/problems/126/) | ☐ | |
-| 24 | 24. Network Delay Time | LeetCode | Medium | [743](https://leetcode.com/problems/743/) | ☐ | |
-| 25 | 25. Path with Maximum Probability | LeetCode | Medium | [1514](https://leetcode.com/problems/1514/) | ☐ | |
-| 26 | 26. Cheapest Flights Within K Stops | LeetCode | Medium | [787](https://leetcode.com/problems/787/) | ☐ | |
-| 27 | 27. Swimming in Rising Water | LeetCode | Hard | [778](https://leetcode.com/problems/778/) | ⭐ | |
-| 28 | 28. Course Schedule | LeetCode | Medium | [207](https://leetcode.com/problems/207/) | ☐ | |
-| 29 | 29. Course Schedule II | LeetCode | Medium | [210](https://leetcode.com/problems/210/) | ☐ | |
-| 30 | 30. Graph Coloring Problem | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/graph-coloring/) | ☐ | |
-| 31 | 31. Alien Dictionary | LeetCode | Hard | [269](https://leetcode.com/problems/269/) | ☐ | |
-| 32 | 32. Clone Graph | LeetCode | Medium | [133](https://leetcode.com/problems/133/) | ☐ | |
-| 33 | 33. Reorder Routes to Make All Paths Lead | LeetCode | Medium | [1466](https://leetcode.com/problems/1466/) | ☐ | |
-| 34 | 34. Loud and Rich | LeetCode | Medium | [851](https://leetcode.com/problems/851/) | ☐ | |
-| 35 | 35. Minimum Vertex Cover | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimum-vertex-cover/) | ☐ | |
-| 36 | 36. Find the City With the Smallest Number of Neighbors | LeetCode | Medium | [1334](https://leetcode.com/problems/1334/) | ☐ | |
-| 37 | 37. Find the Celebrity | LeetCode | Medium | [277](https://leetcode.com/problems/277/) | ☐ | |
-| 38 | 38. All Paths From Source to Target | LeetCode | Medium | [797](https://leetcode.com/problems/797/) | ☐ | |
-| 39 | 39. Parallel Courses | LeetCode | Hard | [1136](https://leetcode.com/problems/1136/) | ☐ | |
-| 40 | 40. Maximum Path Quality of a Graph | LeetCode | Hard | [2065](https://leetcode.com/problems/2065/) | ☐ | |
-| 41 | 41. Minimum Cost to Convert String I | LeetCode | Medium | [2938](https://leetcode.com/problems/2938/) | ☐ | |
-| 42 | 42. Minimum Cost to Convert String II | LeetCode | Hard | [2976](https://leetcode.com/problems/2976/) | ☐ | |
-| 43 | 43. Paths in Matrix Visited by the Diagonal | LeetCode | Medium | [1640](https://leetcode.com/problems/1640/) | ☐ | |
-| 44 | 44. Minimum Cost to Make at Least One Valid Path in a Grid | LeetCode | Hard | [1368](https://leetcode.com/problems/1368/) | ☐ | |
-| 45 | 45. As Far from Land as Possible | LeetCode | Medium | [1162](https://leetcode.com/problems/1162/) | ☐ | |
-| 46 | 46. Maximize the Profit as the Salesman | LeetCode | Hard | [2995](https://leetcode.com/problems/2995/) | ☐ | |
-| 47 | 47. Minimum Cost of Trips for Each Query | LeetCode | Hard | [2858](https://leetcode.com/problems/2858/) | ☐ | |
-| 48 | 48. Find if Path Exists in Graph | LeetCode | Easy | [1971](https://leetcode.com/problems/1971/) | ☐ | |
-| 49 | 49. Optimize Water Distribution in a Village | LeetCode | Hard | [1168](https://leetcode.com/problems/1168/) | ☐ | |
-| 50 | 50. Connect Cities With Minimum Cost | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/connect-cities/) | ☐ | |
-| 51 | 51. Minimum Weighted Subgraph With Required Paths | LeetCode | Hard | [2699](https://leetcode.com/problems/2699/) | ☐ | |
-| 52 | 52. Check if an Original String Exists Given Two Encoded Strings | LeetCode | Hard | [2828](https://leetcode.com/problems/2828/) | ☐ | |
-| 53 | 53. Greatest Common Divisor Traversal | LeetCode | Hard | [2508](https://leetcode.com/problems/2508/) | ☐ | |
-
-### 16. Dynamic Programming [Patterns and Problems]
-
-**Problems: 56**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Intro to DP | GFG | Easy | [GFG](https://www.geeksforgeeks.org/problems/intro-dp/) | ☐ | |
-| 2 | 2. Climbing Stairs | LeetCode | Easy | [70](https://leetcode.com/problems/70/) | ☐ | |
-| 3 | 3. Fibonacci | LeetCode | Easy | [509](https://leetcode.com/problems/509/) | ☐ | |
-| 4 | 4. House Robber | LeetCode | Easy | [198](https://leetcode.com/problems/198/) | ☐ | |
-| 5 | 5. House Robber II | LeetCode | Medium | [213](https://leetcode.com/problems/213/) | ☐ | |
-| 6 | 6. Paint House | LeetCode | Medium | [198](https://leetcode.com/problems/198/) | ⭐ | |
-| 7 | 7. Paint House II | LeetCode | Hard | [265](https://leetcode.com/problems/265/) | ☐ | |
-| 8 | 8. Paint House III | LeetCode | Hard | [1473](https://leetcode.com/problems/1473/) | ☐ | |
-| 9 | 9. Best Time to Buy Sell Stock | LeetCode | Easy | [121](https://leetcode.com/problems/121/) | ☐ | |
-| 10 | 10. Best Time to Buy Sell Stock II | LeetCode | Medium | [122](https://leetcode.com/problems/122/) | ⭐ | |
-| 11 | 11. Best Time to Buy Sell Stock III | LeetCode | Hard | [123](https://leetcode.com/problems/123/) | ☐ | |
-| 12 | 12. Best Time to Buy Sell Stock IV | LeetCode | Hard | [188](https://leetcode.com/problems/188/) | ☐ | |
-| 13 | 13. Best Time to Buy Sell Stock with Cooldown | LeetCode | Medium | [309](https://leetcode.com/problems/309/) | ☐ | |
-| 14 | 14. Best Time to Buy Sell Stock with Fee | LeetCode | Medium | [714](https://leetcode.com/problems/714/) | ☐ | |
-| 15 | 15. Edit Distance | LeetCode | Hard | [72](https://leetcode.com/problems/72/) | ⭐ | |
-| 16 | 16. Distinct Subsequences | LeetCode | Hard | [115](https://leetcode.com/problems/115/) | ☐ | |
-| 17 | 17. Delete Operation for Two Strings | LeetCode | Medium | [583](https://leetcode.com/problems/583/) | ☐ | |
-| 18 | 18. Wildcard Matching | LeetCode | Hard | [44](https://leetcode.com/problems/44/) | ☐ | |
-| 19 | 19. Regular Expression Matching | LeetCode | Hard | [10](https://leetcode.com/problems/10/) | ☐ | |
-| 20 | 20. Longest Palindromic Subsequence | LeetCode | Medium | [516](https://leetcode.com/problems/516/) | ☐ | |
-| 21 | 21. Longest Increasing Subsequence | LeetCode | Medium | [300](https://leetcode.com/problems/300/) | ⭐ | |
-| 22 | 22. Largest Divisible Subset | LeetCode | Medium | [368](https://leetcode.com/problems/368/) | ☐ | |
-| 23 | 23. Longest String Chain | LeetCode | Medium | [1048](https://leetcode.com/problems/1048/) | ☐ | |
-| 24 | 24. Number of Longest Increasing Subsequence | LeetCode | Medium | [673](https://leetcode.com/problems/673/) | ☐ | |
-| 25 | 25. Russian Doll Envelopes | LeetCode | Hard | [354](https://leetcode.com/problems/354/) | ☐ | |
-| 26 | 26. Coin Change | LeetCode | Medium | [322](https://leetcode.com/problems/322/) | ⭐ | |
-| 27 | 27. Coin Change II | LeetCode | Medium | [518](https://leetcode.com/problems/518/) | ☐ | |
-| 28 | 28. Partition to K Equal Sum Subsets | LeetCode | Medium | [698](https://leetcode.com/problems/698/) | ☐ | |
-| 29 | 29. Target Sum | LeetCode | Medium | [494](https://leetcode.com/problems/494/) | ☐ | |
-| 30 | 30. Knapsack 0/1 | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/01-knapsack/) | ⭐ | |
-| 31 | 31. Unbounded Knapsack | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/unbounded-knapsack/) | ☐ | |
-| 32 | 32. Count Subsets with Sum = K | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/count-subsets-sum/) | ☐ | |
-| 33 | 33. Minimum Subset Sum Difference | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/minimum-subset-difference/) | ☐ | |
-| 34 | 34. Two Partition Equal Subset Sum | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/partition-equal-sum/) | ☐ | |
-| 35 | 35. Count Partitions with Given Difference | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/count-partitions-difference/) | ☐ | |
-| 36 | 36. Rod Cutting | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/rod-cutting/) | ☐ | |
-| 37 | 37. Matrix Chain Multiplication | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/matrix-chain-mult/) | ☐ | |
-| 38 | 38. Burst Balloons | LeetCode | Hard | [312](https://leetcode.com/problems/312/) | ☐ | |
-| 39 | 39. Palindrome Partitioning II | LeetCode | Hard | [132](https://leetcode.com/problems/132/) | ☐ | |
-| 40 | 40. Word Break | LeetCode | Medium | [139](https://leetcode.com/problems/139/) | ☐ | |
-| 41 | 41. Word Break II | LeetCode | Hard | [140](https://leetcode.com/problems/140/) | ⭐ | |
-| 42 | 42. Maximal Rectangle | LeetCode | Hard | [85](https://leetcode.com/problems/85/) | ☐ | |
-| 43 | 43. Count Submatrices with All Ones | LeetCode | Medium | [1504](https://leetcode.com/problems/1504/) | ☐ | |
-| 44 | 44. Maximum Sum of Rectangle in Matrix | LeetCode | Hard | [363](https://leetcode.com/problems/363/) | ☐ | |
-| 45 | 45. Unique Paths | LeetCode | Medium | [62](https://leetcode.com/problems/62/) | ⭐ | |
-| 46 | 46. Unique Paths II | LeetCode | Medium | [63](https://leetcode.com/problems/63/) | ☐ | |
-| 47 | 47. Minimum Path Sum | LeetCode | Medium | [64](https://leetcode.com/problems/64/) | ☐ | |
-| 48 | 48. Cherry Pickup | LeetCode | Hard | [Cherry Pickup](https://leetcode.com/problems/Cherry Pickup/) | ☐ | |
-| 49 | 49. Interleaving String | LeetCode | Hard | [97](https://leetcode.com/problems/97/) | ☐ | |
-| 50 | 50. Frog Jump | LeetCode | Hard | [403](https://leetcode.com/problems/403/) | ☐ | |
-| 51 | 51. Jump Game III | LeetCode | Medium | [1306](https://leetcode.com/problems/1306/) | ☐ | |
-| 52 | 52. Jump Game IV | LeetCode | Hard | [1345](https://leetcode.com/problems/1345/) | ☐ | |
-| 53 | 53. Jump Game V | LeetCode | Hard | [1340](https://leetcode.com/problems/1340/) | ☐ | |
-| 54 | 54. Minimum Cost for Tickets | LeetCode | Medium | [983](https://leetcode.com/problems/983/) | ☐ | |
-| 55 | 55. House Robber III | LeetCode | Medium | [337](https://leetcode.com/problems/337/) | ☐ | |
-| 56 | 56. Number of Longest Increasing Subsequence | LeetCode | Medium | [673](https://leetcode.com/problems/673/) | ☐ | |
-
-### 17. Tries
-
-**Problems: 7**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. Implement Trie / Prefix Tree | LeetCode | Medium | [208](https://leetcode.com/problems/208/) | ☐ | |
-| 2 | 2. Insert & Search in Trie | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/insert-search-trie/) | ☐ | |
-| 3 | 3. Implement Trie II | LeetCode | Medium | [1804](https://leetcode.com/problems/1804/) | ☐ | |
-| 4 | 4. Search Word in Trie | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/search-word-trie/) | ☐ | |
-| 5 | 5. Longest Word in Dictionary | LeetCode | Medium | [720](https://leetcode.com/problems/720/) | ☐ | |
-| 6 | 6. Word Break | LeetCode | Medium | [139](https://leetcode.com/problems/139/) | ☐ | |
-| 7 | 7. Complete String | GFG | Medium | [GFG](https://www.geeksforgeeks.org/problems/longest-complete-string/) | ☐ | |
-
-### 18. Strings (Advanced)
-
-**Problems: 9**
-
-| # | Problem Name | Platform | Difficulty | Link | ⭐ Fav | Notes |
-|---|---|---|---|---|---|---|
-| 1 | 1. KMP Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/kmp-algorithm/) | ☐ | |
-| 2 | 2. Z Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/z-algorithm/) | ☐ | |
-| 3 | 3. Rabin Karp Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/rabin-karp/) | ☐ | |
-| 4 | 4. Manacher's Algorithm | GFG | Hard | [GFG](https://www.geeksforgeeks.org/problems/manacher-algorithm/) | ☐ | |
-| 5 | 5. Shortest Palindrome | LeetCode | Hard | [214](https://leetcode.com/problems/214/) | ☐ | |
-| 6 | 6. Minimum Window Substring | LeetCode | Hard | [76](https://leetcode.com/problems/76/) | ☐ | |
-| 7 | 7. Repeated String Match | LeetCode | Medium | [686](https://leetcode.com/problems/686/) | ☐ | |
-| 8 | 8. Find the Difference | LeetCode | Easy | [389](https://leetcode.com/problems/389/) | ☐ | |
-| 9 | 9. Arithmetic Substrings | LeetCode | Medium | [413](https://leetcode.com/problems/413/) | ☐ | |
-
+**Total problems in section**: 31
 
 ---
 
-## 📖 How to Use This Resource
-
-### Step 1: Fork & Clone
-```bash
-git clone https://github.com/ThatDeparted2061/A2Z-DSA-Resources.git
-cd A2Z-DSA-Resources
-```
-
-### Step 2: Setup Your Tracking
-You have multiple options:
-
-#### **Option A: Direct Markdown Edit**
-- Edit README.md locally with your favorite editor
-- Mark problems as you solve them
-- Commit and push your changes
-
-#### **Option B: GitHub Web Editor**
-- Open README.md on GitHub
-- Click ✏️ pencil icon to edit
-- Check boxes and add notes
-- Commit changes
-
-#### **Option C: Use a Copy**
-- Make a private copy of this repo
-- Customize for your needs
-- Keep track of your progress
-
-### Step 3: Track Your Progress
-
-**Marking Solved:**
-Replace `☐` with one of:
-- `✅` - Fully understood & solved
-- `🔄` - Attempted/In progress
-- `⏳` - Planned/TODO
-
-**Add to Favourites:**
-Replace `☐` with `⭐` for problems you want to revisit
-
-**Add Notes:**
-In the Notes column, add:
-- `O(n) Two-pointer approach`
-- `Trick: Use XOR property`
-- `Took 25 min on first try`
-- `Review: BFS pattern`
-
-### Example Completed Row:
-```
-| 1 | Two Sum | LeetCode | Easy | [1](https://leetcode.com/problems/1/) | ⭐ | HashMap approach - O(n) time |
-```
-
----
-
-## 🎯 Section Breakdown
-
-| Section | Problems | Focus |
-|---------|----------|-------|
-| Learn the Basics | 31 | Fundamentals, Patterns, Number Theory |
-| Sorting Techniques | 7 | Bubble, Selection, Insertion, Merge, Quick, Counting, Radix |
-| Arrays | 40 | Searching, Rotation, Rearrangement, Stock Trading, Subarrays |
-| Binary Search | 32 | 1D Arrays, 2D Arrays, Search Space Optimization |
-| Strings | 15 | Manipulation, Palindromes, Anagrams, String Matching |
-| LinkedList | 31 | Basic Operations, Cycle Detection, Merging, Flattening |
-| Recursion | 25 | Backtracking, Permutations, Combinations, N-Queens, Sudoku |
-| Bit Manipulation | 18 | Operations, Powers, Single Number, Gray Code |
-| Stack & Queues | 30 | Expression Evaluation, Monotonic Stack, LRU/LFU Cache |
-| Sliding Window | 12 | Subarray/Substring, Two Pointers, Window Maximum |
-| Heaps | 17 | Priority Queues, Top K, Median, Cache Operations |
-| Greedy | 16 | Jump Game, Gas Station, Interval Scheduling, Candy |
-| Binary Trees | 39 | Traversals, Views, Paths, LCA, Construction |
-| Binary Search Trees | 16 | Search, Insert, Delete, Validation, Iterator |
-| Graphs | 53 | DFS, BFS, Dijkstra, MST, Topological Sort, Union-Find |
-| Dynamic Programming | 56 | Patterns, Knapsack, LIS, DP on Trees, Strings, Grids |
-| Tries | 7 | Prefix Trees, Word Search, Dictionary Problems |
-| Strings Advanced | 9 | KMP, Z-Algorithm, Rabin-Karp, Manacher's Algorithm |
-
----
-
-## 🔗 Resource Links
-
-| Resource | Link |
-|----------|------|
-| **Original Course** | https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z |
-| **LeetCode** | https://leetcode.com |
-| **GeeksForGeeks** | https://www.geeksforgeeks.org |
-| **Blind 75 Curated** | https://blind75.com |
-| **Codeforces** | https://codeforces.com |
-| **InterviewBit** | https://www.interviewbit.com |
-
----
-
-## 🚀 Suggested 12-Week Learning Path
-
-### **Week 1-2: Foundations**
-- Learn the Basics (31 problems)
-- Sorting Techniques (7 problems)
-- Bit Manipulation (18 problems)
-- **Target**: Build fundamentals & pattern recognition
-
-### **Week 3-4: Linear Data Structures**
-- Arrays (40 problems)
-- Strings (15 problems)
-- LinkedList (31 problems)
-- **Target**: Master sequential data manipulation
-
-### **Week 5: Advanced Searching**
-- Binary Search (32 problems)
-- Sliding Window & Two Pointers (12 problems)
-- **Target**: Optimize time complexity
-
-### **Week 6: Recursion & Backtracking**
-- Recursion (25 problems)
-- **Target**: Master tree of calls, memoization
-
-### **Week 7-8: Tree Structures**
-- Binary Trees (39 problems)
-- Binary Search Trees (16 problems)
-- **Target**: Handle hierarchical data
-
-### **Week 9-10: Advanced Structures**
-- Stack & Queues (30 problems)
-- Heaps (17 problems)
-- Tries (7 problems)
-- **Target**: Master specialized DS patterns
-
-### **Week 11: Graph Algorithms**
-- Graphs (53 problems)
-- **Target**: DFS, BFS, Dijkstra, MST
-
-### **Week 12: Greedy & DP**
-- Greedy (16 problems)
-- Advanced Strings (9 problems)
-- Dynamic Programming (56 problems) - **Ongoing**
-- **Target**: Master optimization patterns
-
----
-
-## 📈 Progress Tracking Tips
-
-### Create a Summary Section (Optional)
-Add this to your fork:
-
-```markdown
-## 📊 My Progress
-
-| Section | Solved | Total | %age | Notes |
-|---------|--------|-------|------|-------|
-| Learn the Basics | 0 | 31 | 0% | |
-| Arrays | 0 | 40 | 0% | |
-| ...more | 0 | ... | ...% | |
-| **TOTAL** | **0** | **454** | **0%** | |
-```
-
-### Whitelist Your Weaknesses
-Problems you struggled with:
-- ⭐ Mark these as favourites
-- Keep revisiting until comfortable
-- Add specific notes about the approach
-
-### Find Patterns
-After 50+ problems:
-- Notice common techniques
-- Document the patterns
-- Reference them for new problems
-
----
-
-## 💡 Problem-Solving Methodology
-
-### The Approach (Apply to Every Problem):
-
-1. **Understand (5 min)**
-   - Read problem statement 2-3 times
-   - Identify inputs/outputs
-   - List constraints
-
-2. **Plan (5 min)**
-   - Brainstorm approaches (brute force → optimal)
-   - Outline algorithm
-   - Discuss time/space complexity
-
-3. **Code (15-25 min)**
-   - Implement cleanly
-   - Handle edge cases
-   - Add comments
-
-4. **Test (5 min)**
-   - Test with examples
-   - Test edge cases
-   - Verify complexity
-
-5. **Optimize (5 min)**
-   - Review solution
-   - Compare with editorial
-   - Note learnings
-
-### Complexity Goals:
-- **Easy**: 15-20 minutes total
-- **Medium**: 25-35 minutes total
-- **Hard**: 35-50 minutes total
-
----
-
-## 🎓 Learning Resources
-
-### Video Explanations:
-- [Striver's YouTube Channel](https://www.youtube.com/c/takeUforward) - Best explanations
-- [LeetCode Solutions](https://leetcode.com/discuss) - Community discussions
-- [GeeksForGeeks](https://www.geeksforgeeks.org) - Written tutorials
-
-### Books:
-- "Cracking the Coding Interview" - Interview prep
-- "Introduction to Algorithms (CLRS)" - Theory deep-dive
-- "Competitive Programming" - Advanced techniques
-
-### Platforms:
-- LeetCode - Largest problem set
-- GeeksForGeeks - Theory + code
-- Codeforces - Competitive programming
-- InterviewBit - Interview-specific
-
----
-
-## 🏆 Tips for Interview Success
-
-1. **Practice consistently**: 1-2 problems daily
-2. **Solve end-to-end**: Think aloud while solving
-3. **Optimize iteratively**: Start brute force, improve
-4. **Know multiple approaches**: Solve same problem multiple ways
-5. **Communicate clearly**: Explain your logic
-6. **Handle edge cases**: Always test boundaries
-7. **Discuss tradeoffs**: Time vs space complexity
-8. **Learn from mistakes**: Revisit failed problems
-
----
-
-## 🐛 Troubleshooting
-
-### Problem: Can't solve a problem?
-→ Look at hints first, then solution  
-→ Understand the approach  
-→ Implement from scratch next day  
-
-### Problem: Forgot a problem?
-→ It's in your ⭐ Favourites  
-→ Revisit your notes  
-→ Solve without looking at solution  
-
-### Problem: Too slow?
-→ Skip to medium difficulty problems  
-→ Focus on weak areas  
-→ Spend more time on patterns  
-
-### Problem: Time management?
-→ Allocate 25 min per problem  
-→ Move on after 20 min if stuck  
-→ Review editorial solution  
-
----
-
-## 📝 Notes Template
-
-When you add notes, use this format:
-
-```
-[Approach] | [Time Spent] | [Difficulty] | [Key Insight]
-
-Example: Two-pointer | 18 min | Medium | Check both ends, move inward
-```
-
----
-
-## ⚠️ Disclaimer
-
-- **Original Creator**: [Striver (Raj Vikramaditya)](https://www.youtube.com/c/takeUforward)
-- **Original Platform**: https://takeuforward.org
-- **Problem Sources**: LeetCode, GeeksForGeeks, CodeChef, Codeforces
-- **Use For**: Learning & interview prep only
-- **Archive Date**: March 3, 2026 (Before course went paid)
-
----
-
-## 🤝 Contributing
-
-Found issues? Help improve this resource:
-- Report broken links → Issue
-- Suggest improvements → PR
-- Share your notes → Discussion
-- Add your solutions → PR
-
----
-
-**Last Updated:** 2026-03-03 18:26:50  
-**Status**: Complete & Ready to Use  
-**Contributions**: Welcome!
-
----
-
-### Legend
-- ✅ Solved  
-- 🔄 In Progress  
-- ⏳ Todo  
-- ⭐ Favourite/Revisit  
-- ☐ Not started  
-
-Good luck with your DSA journey! 🚀
+## 📚 All Problem Links Available
+
+Below is the complete list of **395 unique TakeUForward problem links** from the A2Z DSA Sheet:
+
+1. [Capacity To Ship Packages Within D Days](https://takeuforward.org/arrays/capacity-to-ship-packages-within-d-days/\)
+2. [Find Out How Many Times The Array Has Been Rotated](https://takeuforward.org/arrays/find-out-how-many-times-the-array-has-been-rotated/\)
+3. [Find The Highest Lowest Frequency Element](https://takeuforward.org/arrays/find-the-highest-lowest-frequency-element/\)
+4. [Find The Number That Appears Once And The Other Numbers Twice](https://takeuforward.org/arrays/find-the-number-that-appears-once-and-the-other-numbers-twice/\)
+5. [Find The Row With Maximum Number Of 1S](https://takeuforward.org/arrays/find-the-row-with-maximum-number-of-1s/\)
+6. [Find The Smallest Divisor Given A Threshold](https://takeuforward.org/arrays/find-the-smallest-divisor-given-a-threshold/\)
+7. [Floor And Ceil In Sorted Array](https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/\)
+8. [Implement Lower Bound Bs 2](https://takeuforward.org/arrays/implement-lower-bound-bs-2/\)
+9. [Implement Upper Bound](https://takeuforward.org/arrays/implement-upper-bound/\)
+10. [Kth Missing Positive Number](https://takeuforward.org/arrays/kth-missing-positive-number/\)
+11. [Minimise Maximum Distance Between Gas Stations](https://takeuforward.org/arrays/minimise-maximum-distance-between-gas-stations/\)
+12. [Minimum Days To Make M Bouquets](https://takeuforward.org/arrays/minimum-days-to-make-m-bouquets/\)
+13. [Painters Partition Problem](https://takeuforward.org/arrays/painters-partition-problem/\)
+14. [Print Fibonacci Series Up To Nth Term](https://takeuforward.org/arrays/print-fibonacci-series-up-to-nth-term/\)
+15. [Rearrange Array Elements By Sign](https://takeuforward.org/arrays/rearrange-array-elements-by-sign/\)
+16. [Recursive Bubble Sort Algorithm](https://takeuforward.org/arrays/recursive-bubble-sort-algorithm/\)
+17. [Arrays](https://takeuforward.org/arrays/search-element-in-rotated-sorted-array-ii\)
+18. [Search In A Row And Column Wise Sorted Matrix](https://takeuforward.org/arrays/search-in-a-row-and-column-wise-sorted-matrix/\)
+19. [Search Insert Position](https://takeuforward.org/arrays/search-insert-position/\)
+20. [Split Array Largest Sum](https://takeuforward.org/arrays/split-array-largest-sum/\)
+21. [Finding Sqrt Of A Number Using Binary Search](https://takeuforward.org/binary-search/finding-sqrt-of-a-number-using-binary-search/\)
+22. [Koko Eating Bananas](https://takeuforward.org/binary-search/koko-eating-bananas/\)
+23. [Floor In A Binary Search Tree](https://takeuforward.org/binary-search-tree/floor-in-a-binary-search-tree/\)
+24. [Introduction To Binary Search Trees](https://takeuforward.org/binary-search-tree/introduction-to-binary-search-trees/\)
+25. [Binary Tree Representation In Java](https://takeuforward.org/binary-tree/binary-tree-representation-in-java/\)
+26. [Count Number Of Nodes In A Binary Tree](https://takeuforward.org/binary-tree/count-number-of-nodes-in-a-binary-tree/\)
+27. [Introduction To Trees](https://takeuforward.org/binary-tree/introduction-to-trees/\)
+28. [Bit Manipulation](https://takeuforward.org/bit-manipulation/power-set-bit-manipulation\)
+29. [C Basic Input Output](https://takeuforward.org/c/c-basic-input-output/\)
+30. [C Stl Tutorial Most Frequent Used Stl Containers](https://takeuforward.org/c/c-stl-tutorial-most-frequent-used-stl-containers/\)
+31. [Takeuforward.Org](https://takeuforward.org/data)
+32. [Takeuforward.Org](https://takeuforward.org/data-str)
+33. [3 D Dp Ninja And His Friends Dp 13](https://takeuforward.org/data-structure/3-d-dp-ninja-and-his-friends-dp-13/\)
+34. [3 Sum Find Triplets That Add Up To A Zero](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/\)
+35. [4 Sum Find Quads That Add Up To A Target Value](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/\)
+36. [Accounts Merge Dsu G 50](https://takeuforward.org/data-structure/accounts-merge-dsu-g-50/\)
+37. [Data Structure](https://takeuforward.org/data-structure/add-1-to-a-number-represented-by-ll\)
+38. [Add Two Numbers Represented As Linked Lists](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/\)
+39. [Aggressive Cows Detailed Solution](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/\)
+40. [Alien Dictionary Topological Sort G 26](https://takeuforward.org/data-structure/alien-dictionary-topological-sort-g-26/\)
+41. [Allocate Minimum Number Of Pages](https://takeuforward.org/data-structure/allocate-minimum-number-of-pages/\)
+42. [Area Of Largest Rectangle In Histogram](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/\)
+43. [Articulation Point In Graph G 56](https://takeuforward.org/data-structure/articulation-point-in-graph-g-56/\)
+44. [Data Structure](https://takeuforward.org/data-structure/assign-cookies\)
+45. [Data Structure](https://takeuforward.org/data-structure/asteroid-collision\)
+46. [Data Structure](https://takeuforward.org/data-structure/b)
+47. [Bellman Ford Algorithm G 41](https://takeuforward.org/data-structure/bellman-ford-algorithm-g-41/\)
+48. [Binary Search Explained](https://takeuforward.org/data-structure/binary-search-explained/\)
+49. [Data Structure](https://takeuforward.org/data-structure/binary-subarray-with-sum\)
+50. [Boundary Traversal Of A Binary Tree](https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/\)
+51. [Data Structure](https://takeuforward.org/data-structure/bst-iterator\)
+52. [Bubble Sort Algorithm](https://takeuforward.org/data-structure/bubble-sort-algorithm/\)
+53. [Burst Balloons Partition Dp Dp 51](https://takeuforward.org/data-structure/burst-balloons-partition-dp-dp-51/\)
+54. [Buy And Sell Stock Ii Dp 36](https://takeuforward.org/data-structure/buy-and-sell-stock-ii-dp-36/\)
+55. [Buy And Sell Stock Iii Dp 37](https://takeuforward.org/data-structure/buy-and-sell-stock-iii-dp-37/\)
+56. [Buy And Sell Stock Iv Dp 38](https://takeuforward.org/data-structure/buy-and-sell-stock-iv-dp-38/\)
+57. [Buy And Sell Stocks With Cooldown Dp 39](https://takeuforward.org/data-structure/buy-and-sell-stocks-with-cooldown-dp-39/\)
+58. [Buy And Sell Stocks With Transaction Fees Dp 40](https://takeuforward.org/data-structure/buy-and-sell-stocks-with-transaction-fees-dp-40/\)
+59. [Calculate The Diameter Of A Binary Tree](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/\)
+60. [Data Structure](https://takeuforward.org/data-structure/candy\)
+61. [Data Structure](https://takeuforward.org/data-structure/celebrity-problem\)
+62. [Check For Balanced Parentheses](https://takeuforward.org/data-structure/check-for-balanced-parentheses/\)
+63. [Check For Children Sum Property In A Binary Tree](https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/\)
+64. [Check For Symmetrical Binary Tree](https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/\)
+65. [Check If An Array Is Sorted](https://takeuforward.org/data-structure/check-if-an-array-is-sorted/\)
+66. [Data Structure](https://takeuforward.org/data-structure/check-if-an-array-represents-a-min-heap\)
+67. [Data Structure](https://takeuforward.org/data-structure/check-if-a-number-is-odd-or-not\)
+68. [Check If A Number Is Palindrome Or Not](https://takeuforward.org/data-structure/check-if-a-number-is-palindrome-or-not/\)
+69. [Data Structure](https://takeuforward.org/data-structure/check-if-a-number-is-power-of-2-or-not\)
+70. [Check If A Number Is Prime Or Not](https://takeuforward.org/data-structure/check-if-a-number-is-prime-or-not/\)
+71. [Check If Given Linked List Is Plaindrome](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/\)
+72. [Data Structure](https://takeuforward.org/data-structure/check-if-one-string-is-rotation-of-another\)
+73. [Check If The Binary Tree Is Balanced Binary Tree](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/\)
+74. [Check If The Given String Is Palindrome Or Not](https://takeuforward.org/data-structure/check-if-the-given-string-is-palindrome-or-not/\)
+75. [Data Structure](https://takeuforward.org/data-structure/check-if-the-i-th-bit-is-set-or-not\)
+76. [Data Structure](https://takeuforward.org/data-structure/check-if-there-exists-a-subsequence-with-sum-k\)
+77. [Check If Two Strings Are Anagrams Of Each Other](https://takeuforward.org/data-structure/check-if-two-strings-are-anagrams-of-each-other/\)
+78. [Check If Two Trees Are Identical](https://takeuforward.org/data-structure/check-if-two-trees-are-identical/\)
+79. [Clone Linked List With Random And Next Pointer](https://takeuforward.org/data-structure/clone-linked-list-with-random-and-next-pointer/\)
+80. [Coin Change 2 Dp 22](https://takeuforward.org/data-structure/coin-change-2-dp-22/\)
+81. [Combination Sum 1](https://takeuforward.org/data-structure/combination-sum-1/\)
+82. [Combination Sum Ii Find All Unique Combinations](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/\)
+83. [Data Structure](https://takeuforward.org/data-structure/combination-sum-iii\)
+84. [Data Structure](https://takeuforward.org/data-structure/connected-components\)
+85. [Construct A Binary Tree From Inorder And Preorder Traversal](https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/\)
+86. [Construct Binary Tree From Inorder And Postorder Traversal](https://takeuforward.org/data-structure/construct-binary-tree-from-inorder-and-postorder-traversal/\)
+87. [Data Structure](https://takeuforward.org/data-structure/count-all-subsequences-with-sum-k\)
+88. [Data Structure](https://takeuforward.org/data-structure/count-and-say\)
+89. [Count Digits In A Number](https://takeuforward.org/data-structure/count-digits-in-a-number/\)
+90. [Count Frequency Of Each Element In The Array](https://takeuforward.org/data-structure/count-frequency-of-each-element-in-the-array/\)
+91. [Data Structure](https://takeuforward.org/data-structure/count-good-numbers\)
+92. [Data Structure](https://takeuforward.org/data-structure/count-inversions-in-an-array\)
+93. [Count Maximum Consecutive Ones In The Array](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/\)
+94. [Data Structure](https://takeuforward.org/data-structure/count-number-of-bits-to-be-flipped-to-convert-a-to-b\)
+95. [Data Structure](https://takeuforward.org/data-structure/count-number-of-nice-subarrays\)
+96. [Data Structure](https://takeuforward.org/data-structure/count-number-of-substrings\)
+97. [Count Partitions With Given Difference Dp 18](https://takeuforward.org/data-structure/count-partitions-with-given-difference-dp-18/\)
+98. [Count Reverse Pairs](https://takeuforward.org/data-structure/count-reverse-pairs/\)
+99. [Count Square Submatrices With All 1S Dp On Rectangles Dp 56](https://takeuforward.org/data-structure/count-square-submatrices-with-all-1s-dp-on-rectangles-dp-56/\)
+100. [Count Subsets With Sum K Dp 17](https://takeuforward.org/data-structure/count-subsets-with-sum-k-dp-17/\)
+101. [Data Structure](https://takeuforward.org/data-structure/count-the-number-of-set-bits\)
+102. [Count The Number Of Subarrays With Given Xor K](https://takeuforward.org/data-structure/count-the-number-of-subarrays-with-given-xor-k/\)
+103. [Course Schedule I And Ii Pre Requisite Tasks Topological Sort G 24](https://takeuforward.org/data-structure/course-schedule-i-and-ii-pre-requisite-tasks-topological-sort-g-24/\)
+104. [Delete Last Node Of A Doubly Linked List](https://takeuforward.org/data-structure/delete-last-node-of-a-doubly-linked-list/\)
+105. [Delete Last Node Of Linked List](https://takeuforward.org/data-structure/delete-last-node-of-linked-list/\)
+106. [Depth First Search Dfs](https://takeuforward.org/data-structure/depth-first-search-dfs/\)
+107. [Data Structure](https://takeuforward.org/data-structure/design-twitter\)
+108. [Detect A Cycle In A Linked List](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/\)
+109. [Detect A Cycle In Directed Graph Topological Sort Kahns Algorithm G 23](https://takeuforward.org/data-structure/detect-a-cycle-in-directed-graph-topological-sort-kahns-algorithm-g-23/\)
+110. [Detect Cycle In A Directed Graph Using Dfs G 19](https://takeuforward.org/data-structure/detect-cycle-in-a-directed-graph-using-dfs-g-19/\)
+111. [Detect Cycle In An Undirected Graph Using Bfs](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-bfs/\)
+112. [Detect Cycle In An Undirected Graph Using Dfs](https://takeuforward.org/data-structure/detect-cycle-in-an-undirected-graph-using-dfs/\)
+113. [Dijkstras Algorithm Using Priority Queue G 32](https://takeuforward.org/data-structure/dijkstras-algorithm-using-priority-queue-g-32/\)
+114. [Dijkstras Algorithm Using Set G 33](https://takeuforward.org/data-structure/dijkstras-algorithm-using-set-g-33/\)
+115. [Disjoint Set Union By Rank Union By Size Path Compression G 46](https://takeuforward.org/data-structure/disjoint-set-union-by-rank-union-by-size-path-compression-g-46/\)
+116. [Distinct Subsequences Dp 32](https://takeuforward.org/data-structure/distinct-subsequences-dp-32/\)
+117. [Data Structure](https://takeuforward.org/data-structure/divide-two-integers-without-using-multiplication-division-and-mod-operator\)
+118. [Dynamic Programming Climbing Stairs](https://takeuforward.org/data-structure/dynamic-programming-climbing-stairs/\)
+119. [Dynamic Programming Frog Jump Dp 3](https://takeuforward.org/data-structure/dynamic-programming-frog-jump-dp-3/\)
+120. [Dynamic Programming Frog Jump With K Distances Dp 4](https://takeuforward.org/data-structure/dynamic-programming-frog-jump-with-k-distances-dp-4/\)
+121. [Dynamic Programming House Robber Dp 6](https://takeuforward.org/data-structure/dynamic-programming-house-robber-dp-6/\)
+122. [Dynamic Programming Introduction](https://takeuforward.org/data-structure/dynamic-programming-introduction/\)
+123. [Dynamic Programming Ninjas Training Dp 7](https://takeuforward.org/data-structure/dynamic-programming-ninjas-training-dp-7/\)
+124. [Edit Distance Dp 33](https://takeuforward.org/data-structure/edit-distance-dp-33/\)
+125. [Evaluate Boolean Expression To True Partition Dp Dp 52](https://takeuforward.org/data-structure/evaluate-boolean-expression-to-true-partition-dp-dp-52/\)
+126. [Data Structure](https://takeuforward.org/data-structure/expression-add-operators\)
+127. [Data Structure](https://takeuforward.org/data-structure/factorial-of-a-number-iterative-and-recursive\)
+128. [Find Eventual Safe States Bfs Topological Sort G 25](https://takeuforward.org/data-structure/find-eventual-safe-states-bfs-topological-sort-g-25/\)
+129. [Find Gcd Of Two Numbers](https://takeuforward.org/data-structure/find-gcd-of-two-numbers/\)
+130. [Find Intersection Of Two Linked Lists](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/\)
+131. [Data Structure](https://takeuforward.org/data-structure/find-median-from-data-stream\)
+132. [Find Middle Element In A Linked List](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/\)
+133. [Data Structure](https://takeuforward.org/data-structure/find-minmax-in-a-bst\)
+134. [Data Structure](https://takeuforward.org/data-structure/find-pairs-with-given-sum-in-doubly-linked-list\)
+135. [Data Structure](https://takeuforward.org/data-structure/find-peak-element-2d-matrix\)
+136. [Find Second Smallest And Second Largest Element In An Array](https://takeuforward.org/data-structure/find-second-smallest-and-second-largest-element-in-an-array/\)
+137. [Find The City With The Smallest Number Of Neighbours At A Threshold Distance G 43](https://takeuforward.org/data-structure/find-the-city-with-the-smallest-number-of-neighbours-at-a-threshold-distance-g-43/\)
+138. [Find The Largest Element In An Array](https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/\)
+139. [Find The Majority Element That Occurs More Than N 2 Times](https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/\)
+140. [Find The Repeating And Missing Numbers](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/\)
+141. [Data Structure](https://takeuforward.org/data-structure/find-the-two-numbers-appearing-odd-number-of-times\)
+142. [Data Structure](https://takeuforward.org/data-structure/find-xor-of-numbers-from-l-to-r\)
+143. [Flatten Binary Tree To Linked List](https://takeuforward.org/data-structure/flatten-binary-tree-to-linked-list/\)
+144. [Flattening A Linked List](https://takeuforward.org/data-structure/flattening-a-linked-list/\)
+145. [Floyd Warshall Algorithm G 42](https://takeuforward.org/data-structure/floyd-warshall-algorithm-g-42/\)
+146. [Fractional Knapsack Problem Greedy Approach](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/\)
+147. [Data Structure](https://takeuforward.org/data-structure/fruit-into-baskets\)
+148. [Data Structure](https://takeuforward.org/data-structure/functions-pass-by-reference-and-value\)
+149. [G 36 Shortest Distance In A Binary Maze](https://takeuforward.org/data-structure/g-36-shortest-distance-in-a-binary-maze/\)
+150. [G 37 Path With Minimum Effort](https://takeuforward.org/data-structure/g-37-path-with-minimum-effort/\)
+151. [G 38 Cheapest Flights Within K Stops](https://takeuforward.org/data-structure/g-38-cheapest-flights-within-k-stops/\)
+152. [G 40 Number Of Ways To Arrive At Destination](https://takeuforward.org/data-structure/g-40-number-of-ways-to-arrive-at-destination/\)
+153. [Data Structure](https://takeuforward.org/data-structure/generate-all-binary-strings\)
+154. [Data Structure](https://takeuforward.org/data-structure/generate-parenthesis\)
+155. [Data Structure](https://takeuforward.org/data-structure/graph-representation-in-java\)
+156. [Grid Unique Paths 2 Dp 9](https://takeuforward.org/data-structure/grid-unique-paths-2-dp-9/\)
+157. [Grid Unique Paths Dp On Grids Dp8](https://takeuforward.org/data-structure/grid-unique-paths-dp-on-grids-dp8/\)
+158. [Data Structure](https://takeuforward.org/data-structure/hands-of-straights\)
+159. [Data Structure](https://takeuforward.org/data-structure/hashing-in-strings\)
+160. [Implement Min Stack O2N And On Space Complexity](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/\)
+161. [Implement Powxn X Raised To The Power N](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/\)
+162. [Implement Queue Using Array](https://takeuforward.org/data-structure/implement-queue-using-array/\)
+163. [Implement Queue Using Linked List](https://takeuforward.org/data-structure/implement-queue-using-linked-list/\)
+164. [Implement Queue Using Stack](https://takeuforward.org/data-structure/implement-queue-using-stack/\)
+165. [Implement Stack Using Array](https://takeuforward.org/data-structure/implement-stack-using-array/\)
+166. [Implement Stack Using Linked List](https://takeuforward.org/data-structure/implement-stack-using-linked-list/\)
+167. [Data Structure](https://takeuforward.org/data-structure/implement-stack-using-single-queue\)
+168. [Implement Trie 1](https://takeuforward.org/data-structure/implement-trie-1/\)
+169. [Implement Trie Ii](https://takeuforward.org/data-structure/implement-trie-ii/\)
+170. [Infix To Prefix](https://takeuforward.org/data-structure/infix-to-prefix/\)
+171. [Data Structure](https://takeuforward.org/data-structure/inorder-successorpredecessor-in-bst\)
+172. [Inorder Traversal Of Binary Tree](https://takeuforward.org/data-structure/inorder-traversal-of-binary-tree/\)
+173. [Insert At End Of Doubly Linked List](https://takeuforward.org/data-structure/insert-at-end-of-doubly-linked-list/\)
+174. [Insertion Sort Algorithm](https://takeuforward.org/data-structure/insertion-sort-algorithm/\)
+175. [Data Structure](https://takeuforward.org/data-structure/introduction-to-bit-manipulation-theory\)
+176. [Data Structure](https://takeuforward.org/data-structure/introduction-to-priority-queues-using-binary-heaps\)
+177. [Data Structure](https://takeuforward.org/data-structure/isomorphic-string\)
+178. [Data Structure](https://takeuforward.org/data-structure/iterative-postorder-traversal-of-binary-tree-using-2-stack\)
+179. [Data Structure](https://takeuforward.org/data-structure/iterative-preorder-traversal-of-binary-tree\)
+180. [Data Structure](https://takeuforward.org/data-structure/java-collections\)
+181. [Job Sequencing Problem](https://takeuforward.org/data-structure/job-sequencing-problem/\)
+182. [Data Structure](https://takeuforward.org/data-structure/jump-game-2\)
+183. [Kadanes Algorithm Maximum Subarray Sum In An Array](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/\)
+184. [Data Structure](https://takeuforward.org/data-structure/kmp-algorithm-or-lps-array\)
+185. [K Th Element Of Two Sorted Arrays](https://takeuforward.org/data-structure/k-th-element-of-two-sorted-arrays/\)
+186. [Data Structure](https://takeuforward.org/data-structure/kth-largest-element-in-a-stream-of-running-integers\)
+187. [Kth Largest Smallest Element In An Array](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-an-array/\)
+188. [Kth Largest Smallest Element In Binary Search Tree](https://takeuforward.org/data-structure/kth-largest-smallest-element-in-binary-search-tree/\)
+189. [Data Structure](https://takeuforward.org/data-structure/largest-odd-number-in-a-string\)
+190. [Last Occurrence In A Sorted Array](https://takeuforward.org/data-structure/last-occurrence-in-a-sorted-array/\)
+191. [Leaders In An Array](https://takeuforward.org/data-structure/leaders-in-an-array/\)
+192. [Data Structure](https://takeuforward.org/data-structure/learn-all-patterns-of-subsequences-theory\)
+193. [Left Rotate The Array By One](https://takeuforward.org/data-structure/left-rotate-the-array-by-one/\)
+194. [Length Of Longest Substring Without Any Repeating Character](https://takeuforward.org/data-structure/length-of-longest-substring-without-any-repeating-character/\)
+195. [Length Of The Longest Subarray With Zero Sum](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/\)
+196. [Data Structure](https://takeuforward.org/data-structure/letter-combinations-of-a-phone-number\)
+197. [Level Order Traversal Of A Binary Tree](https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/\)
+198. [Data Structure](https://takeuforward.org/data-structure/lfu-cache\)
+199. [Linear Search In C](https://takeuforward.org/data-structure/linear-search-in-c/\)
+200. [Longest Bitonic Subsequence Dp 46](https://takeuforward.org/data-structure/longest-bitonic-subsequence-dp-46/\)
+201. [Data Structure](https://takeuforward.org/data-structure/longest-common-prefix\)
+202. [Longest Common Substring Dp 27](https://takeuforward.org/data-structure/longest-common-substring-dp-27/\)
+203. [Longest Consecutive Sequence In An Array](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/\)
+204. [Longest Divisible Subset Dp 44](https://takeuforward.org/data-structure/longest-divisible-subset-dp-44/\)
+205. [Data Structure](https://takeuforward.org/data-structure/longest-happy-prefix\)
+206. [Longest Increasing Subsequence Binary Search Dp 43](https://takeuforward.org/data-structure/longest-increasing-subsequence-binary-search-dp-43/\)
+207. [Longest Palindromic Subsequence Dp 28](https://takeuforward.org/data-structure/longest-palindromic-subsequence-dp-28/\)
+208. [Data Structure](https://takeuforward.org/data-structure/longest-repeating-character-replacement\)
+209. [Longest String Chain Dp 45](https://takeuforward.org/data-structure/longest-string-chain-dp-45/\)
+210. [Longest Subarray With Given Sum K](https://takeuforward.org/data-structure/longest-subarray-with-given-sum-k/\)
+211. [Data Structure](https://takeuforward.org/data-structure/longest-substring-with-at-most-k-distinct-characters\)
+212. [Lowest Common Ancestor For Two Given Nodes](https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/\)
+213. [Majority Elementsn 3 Times Find The Elements That Appears More Than N 3 Times In The Array](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/\)
+214. [Making A Large Island Dsu G 52](https://takeuforward.org/data-structure/making-a-large-island-dsu-g-52/\)
+215. [Matrix Chain Multiplication Tabulation Method Dp 49](https://takeuforward.org/data-structure/matrix-chain-multiplication-tabulation-method-dp-49/\)
+216. [Data Structure](https://takeuforward.org/data-structure/max-consecutive-ones-iii\)
+217. [Maximum Depth Of A Binary Tree](https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/\)
+218. [Data Structure](https://takeuforward.org/data-structure/maximum-nesting-depth-of-parenthesis\)
+219. [Maximum Product Subarray In An Array](https://takeuforward.org/data-structure/maximum-product-subarray-in-an-array/\)
+220. [Maximum Rectangle Area With All 1S Dp On Rectangles Dp 55](https://takeuforward.org/data-structure/maximum-rectangle-area-with-all-1s-dp-on-rectangles-dp-55/\)
+221. [Data Structure](https://takeuforward.org/data-structure/maximum-sum-combination\)
+222. [Maximum Sum Of Non Adjacent Elements Dp 5](https://takeuforward.org/data-structure/maximum-sum-of-non-adjacent-elements-dp-5/\)
+223. [Maximum Sum Path In Binary Tree](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/\)
+224. [Maximum Width Of A Binary Tree](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/\)
+225. [Maximum Xor Of Two Numbers In An Array](https://takeuforward.org/data-structure/maximum-xor-of-two-numbers-in-an-array/\)
+226. [M Coloring Problem](https://takeuforward.org/data-structure/m-coloring-problem/\)
+227. [Median Of Row Wise Sorted Matrix](https://takeuforward.org/data-structure/median-of-row-wise-sorted-matrix/\)
+228. [Data Structure](https://takeuforward.org/data-structure/merge-m-sorted-lists\)
+229. [Merge Overlapping Sub Intervals](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/\)
+230. [Merge Sort Algorithm](https://takeuforward.org/data-structure/merge-sort-algorithm/\)
+231. [Merge Two Sorted Arrays Without Extra Space](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/\)
+232. [Minimum Coins Dp 20](https://takeuforward.org/data-structure/minimum-coins-dp-20/\)
+233. [Data Structure](https://takeuforward.org/data-structure/minimum-cost-to-connect-sticks\)
+234. [Minimum Cost To Cut The Stick Dp 50](https://takeuforward.org/data-structure/minimum-cost-to-cut-the-stick-dp-50/\)
+235. [Minimum In Rotated Sorted Array](https://takeuforward.org/data-structure/minimum-in-rotated-sorted-array/\)
+236. [Minimum Insertions Deletions To Convert String Dp 30](https://takeuforward.org/data-structure/minimum-insertions-deletions-to-convert-string-dp-30/\)
+237. [Minimum Insertions To Make String Palindrome Dp 29](https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/\)
+238. [Data Structure](https://takeuforward.org/data-structure/minimum-number-of-bracket-reversals-needed-to-make-an-expression-balanced\)
+239. [Minimum Number Of Platforms Required For A Railway](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/\)
+240. [Minimum Path Sum In A Grid Dp 10](https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10/\)
+241. [Data Structure](https://takeuforward.org/data-structure/minimum-path-sum-in-a-grid-dp-10\)
+242. [Minimum Path Sum In Triangular Grid Dp 11](https://takeuforward.org/data-structure/minimum-path-sum-in-triangular-grid-dp-11/\)
+243. [Minimum Spanning Tree Theory G 44](https://takeuforward.org/data-structure/minimum-spanning-tree-theory-g-44/\)
+244. [Data Structure](https://takeuforward.org/data-structure/minimum-time-taken-to-burn-the-binary-tree-from-a-node\)
+245. [Morris Inorder Traversal Of A Binary Tree](https://takeuforward.org/data-structure/morris-inorder-traversal-of-a-binary-tree/\)
+246. [Morris Preorder Traversal Of A Binary Tree](https://takeuforward.org/data-structure/morris-preorder-traversal-of-a-binary-tree/\)
+247. [Most Stones Removed With Same Row Or Column Dsu G 53](https://takeuforward.org/data-structure/most-stones-removed-with-same-row-or-column-dsu-g-53/\)
+248. [Move All Zeros To The End Of The Array](https://takeuforward.org/data-structure/move-all-zeros-to-the-end-of-the-array/\)
+249. [Data Structure](https://takeuforward.org/data-structure/network-delay-time\)
+250. [Data Structure](https://takeuforward.org/data-structure/next-greater-element-2\)
+251. [Next Greater Element Using Stack](https://takeuforward.org/data-structure/next-greater-element-using-stack/\)
+252. [Next_Permutation Find Next Lexicographically Greater Permutation](https://takeuforward.org/data-structure/next_permutation-find-next-lexicographically-greater-permutation/\)
+253. [Data Structure](https://takeuforward.org/data-structure/next-smaller-element\)
+254. [N Meetings In One Room](https://takeuforward.org/data-structure/n-meetings-in-one-room/\)
+255. [Data Structure](https://takeuforward.org/data-structure/non-overlapping-intervals\)
+256. [N Queen Problem Return All Distinct Solutions To The N Queens Puzzle](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/\)
+257. [Nth Root Of A Number Using Binary Search](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/\)
+258. [Number Of Distinct Islands](https://takeuforward.org/data-structure/number-of-distinct-islands/\)
+259. [Number Of Distinct Substrings In A String Using Trie](https://takeuforward.org/data-structure/number-of-distinct-substrings-in-a-string-using-trie/\)
+260. [Number Of Longest Increasing Subsequences Dp 47](https://takeuforward.org/data-structure/number-of-longest-increasing-subsequences-dp-47/\)
+261. [Data Structure](https://takeuforward.org/data-structure/number-of-nges-to-the-right\)
+262. [Number Of Operations To Make Network Connected Dsu G 49](https://takeuforward.org/data-structure/number-of-operations-to-make-network-connected-dsu-g-49/\)
+263. [Number Of Provinces](https://takeuforward.org/data-structure/number-of-provinces/\)
+264. [Data Structure](https://takeuforward.org/data-structure/number-of-substring-containing-all-three-characters\)
+265. [Palindrome Partitioning Ii Front Partition Dp 53](https://takeuforward.org/data-structure/palindrome-partitioning-ii-front-partition-dp-53/\)
+266. [Partition Array For Maximum Sum Front Partition Dp 54](https://takeuforward.org/data-structure/partition-array-for-maximum-sum-front-partition-dp-54/\)
+267. [Partition Equal Subset Sum Dp 15](https://takeuforward.org/data-structure/partition-equal-subset-sum-dp-15/\)
+268. [Partition Set Into 2 Subsets With Min Absolute Sum Diff Dp 16](https://takeuforward.org/data-structure/partition-set-into-2-subsets-with-min-absolute-sum-diff-dp-16/\)
+269. [Peak Element In Array](https://takeuforward.org/data-structure/peak-element-in-array/\)
+270. [Data Structure](https://takeuforward.org/data-structure/postfix-to-infix\)
+271. [Data Structure](https://takeuforward.org/data-structure/postfix-to-prefix-conversion\)
+272. [Post Order Traversal Of Binary Tree](https://takeuforward.org/data-structure/post-order-traversal-of-binary-tree/\)
+273. [Power Set Print All The Possible Subsequences Of The String](https://takeuforward.org/data-structure/power-set-print-all-the-possible-subsequences-of-the-string/\)
+274. [Data Structure](https://takeuforward.org/data-structure/prefix-to-infix-conversion\)
+275. [Data Structure](https://takeuforward.org/data-structure/prefix-to-postfix-conversion\)
+276. [Preorder Inorder Postorder Traversals In One Traversal](https://takeuforward.org/data-structure/preorder-inorder-postorder-traversals-in-one-traversal/\)
+277. [Preorder Traversal Of Binary Tree](https://takeuforward.org/data-structure/preorder-traversal-of-binary-tree/\)
+278. [Prims Algorithm Minimum Spanning Tree C And Java G 45](https://takeuforward.org/data-structure/prims-algorithm-minimum-spanning-tree-c-and-java-g-45/\)
+279. [Print All Divisors Of A Given Number](https://takeuforward.org/data-structure/print-all-divisors-of-a-given-number/\)
+280. [Data Structure](https://takeuforward.org/data-structure/print-all-the-nodes-at-a-distance-of-k-in-a-binary-tree\)
+281. [Printing Longest Increasing Subsequence Dp 42](https://takeuforward.org/data-structure/printing-longest-increasing-subsequence-dp-42/\)
+282. [Print Longest Common Subsequence Dp 26](https://takeuforward.org/data-structure/print-longest-common-subsequence-dp-26/\)
+283. [Print Root To Node Path In A Binary Tree](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/\)
+284. [Data Structure](https://takeuforward.org/data-structure/program-for-least-recently-used-lru-page-replacement-algorithm\)
+285. [Data Structure](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle\)
+286. [Quick Sort Algorithm](https://takeuforward.org/data-structure/quick-sort-algorithm/\)
+287. [Rat In A Maze](https://takeuforward.org/data-structure/rat-in-a-maze/\)
+288. [Data Structure](https://takeuforward.org/data-structure/recursive-implementation-of-atoi\)
+289. [Data Structure](https://takeuforward.org/data-structure/remove-duplicates-from-sorted-dll\)
+290. [Remove Duplicates In Place From Sorted Array](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/\)
+291. [Data Structure](https://takeuforward.org/data-structure/remove-k-digits\)
+292. [Remove N Th Node From The End Of A Linked List](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/\)
+293. [Data Structure](https://takeuforward.org/data-structure/remove-outermost-parentheses\)
+294. [Replace Elements By Its Rank In The Array](https://takeuforward.org/data-structure/replace-elements-by-its-rank-in-the-array/\)
+295. [Reverse A Doubly Linked List](https://takeuforward.org/data-structure/reverse-a-doubly-linked-list/\)
+296. [Reverse A Given Array](https://takeuforward.org/data-structure/reverse-a-given-array/\)
+297. [Reverse A Linked List](https://takeuforward.org/data-structure/reverse-a-linked-list/\)
+298. [Data Structure](https://takeuforward.org/data-structure/reverse-a-stack-using-recursion\)
+299. [Reverse Linked List In Groups Of Size K](https://takeuforward.org/data-structure/reverse-linked-list-in-groups-of-size-k/\)
+300. [Reverse Words In A String](https://takeuforward.org/data-structure/reverse-words-in-a-string/\)
+301. [Right Left View Of Binary Tree](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/\)
+302. [Rod Cutting Problem Dp 24](https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/\)
+303. [Data Structure](https://takeuforward.org/data-structure/roman-numerals-to-integer\)
+304. [Rotate A Linked List](https://takeuforward.org/data-structure/rotate-a-linked-list/\)
+305. [Rotate Array By K Elements](https://takeuforward.org/data-structure/rotate-array-by-k-elements/\)
+306. [Rotate Image By 90 Degree](https://takeuforward.org/data-structure/rotate-image-by-90-degree/\)
+307. [Rotten Oranges Min Time To Rot All Oranges Bfs](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/\)
+308. [Search Element In A Rotated Sorted Array](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/\)
+309. [Search In A Sorted 2D Matrix](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/\)
+310. [Search Single Element In A Sorted Array](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/\)
+311. [Data Structure](https://takeuforward.org/data-structure/segregate-even-and-odd-nodes-in-linkedlist\)
+312. [Serialize And Deserialize A Binary Tree](https://takeuforward.org/data-structure/serialize-and-deserialize-a-binary-tree/\)
+313. [Set Matrix Zero](https://takeuforward.org/data-structure/set-matrix-zero/\)
+314. [Data Structure](https://takeuforward.org/data-structure/set-the-rightmost-bit\)
+315. [Shortest Common Supersequence Dp 31](https://takeuforward.org/data-structure/shortest-common-supersequence-dp-31/\)
+316. [Shortest Path In Directed Acyclic Graph Topological Sort G 27](https://takeuforward.org/data-structure/shortest-path-in-directed-acyclic-graph-topological-sort-g-27/\)
+317. [Shortest Path In Undirected Graph With Unit Distance G 28](https://takeuforward.org/data-structure/shortest-path-in-undirected-graph-with-unit-distance-g-28/\)
+318. [Data Structure](https://takeuforward.org/data-structure/sieve-of-eratosthenes\)
+319. [Sliding Window Maximum](https://takeuforward.org/data-structure/sliding-window-maximum/\)
+320. [Data Structure](https://takeuforward.org/data-structure/sort-a-linked-list-of-0s-1s-and-2s-by-changing-links\)
+321. [Sort An Array Of 0S 1S And 2S](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/\)
+322. [Data Structure](https://takeuforward.org/data-structure/sort-a-stack\)
+323. [Data Structure](https://takeuforward.org/data-structure/sort-characters-by-frequency\)
+324. [Data Structure](https://takeuforward.org/data-structure/sort-k-sorted-array\)
+325. [Spiral Traversal Of Matrix](https://takeuforward.org/data-structure/spiral-traversal-of-matrix/\)
+326. [Starting Point Of Loop In A Linked List](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/\)
+327. [Stock Buy And Sell](https://takeuforward.org/data-structure/stock-buy-and-sell/\)
+328. [Data Structure](https://takeuforward.org/data-structure/stock-span-problem\)
+329. [Data Structure](https://takeuforward.org/data-structure/subarray-with-k-different-integers\)
+330. [Subset Ii Print All The Unique Subsets](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/\)
+331. [Subset Sum Equal To Target Dp 14](https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/\)
+332. [Sudoku Solver](https://takeuforward.org/data-structure/sudoku-solver/\)
+333. [Data Structure](https://takeuforward.org/data-structure/sum-of-beauty-of-all-substring\)
+334. [Sum Of First N Natural Numbers](https://takeuforward.org/data-structure/sum-of-first-n-natural-numbers/\)
+335. [Data Structure](https://takeuforward.org/data-structure/sum-of-subarray-ranges\)
+336. [Data Structure](https://takeuforward.org/data-structure/swap-two-numbers\)
+337. [Data Structure](https://takeuforward.org/data-structure/swim-in-rising-water\)
+338. [Target Sum Dp 21](https://takeuforward.org/data-structure/target-sum-dp-21/\)
+339. [Data Structure](https://takeuforward.org/data-structure/task-scheduler\)
+340. [Data Structure](https://takeuforward.org/data-structure/top-k-frequent-elements\)
+341. [Topological Sort Algorithm Dfs G 21](https://takeuforward.org/data-structure/topological-sort-algorithm-dfs-g-21/\)
+342. [Top View Of A Binary Tree](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/\)
+343. [Trapping Rainwater](https://takeuforward.org/data-structure/trapping-rainwater/\)
+344. [Two Sum Check If A Pair With Given Sum Exists In Array](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/\)
+345. [Data Structure](https://takeuforward.org/data-structure/two-sum-in-bst-check-if-there-exists-a-pair-with-sum-k\)
+346. [Unbounded Knapsack Dp 23](https://takeuforward.org/data-structure/unbounded-knapsack-dp-23/\)
+347. [Union Of Two Sorted Arrays](https://takeuforward.org/data-structure/union-of-two-sorted-arrays/\)
+348. [Data Structure](https://takeuforward.org/data-structure/valid-paranthesis-checker\)
+349. [Vertical Order Traversal Of Binary Tree](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/\)
+350. [Data Structure](https://takeuforward.org/data-structure/what-are-arrays-strings\)
+351. [Wildcard Matching Dp 34](https://takeuforward.org/data-structure/wildcard-matching-dp-34/\)
+352. [Word Search Leetcode](https://takeuforward.org/data-structure/word-search-leetcode/\)
+353. [Zig Zag Traversal Of Binary Tree](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/\)
+354. [Dsa](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)
+355. [Dsa](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z\)
+356. [Matrix Chain Multiplication Dp 48](https://takeuforward.org/dynamic-programming/matrix-chain-multiplication-dp-48/\)
+357. [Understanding For Loop](https://takeuforward.org/for-loop/understanding-for-loop/\)
+358. [Bipartite Graph Dfs Implementation](https://takeuforward.org/graph/bipartite-graph-dfs-implementation/\)
+359. [Bridges In Graph Using Tarjans Algorithm Of Time In And Low Time G 55](https://takeuforward.org/graph/bridges-in-graph-using-tarjans-algorithm-of-time-in-and-low-time-g-55/\)
+360. [Distance Of Nearest Cell Having 1](https://takeuforward.org/graph/distance-of-nearest-cell-having-1/\)
+361. [G 30 Word Ladder Ii](https://takeuforward.org/graph/g-30-word-ladder-ii/\)
+362. [G 39 Minimum Multiplications To Reach End](https://takeuforward.org/graph/g-39-minimum-multiplications-to-reach-end/\)
+363. [Graph Representation In C](https://takeuforward.org/graph/graph-representation-in-c/\)
+364. [Number Of Enclaves](https://takeuforward.org/graph/number-of-enclaves/\)
+365. [Number Of Islands Ii Online Queries Dsu G 51](https://takeuforward.org/graph/number-of-islands-ii-online-queries-dsu-g-51/\)
+366. [Graph](https://takeuforward.org/graph/strongly-connected-components-kosara)
+367. [Surrounded Regions Replace Os With Xs](https://takeuforward.org/graph/surrounded-regions-replace-os-with-xs/\)
+368. [Word Ladder I G 29](https://takeuforward.org/graph/word-ladder-i-g-29/\)
+369. [Greedy](https://takeuforward.org/Greedy/jump-game-i\)
+370. [Greedy](https://takeuforward.org/Greedy/lemonade-change\)
+371. [Greedy](https://takeuforward.org/Greedy/shortest-job-first-or-sjf-cpu-scheduling\)
+372. [Hashing Maps Time Complexity Collisions Division Rule Of Hashing Strivers A2Z Dsa Course](https://takeuforward.org/hashing/hashing-maps-time-complexity-collisions-division-rule-of-hashing-strivers-a2z-dsa-course/\)
+373. [If Else Statements](https://takeuforward.org/if-else/if-else-statements/\)
+374. [Linked List](https://takeuforward.org/linked-list/delete-the-middle-node-of-the-linked-list\)
+375. [Linked List](https://takeuforward.org/linked-list/find-the-length-of-a-linked-list\)
+376. [Linked List](https://takeuforward.org/linked-list/insert-at-the-head-of-a-linked-list\)
+377. [Linked List](https://takeuforward.org/linked-list/introduction-to-doubly-linked-list\)
+378. [Linked List](https://takeuforward.org/linked-list/length-of-loop-in-linked-list\)
+379. [Linked List](https://takeuforward.org/linked-list/linked-list-introduction\)
+380. [Linked List](https://takeuforward.org/linked-list/search-an-element-in-a-linked-list\)
+381. [Linked List](https://takeuforward.org/linked-list/sort-a-linked-list\)
+382. [Check If A Number Is Armstrong Number Or Not](https://takeuforward.org/maths/check-if-a-number-is-armstrong-number-or-not/\)
+383. [Maths](https://takeuforward.org/maths/reverse-digits-of-a-number\)
+384. [Problems](https://takeuforward.org/plus/dsa/problems/longest-common-prefix?tab=editorial\)
+385. [Introduction To Recursion Understand Recursion By Printing Something N Times](https://takeuforward.org/recursion/introduction-to-recursion-understand-recursion-by-printing-something-n-times/\)
+386. [Print 1 To N Using Recursion](https://takeuforward.org/recursion/print-1-to-n-using-recursion/\)
+387. [Print Name N Times Using Recursion](https://takeuforward.org/recursion/print-name-n-times-using-recursion/\)
+388. [Print N To 1 Using Recursion](https://takeuforward.org/recursion/print-n-to-1-using-recursion/\)
+389. [Takeuforward.Org](https://takeuforward.org/?s=Insert+Interval\)
+390. [Selection Sort Algorithm](https://takeuforward.org/sorting/selection-sort-algorithm/\)
+391. [Must Do Pattern Problems Before Starting Dsa](https://takeuforward.org/strivers-a2z-dsa-course/must-do-pattern-problems-before-starting-dsa/\)
+392. [Switch Case Statements](https://takeuforward.org/switch-case/switch-case-statements/\)
+393. [Time And Space Complexity Strivers A2Z Dsa Course](https://takeuforward.org/time-complexity/time-and-space-complexity-strivers-a2z-dsa-course/\)
+394. [Maximum Xor Queries Trie](https://takeuforward.org/trie/maximum-xor-queries-trie/\)
+395. [While Loops In Programming](https://takeuforward.org/while-loop/while-loops-in-programming/\)
